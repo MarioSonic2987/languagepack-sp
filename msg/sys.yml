@@ -1,0 +1,9308 @@
+﻿- id: 479
+  en: '-'
+- id: 480
+  en: Atacar
+- id: 481
+  en: Magia
+- id: 482
+  en: Objeto
+- id: 483
+  en: Fusión
+- id: 484
+  en: Revertir
+- id: 485
+  en: Forma valiente
+- id: 486
+  en: Forma sabia
+- id: 487
+  en: Forma maestra
+- id: 488
+  en: Forma final
+- id: 489
+  en: Antiforma
+- id: 490
+  en: Hablar
+- id: 491
+  en: Observar
+- id: 492
+  en: Finta
+- id: 493
+  en: Full Swing
+- id: 494
+  en: Placaje
+- id: 495
+  en: Snag
+- id: 496
+  en: Sparkle Ray
+- id: 497
+  en: Abrir
+- id: 498
+  en: Agrabah
+- id: 499
+  en: Bazar
+- id: 500
+  en: Tienda del mercader
+- id: 501
+  en: Palacio
+- id: 502
+  en: Bóveda
+- id: 503
+  en: Agrabah desde el aire
+- id: 504
+  en: Puertas del palacio
+- id: 505
+  en: Cueva de las Maravillas - Entrada
+- id: 507
+  en: Cueva de las Maravillas - Guardianes de piedra
+- id: 508
+  en: Cueva de las Maravillas - Sala del tesoro
+- id: 509
+  en: Cámara en ruinas
+- id: 510
+  en: Cueva de las Maravillas - Valle de piedra
+- id: 511
+  en: '{:width 95} Cueva de las Maravillas - Abismo de los Desafíos'
+- id: 512
+  en: Ruinas Enterradas
+- id: 513
+  en: Tienda del mercader
+- id: 514
+  en: Vestíbulo
+- id: 515
+  en: Sala de estar
+- id: 516
+  en: Cuarto de Bella
+- id: 517
+  en: Cuarto de Bestia
+- id: 518
+  en: Salón de baile
+- id: 519
+  en: Salón de baile
+- id: 520
+  en: Patio
+- id: 521
+  en: Ala este
+- id: 522
+  en: Corredor oeste
+- id: 523
+  en: Ala oeste
+- id: 524
+  en: Mazmorra
+- id: 525
+  en: Sótano
+- id: 526
+  en: Pasadizo secreto
+- id: 527
+  en: Puente
+- id: 528
+  en: Salón de baile
+- id: 529
+  en: Mundo ZZ
+- id: 530
+  en: Fin del mar
+- id: 531
+  en: Villa Crepúsculo
+- id: 532
+  en: Islas del Destino
+- id: 533
+  en: Bastión Hueco
+- id: 534
+  en: Castillo de Bestia
+- id: 535
+  en: Coliseo del Olimpo
+- id: 536
+  en: Agrabah
+- id: 537
+  en: Tierra de Dragones
+- id: 538
+  en: Bosque de los Cien Acres
+- id: 539
+  en: Tierras del Reino
+- id: 540
+  en: Atlántica
+- id: 541
+  en: Castillo Disney
+- id: 542
+  en: Río Eterno
+- id: 543
+  en: Ciudad de Halloween
+- id: 544
+  en: Mundo FA
+- id: 545
+  en: Port Royal
+- id: 546
+  en: Espacio Paranoico
+- id: 547
+  en: El Mundo Inexistente
+- id: 548
+  en: Lluvia de asteroides
+- id: 549
+  en: Polvo de estrellas
+- id: 550
+  en: Carretera truncada
+- id: 551
+  en: Carretera antigua
+- id: 552
+  en: Tormenta fantasma
+- id: 553
+  en: Tormenta solar
+- id: 554
+  en: Isla del rocío
+- id: 555
+  en: Isla flotante
+- id: 556
+  en: Asalto del acorazado
+- id: 563
+  en: Sala de audiencias
+- id: 564
+  en: Biblioteca
+- id: 565
+  en: Pórtico
+- id: 566
+  en: Jardines
+- id: 567
+  en: Salón de la Piedra Angular
+- id: 568
+  en: Salón de la Piedra Angular
+- id: 569
+  en: Hangar gumi
+- id: 570
+  en: Páramo inhóspito
+- id: 571
+  en: Aposentos del rey
+- id: 572
+  en: Gruta de Ariel
+- id: 573
+  en: Jardín oceánico
+- id: 574
+  en: Jardín oceánico
+- id: 575
+  en: Palacio - Salón de actos
+- id: 576
+  en: Barco hundido
+- id: 577
+  en: Orilla
+- id: 578
+  en: Orilla
+- id: 579
+  en: Bosque de bambú
+- id: 580
+  en: Campamento
+- id: 581
+  en: Puesto de control
+- id: 582
+  en: Sendero de montaña
+- id: 583
+  en: Aldea
+- id: 584
+  en: Cueva
+- id: 585
+  en: Cresta
+- id: 586
+  en: Cumbre
+- id: 587
+  en: Plaza Imperial
+- id: 588
+  en: Puertas del palacio
+- id: 589
+  en: Antecámara
+- id: 590
+  en: Sala del trono
+- id: 591
+  en: Aldea
+- id: 592
+  en: Celda
+- id: 593
+  en: Cañón
+- id: 594
+  en: Rejilla de juego
+- id: 595
+  en: Entorno de datos
+- id: 596
+  en: Torre I/O - Corredor
+- id: 597
+  en: Torre I/O - Sala de comunicaciones
+- id: 598
+  en: Hangar de simulación
+- id: 599
+  en: Simulación del navegador solar
+- id: 600
+  en: Loma del ordenador central
+- id: 601
+  en: Núcleo del ordenador central
+- id: 602
+  en: Simulación del navegador solar
+- id: 603
+  en: Roca del Clan
+- id: 604
+  en: Oquedad
+- id: 605
+  en: Cubil del rey
+- id: 606
+  en: Valle del Ñu
+- id: 607
+  en: Sabana
+- id: 608
+  en: Cementerio de los Elefantes
+- id: 609
+  en: Garganta
+- id: 610
+  en: Tierras baldías
+- id: 611
+  en: Jungla
+- id: 612
+  en: Oasis
+- id: 613
+  en: Roca del Clan
+- id: 614
+  en: Oasis
+- id: 615
+  en: Atalaya
+- id: 616
+  en: Risco
+- id: 617
+  en: Bosque de los Cien Acres
+- id: 618
+  en: Colina de las estrellas
+- id: 619
+  en: Casa de Winnie Pooh
+- id: 620
+  en: Casa de Conejo
+- id: 621
+  en: Casa de Piglet
+- id: 622
+  en: Casa de Cangu
+- id: 623
+  en: El Día del Viento
+- id: 624
+  en: A por la miel
+- id: 625
+  en: Valle de las flores
+- id: 626
+  en: Cueva tenebrosa
+- id: 632
+  en: >-
+    Goofy:
+
+    ¡Tenemos que hacer algo!
+- id: 634
+  en: >-
+    Sora:
+
+    ¡Tenemos que ir al palacio!
+- id: 635
+  en: ''
+- id: 636
+  en: >-
+    Sora:
+
+    Algo no va bien...
+- id: 637
+  en: ''
+- id: 638
+  en: >-
+    Sora:
+
+    ¡Vamos, sigamos a Aladdín!
+- id: 639
+  en: ''
+- id: 642
+  en: >-
+    Ping:
+
+    Necesitamos permiso
+
+    del Capitán.
+- id: 644
+  en: >-
+    Ping:
+
+    Ahora no podemos ir a la
+
+    ciudad.
+- id: 648
+  en: >-
+    Mulan:
+
+    Mejor no. No queremos
+
+    ofender a nadie.
+- id: 652
+  en: >-
+    Mulan:
+
+    Algo va mal. No podemos
+
+    entrar por aquí.
+- id: 662
+  en: >-
+    Sora:
+
+    No creo que podamos abrirla.
+- id: 664
+  en: >-
+    Sora:
+
+    ¡Tenemos que ayudarla!
+- id: 666
+  en: >-
+    Sora:
+
+    ¡Tenemos que ayudarla!
+- id: 668
+  en: >-
+    Sora:
+
+    Por aquí no llegaremos a Hades.
+- id: 672
+  en: >-
+    Auron:
+
+    Sería muy peligroso regresar ahora.
+- id: 676
+  en: >-
+    Sora:
+
+    ¿Y qué hay de Cerbero?
+- id: 680
+  en: >-
+    Sora:
+
+    Pobre Hércules... No
+
+    podemos abandonarlo.
+- id: 682
+  en: >-
+    Sora:
+
+    ¡Hércules está luchando!
+- id: 686
+  en: Colina de la Piedra Angular
+- id: 687
+  en: Muelle
+- id: 688
+  en: Canal
+- id: 689
+  en: Embarcadero
+- id: 690
+  en: Liliput
+- id: 691
+  en: Edificio en construcción
+- id: 692
+  en: Escena del incendio
+- id: 693
+  en: Casa de Mickey
+- id: 694
+  en: Valle del Villano
+- id: 695
+  en: Margen Oscuro
+- id: 696
+  en: ???
+- id: 697
+  en: Plaza de la Guillotina
+- id: 698
+  en: Laboratorio del Dr. Finkelstein
+- id: 699
+  en: Cementerio
+- id: 700
+  en: Colina de la Luna
+- id: 701
+  en: Tierras Remotas
+- id: 702
+  en: Colina de las Navidades
+- id: 703
+  en: Calle de los Dulces
+- id: 704
+  en: Plaza de los Arbolitos
+- id: 705
+  en: Casa de Santa Claus
+- id: 706
+  en: Taller de juguetes - Sala de clasificación
+- id: 707
+  en: Taller de juguetes - Sala de embalaje
+- id: 708
+  en: Coliseo
+- id: 709
+  en: Puertas del Coliseo
+- id: 710
+  en: Puertas del Coliseo
+- id: 711
+  en: Entrada del Inframundo
+- id: 712
+  en: Antesala del Coliseo
+- id: 713
+  en: Valle de los Muertos
+- id: 714
+  en: Aposentos de Hades
+- id: 715
+  en: Cueva de los Muertos - Entrada
+- id: 716
+  en: Pozo de los Condenados
+- id: 717
+  en: Infiernódromo
+- id: 718
+  en: Cueva de los Muertos - Cámara interior
+- id: 719
+  en: Cavernas del Inframundo - Entrada
+- id: 720
+  en: Sala del Sello
+- id: 721
+  en: Infiernódromo
+- id: 722
+  en: Puertas del Coliseo
+- id: 723
+  en: Cueva de los Muertos - Túneles
+- id: 724
+  en: Cavernas del Inframundo - Senda de la Perdición
+- id: 725
+  en: Cavernas del Inframundo - Atrio
+- id: 726
+  en: Valle del Villano
+- id: 727
+  en: Oscuras Profundidades
+- id: 728
+  en: Gran Garganta
+- id: 729
+  en: Quebrada de Cristal
+- id: 730
+  en: Puertas del castillo
+- id: 731
+  en: Estudio de Ansem
+- id: 732
+  en: Postigo
+- id: 733
+  en: Obras de restauración
+- id: 734
+  en: Patio interior
+- id: 735
+  en: Zona residencial
+- id: 736
+  en: Lugar secreto
+- id: 737
+  en: Isla principal - Camino al mar
+- id: 738
+  en: Isla principal - Playa
+- id: 739
+  en: Reino vacío
+- id: 740
+  en: Cuarto de Roxas
+- id: 741
+  en: El lugar de siempre
+- id: 742
+  en: Callejuela
+- id: 743
+  en: Solar deportivo
+- id: 744
+  en: Baluarte
+- id: 745
+  en: Puerto
+- id: 746
+  en: Ciudad
+- id: 747
+  en: El "Interceptor"
+- id: 748
+  en: El "Interceptor" - Bodega
+- id: 749
+  en: La "Perla Negra"
+- id: 750
+  en: La "Perla Negra" - Camarote del capitán
+- id: 751
+  en: El "Interceptor"
+- id: 752
+  en: Isla de Muerta - Acantilados
+- id: 753
+  en: Isla de Muerta - Boca de la gruta
+- id: 754
+  en: Isla de Muerta - Cámara del tesoro
+- id: 755
+  en: Cementerio de barcos - Bodega del "Interceptor"
+- id: 756
+  en: Isla de Muerta - Polvorín
+- id: 757
+  en: Isla de Muerta - Claro de luna
+- id: 758
+  en: Cementerio de barcos - Fortín de despojos
+- id: 759
+  en: Cementerio de barcos - Quebrada del Náufrago
+- id: 760
+  en: Poción
+- id: 761
+  en: >-
+    Devuelve 40% de VT al personaje.
+
+    Equipable.
+- id: 762
+  en: Ultrapoción
+- id: 763
+  en: >-
+    Devuelve 60% de VT al personaje
+
+    Equipable.
+- id: 764
+  en: Éter
+- id: 765
+  en: >-
+    Recupera PM del personaje. En Carga
+
+    PM, llena el indicador. Equipable.{:reset}
+- id: 766
+  en: Elixir
+- id: 767
+  en: >-
+    Devuelve toda la VT y los PM al
+
+    personaje. Equipable.
+- id: 768
+  en: Omnipoción
+- id: 769
+  en: >-
+    Devuelve 40% de VT al grupo.
+
+    Equipable.
+- id: 770
+  en: Omniéter
+- id: 771
+  en: >-
+    Recupera PM del grupo. En Carga PM,
+
+    llena el indicador. Equipable.{:reset}
+- id: 772
+  en: Omnielixir
+- id: 773
+  en: >-
+    Devuelve por completo la VT y los
+
+    PM al grupo. Equipable.
+- id: 1093
+  en: '{:position 30,28}OK'
+- id: 1094
+  en: '{:position 30,28}Yes'
+- id: 1095
+  en: '{:position 25,28}No'
+- id: 1096
+  en: –––
+- id: 1097
+  en: 	Ninguno
+- id: 1098
+  en: No hay objetos.
+- id: 1099
+  en: Objetos
+- id: 1100
+  en: Equipo
+- id: 1101
+  en: Habilidades
+- id: 1102
+  en: Grupo
+- id: 1103
+  en: Condición
+- id: 1104
+  en: Diario de Pepito
+- id: 1105
+  en: Configuración
+- id: 1106
+  en: Opciones
+- id: 1107
+  en: Selecciona.
+- id: 1108
+  en: '{:icon button-triangle}'
+- id: 1109
+  en: Baúl
+- id: 1110
+  en: Usar
+- id: 1111
+  en: Desechar
+- id: 1112
+  en: Unused
+- id: 1113
+  en: Selecciona un objeto.
+- id: 1114
+  en: No hay objetos.
+- id: 1115
+  en: Armas
+- id: 1116
+  en: Cambia el arma principal.
+- id: 1117
+  en: Valiente
+- id: 1118
+  en: Cambia el arma secundaria usada en Forma valiente.
+- id: 1119
+  en: Maestra
+- id: 1120
+  en: Cambia el arma secundaria usada en Forma maestra.
+- id: 1121
+  en: Final
+- id: 1122
+  en: Cambiar el arma secundaria usada en Forma final.
+- id: 1123
+  en: Armadura
+- id: 1124
+  en: Cambia de armadura.
+- id: 1125
+  en: Accesorios
+- id: 1126
+  en: Cambia accesorios.
+- id: 1127
+  en: Objetos
+- id: 1128
+  en: Cambia objetos.
+- id: 1129
+  en: Quitar objetos.
+- id: 1130
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+      Si se desactiva la función {:icon auto-equip}{:color #00FF0080}Autorrecarga{:reset}
+      para este objeto, se quitarán todos los
+      objetos del mismo tipo que lleves contigo.
+     ¿Quieres desactivar la función {:icon auto-equip}{:color #00FF0080}Autorrecarga{:reset}?
+- id: 1131
+  en: Selecciona un miembro del grupo.
+- id: 1132
+  en: Reemplaza a un miembro del grupo.
+- id: 1133
+  en: '{:color #F0F00080}Han cambiado los miembros del grupo.{:reset}'
+- id: 1134
+  en: Entra en el grupo
+- id: 1135
+  en: Sale del grupo
+- id: 1136
+  en: El equipo de Goofy se ha colocado en el baúl.
+- id: 1137
+  en: El equipo de Sparrow se ha colocado en el baúl.
+- id: 1138
+  en: El equipo de Auron se ha colocado en el baúl.
+- id: 1139
+  en: No puedes reemplazar a Auron ahora.
+- id: 1140
+  en: No puedes reemplazar a Mulán ahora.
+- id: 1141
+  en: No puedes reemplazar a Aladdín ahora.※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※No puedes reemplazar a Bestia ahora.
+- id: 1142
+  en: >-
+    No se puede reemplazar a los miembros del grupo ni usar
+
+    Invocar hasta que termine la lucha.
+- id: 1143
+  en: ''
+- id: 1144
+  en: No puedes reemplazar a Jack ahora.
+- id: 1145
+  en: No puedes reemplazar a Simba ahora.
+- id: 1146
+  en: No puedes reemplazar a Tron ahora.
+- id: 1147
+  en: No puedes reemplazar a Riku ahora.
+- id: 1148
+  en: >-
+    Ping se unirá al grupo y no podrás
+
+    reemplazarlo por un tiempo.
+- id: 1149
+  en: '{:icon button-circle}'
+- id: 1150
+  en: '{:icon button-triangle}'
+- id: 1151
+  en: '{:icon button-square}'
+- id: 1152
+  en: '{:icon button-cross}'
+- id: 1153
+  en: Carga PM
+- id: 1154
+  en: Autorrecarga
+- id: 1155
+  en: Tipo de ataque
+- id: 1156
+  en: Habilidades
+- id: 1158
+  en: '{:icon ai-settings}Ataque propio'
+- id: 1159
+  en: '{:icon ai-settings}Ataque a objetivo'
+- id: 1160
+  en: '{:icon ai-settings}Ataque compacto'
+- id: 1161
+  en: '{:icon ai-settings}Ataque masivo'
+- id: 1162
+  en: '{:icon ai-settings}Apoyo a Sora'
+- id: 1163
+  en: '{:icon ai-settings}Ataque sin pausa'
+- id: 1164
+  en: Aullido doble
+- id: 1165
+  en: Colmillo fiel
+- id: 1166
+  en: Alarido
+- id: 1167
+  en: Aullido final
+- id: 1168
+  en: Bushido
+- id: 1169
+  en: Estrella fugaz
+- id: 1170
+  en: Castigo místico
+- id: 1171
+  en: Espiral
+- id: 1172
+  en: Cohete rojo
+- id: 1173
+  en: Lengua ígnea
+- id: 1174
+  en: Lanza ardiente
+- id: 1175
+  en: Meteoro carmesí
+- id: 1176
+  en: Giro Goofy
+- id: 1177
+  en: Giro Goofy+
+- id: 1178
+  en: Giro Goofy++
+- id: 1179
+  en: Con el viento
+- id: 1180
+  en: Elevarse
+- id: 1181
+  en: Ciclón
+- id: 1182
+  en: Bloqueo
+- id: 1183
+  en: Contra
+- id: 1184
+  en: Machada
+- id: 1185
+  en: ¡Salta!
+- id: 1186
+  en: Eludir
+- id: 1187
+  en: Chapoteo
+- id: 1188
+  en: Empujar
+- id: 1189
+  en: Empujar más
+- id: 1190
+  en: Despertar
+- id: 1191
+  en: Liberar
+- id: 1192
+  en: Finta
+- id: 1193
+  en: Sacudida
+- id: 1194
+  en: Meteórico
+- id: 1195
+  en: Deslizarse
+- id: 1196
+  en: Vértigo
+- id: 1197
+  en: Agarrarse
+- id: 1198
+  en: Soltarse
+- id: 1199
+  en: Conectar
+- id: 1200
+  en: Chillido
+- id: 1201
+  en: Quitar lanza
+- id: 1202
+  en: Aprender
+- id: 1203
+  en: Saltar
+- id: 1204
+  en: ¡Espabila!
+- id: 1205
+  en: ¡Despierta!
+- id: 1206
+  en: Cargar
+- id: 1207
+  en: Salto ágil
+- id: 1208
+  en: Honda
+- id: 1209
+  en: Liberar
+- id: 1210
+  en: Agarrar
+- id: 1211
+  en: Giro pendular
+- id: 1212
+  en: Liberar
+- id: 1213
+  en: Encender
+- id: 1214
+  en: Restablecer
+- id: 1215
+  en: Rociar
+- id: 1216
+  en: Sometimiento
+- id: 1217
+  en: Fin
+- id: 1218
+  en: Abrir puerta
+- id: 1219
+  en: Entrar en el libro
+- id: 1220
+  en: Salir del libro
+- id: 1221
+  en: Emprender viaje
+- id: 1222
+  en: Teleportación
+- id: 1223
+  en: Tienda
+- id: 1224
+  en: Conversar
+- id: 1225
+  en: Mover
+- id: 1226
+  en: Pedir ayuda
+- id: 1227
+  en: Conversar
+- id: 1228
+  en: Persuadir
+- id: 1229
+  en: Informar
+- id: 1230
+  en: Preguntar por las misiones
+- id: 1231
+  en: Observar el libro
+- id: 1232
+  en: Hablar
+- id: 1233
+  en: Toquetear
+- id: 1234
+  en: Conversar
+- id: 1235
+  en: Conversar
+- id: 1236
+  en: Competir
+- id: 1237
+  en: Competir
+- id: 1238
+  en: Detener
+- id: 1239
+  en: Ir al torneo
+- id: 1240
+  en: Competir
+- id: 1241
+  en: Ayudar
+- id: 1242
+  en: Entrenar
+- id: 1243
+  en: Conversar
+- id: 1244
+  en: Castigar
+- id: 1245
+  en: Saludar
+- id: 1246
+  en: Saludar
+- id: 1247
+  en: Rescatar
+- id: 1248
+  en: Pedir la botella
+- id: 1249
+  en: Saludar
+- id: 1250
+  en: Animar
+- id: 1251
+  en: Conversar
+- id: 1252
+  en: Preguntar
+- id: 1253
+  en: Interrogar
+- id: 1254
+  en: Emprender viaje
+- id: 1255
+  en: ¿¿¿???
+- id: 1256
+  en: Pedir consejo
+- id: 1257
+  en: Hacer juguetes
+- id: 1258
+  en: Acceder al ordenador
+- id: 1259
+  en: Acceder al ordenador
+- id: 1283
+  en: '¿?'
+- id: 1284
+  en: Invocar
+- id: 1285
+  en: Grupo
+- id: 1286
+  en: Guardar
+- id: 1287
+  en: Límite
+- id: 1288
+  en: Piro
+- id: 1289
+  en: Piro+
+- id: 1290
+  en: Piro++
+- id: 1291
+  en: Electro
+- id: 1292
+  en: Electro+
+- id: 1293
+  en: Electro++
+- id: 1294
+  en: Hielo
+- id: 1295
+  en: Hielo+
+- id: 1296
+  en: Hielo++
+- id: 1297
+  en: Cura
+- id: 1298
+  en: Cura+
+- id: 1299
+  en: Cura++
+- id: 1300
+  en: Magneto
+- id: 1301
+  en: Magneto+
+- id: 1302
+  en: Magneto++
+- id: 1303
+  en: Reflejo
+- id: 1304
+  en: Reflejo+
+- id: 1305
+  en: Reflejo++
+- id: 1308
+  en: Stitch
+- id: 1309
+  en: Genio
+- id: 1311
+  en: Sora
+- id: 1312
+  en: Donald
+- id: 1313
+  en: Goofy
+- id: 1314
+  en: Mickey
+- id: 1315
+  en: Auron
+- id: 1316
+  en: Ping
+- id: 1317
+  en: Mulán
+- id: 1318
+  en: Aladdin
+- id: 1319
+  en: Sparrow
+- id: 1320
+  en: Bestia
+- id: 1321
+  en: Jack
+- id: 1322
+  en: Simba
+- id: 1323
+  en: Tron
+- id: 1324
+  en: Riku
+- id: 1325
+  en: Roxas
+- id: 1331
+  en: >-
+    Sora:
+
+    ¡No creo que Aladdín esté por allí!
+- id: 1332
+  en: ''
+- id: 1333
+  en: >-
+    Sora:
+
+    La tienda del mercader no es por allí...
+- id: 1334
+  en: ''
+- id: 1335
+  en: >-
+    Sora:
+
+    La tienda del mercader no es por allí...
+- id: 1336
+  en: ''
+- id: 1337
+  en: >-
+    Iago:
+
+    ¡Eh! ¿¡Y yo!?
+- id: 1338
+  en: ''
+- id: 1339
+  en: >-
+    Sora:
+
+    Hablemos antes con Bestia.
+- id: 1340
+  en: ''
+- id: 1341
+  en: >-
+    Sora:
+
+    Hablemos antes con Bestia.
+- id: 1342
+  en: ''
+- id: 1343
+  en: >-
+    Sora:
+
+    Hablemos antes con Bestia.
+- id: 1344
+  en: ''
+- id: 1345
+  en: >-
+    Sora:
+
+    Hablemos antes con Bestia.
+- id: 1346
+  en: ''
+- id: 1347
+  en: >-
+    Sora:
+
+    No creo que se vaya a abrir.
+- id: 1349
+  en: >-
+    Sora:
+
+    ¡Los gritos no venían de por aquí!
+- id: 1350
+  en: ''
+- id: 1351
+  en: >-
+    Sora:
+
+    ¡Se dirigían a la ciudad!
+- id: 1352
+  en: ''
+- id: 1353
+  en: >-
+    Sora:
+
+    Revisemos la cueva.
+- id: 1354
+  en: ''
+- id: 1358
+  en: ''
+- id: 1359
+  en: >-
+    Sora:
+
+    ¡Espera la señal de Will!
+- id: 1360
+  en: ''
+- id: 1361
+  en: >-
+    Sora:
+
+    Parecía venir del
+
+    puerto.
+- id: 1375
+  en: >-
+    Minnie:
+
+    La sala de audiencias no es por ahí.
+- id: 1376
+  en: ''
+- id: 1377
+  en: >-
+    Sora:
+
+    ¡Deprisa, a la sala de audiencias!
+- id: 1378
+  en: ''
+- id: 1379
+  en: >-
+    Sora:
+
+    Será mejor que la Reina venga conmigo.
+- id: 1380
+  en: ''
+- id: 1381
+  en: >-
+    Sora:
+
+    ¡Entremos al libro a ver a Pooh!
+- id: 1391
+  en: >-
+    Sora:
+
+    Scar debe de estar cerca...
+- id: 1393
+  en: >-
+    Sora:
+
+    Pero ese es el lugar de Rafiki.
+- id: 1395
+  en: >-
+    Sora:
+
+    Tenebroso... Mantengámonos fuera.
+- id: 1397
+  en: >-
+    Sora:
+
+    ¡Todos nos esperan en la Roca del Clan!
+- id: 1399
+  en: >-
+    Sora:
+
+    No podemos ir a la sabana.
+- id: 1401
+  en: >-
+    Sora:
+
+    No podemos ir a la garganta.
+- id: 1403
+  en: >-
+    Sora:
+
+    Simba necesita que
+
+    le animemos.
+- id: 1405
+  en: >-
+    Sora:
+
+    ¿Y si antes probamos con ese musical?
+- id: 1407
+  en: >-
+    Sora:
+
+    ¡Vamos, sigamos a Flounder!
+- id: 1408
+  en: >-
+    Sora:
+
+    No es por aquí.
+- id: 1410
+  en: >-
+    Ping:
+
+    ¿Qué hay de nuestra misión?
+- id: 1412
+  en: >-
+    Mushu:
+
+    ¡Shan Yu ha entrado en esa cueva!
+- id: 1414
+  en: >-
+    Sora:
+
+    Mmm... Creo que no podemos ir por aquí.
+- id: 1416
+  en: >-
+    Sora:
+
+    Vamos a ver al Dr. Finkelstein.
+- id: 1417
+  en: ''
+- id: 1418
+  en: >-
+    Sora:
+
+    ¡Zero no ha ido por aquí!
+- id: 1419
+  en: ''
+- id: 1420
+  en: >-
+    Sora:
+
+    ¡Oogie ha bloqueado esta salida!
+- id: 1421
+  en: ¡Oogie ha bloqueado esta salida!
+- id: 1422
+  en: >-
+    Sora:
+
+    ¡Atrapemos a esos tres bromistas!
+- id: 1423
+  en: ''
+- id: 1424
+  en: >-
+    Sora:
+
+    No podemos entrar sin llamar.
+- id: 1425
+  en: ''
+- id: 1426
+  en: >-
+    Sora:
+
+    No se abre. ¿Estará
+
+    trabajando?
+- id: 1427
+  en: ''
+- id: 1428
+  en: >-
+    Sora:
+
+    No podemos entrar en el laboratorio.
+- id: 1429
+  en: ''
+- id: 1430
+  en: >-
+    Sora:
+
+    No creo que Pooh esté
+
+    por ahí.
+- id: 1431
+  en: ''
+- id: 1432
+  en: >-
+    Sora:
+
+    Será mejor escuchar la
+
+    opinión de los demás.
+- id: 1433
+  en: >-
+    Sora:
+
+    ¡Tengo que traerlos a todos!
+- id: 1434
+  en: >-
+    Sora:
+
+    ¡Pete no está por ahí!
+- id: 1435
+  en: ''
+- id: 1436
+  en: >-
+    Sora:
+
+    ¡Deprisa, o perderemos
+
+    a Pete!
+- id: 1437
+  en: ''
+- id: 1438
+  en: '{:icon exclamation-mark}Por favor, inserta de nuevo el disco de Kingdom Hearts {II}.'
+- id: 1452
+  en: Tienda
+- id: 1453
+  en: >-
+    Devuelve por completo la VT y los
+
+    PM al grupo. Solo puede usarse
+
+    en el menú.
+- id: 1474
+  en: Cadena del reino
+- id: 1475
+  en: >-
+    Llavero original de la llave espada.
+
+    Reduce el daño a la mitad en
+
+    momentos críticos.
+- id: 1476
+  en: Prometida
+- id: 1477
+  en: >-
+    Mejora la magia y aumenta la
+
+    duración de una Forma de Fusión.
+- id: 1478
+  en: Recuerdos lejanos
+- id: 1479
+  en: >-
+    Tiene gran poder y permite que el
+
+    indicador de Fusión se recupere
+
+    rápidamente durante la Carga PM.
+- id: 1480
+  en: Sable detector
+- id: 1481
+  en: >-
+    La llave espada más larga que
+
+    existe. Con este arma puedes
+
+    detectar movimientos.
+- id: 1482
+  en: Filo Artema
+- id: 1483
+  en: >-
+    Una llave espada al Arma Artema
+
+    que posee Sora.
+
+    Sirve para detectar movimientos.
+- id: 1484
+  en: Antiform Dummy
+- id: 1485
+  en: Dummy
+- id: 1486
+  en: Bastón de mago
+- id: 1487
+  en: Bastón propio de un mago.
+- id: 1492
+  en: Escudo leal
+- id: 1493
+  en: Un escudo propio de un caballero.
+- id: 1494
+  en: Escudo detector
+- id: 1495
+  en: >-
+    Hecho con lo mejor de cada escudo.
+
+    Sirve para detectar movimientos.
+- id: 1496
+  en: El rey, a prueba
+- id: 1497
+  en: ¡Un escudo familiar y muy poderoso!
+- id: 1498
+  en: Cimitarra
+- id: 1499
+  en: >-
+    ¡Una espada ligera como una
+
+    pluma para ataques veloces!
+- id: 1500
+  en: Campos de batalla
+- id: 1501
+  en: Realiza varios ataques.
+- id: 1502
+  en: Espada ancestral
+- id: 1503
+  en: >-
+    Útil para luchar contra enemigos
+
+    cercanos.
+- id: 1505
+  en: Dummy
+- id: 1506
+  en: Disco de identidad
+- id: 1507
+  en: Ataca a enemigos desde lejos.
+- id: 1509
+  en: Dummy
+- id: 1510
+  en: Garras de Bestia
+- id: 1511
+  en: ' '
+- id: 1512
+  en: Puño huesudo
+- id: 1513
+  en: ' '
+- id: 1514
+  en: Colmillo orgulloso
+- id: 1515
+  en: ' '
+- id: 1516
+  en: Calavera y huesos
+- id: 1517
+  en: >-
+    Es la mejor amiga de un pirata.
+
+    Puede rechazar ataques enemigos.
+- id: 1518
+  en: Camino al alba
+- id: 1519
+  en: Realiza varios ataques.
+- id: 1522
+  en: Páginas arrancadas
+- id: 1523
+  en: >-
+    Páginas arrancadas del libro de
+
+    Merlín. Trata de pegarlas de nuevo.
+- id: 1532
+  en: Mapa de navegación
+- id: 1533
+  en: >-
+    Mapa de navegación
+
+    para modo debug.
+- id: 1534
+  en: Castillo de Bestia
+- id: 1535
+  en: Un mapa del lugar.
+- id: 1536
+  en: Sótano
+- id: 1537
+  en: Un mapa del lugar.
+- id: 1538
+  en: Murallas del castillo
+- id: 1539
+  en: Un mapa del lugar.
+- id: 1540
+  en: Coliseo
+- id: 1541
+  en: Un mapa del lugar.
+- id: 1542
+  en: Inframundo
+- id: 1543
+  en: Un mapa del lugar.
+- id: 1544
+  en: Cavernas
+- id: 1545
+  en: Un mapa del lugar.
+- id: 1546
+  en: Palacio
+- id: 1547
+  en: Un mapa del lugar.
+- id: 1548
+  en: Campamento
+- id: 1549
+  en: Un mapa del lugar.
+- id: 1550
+  en: Aldea
+- id: 1551
+  en: Un mapa del lugar.
+- id: 1552
+  en: Colina
+- id: 1553
+  en: Un mapa del lugar.
+- id: 1554
+  en: Ventana temporal 2
+- id: 1555
+  en: Un mapa del lugar.
+- id: 1556
+  en: Lilliput
+- id: 1557
+  en: Un mapa del lugar.
+- id: 1558
+  en: Edificio
+- id: 1559
+  en: Un mapa del lugar.
+- id: 1560
+  en: Casa de Mickey
+- id: 1561
+  en: Un mapa del lugar.
+- id: 1562
+  en: Castillo Disney
+- id: 1563
+  en: Un mapa del lugar.
+- id: 1564
+  en: Agrabah
+- id: 1565
+  en: Un mapa del lugar.
+- id: 1566
+  en: Cueva de las Maravillas
+- id: 1567
+  en: Un mapa del lugar.
+- id: 1568
+  en: Ruinas Enterradas
+- id: 1569
+  en: Un mapa del lugar.
+- id: 1570
+  en: Atlántica
+- id: 1571
+  en: Un mapa del lugar.
+- id: 1572
+  en: Colina de las estrellas
+- id: 1573
+  en: Un mapa del lugar.
+- id: 1574
+  en: Bosque de los Cien Acres
+- id: 1575
+  en: Un mapa del lugar.
+- id: 1576
+  en: Casa de Conejo
+- id: 1577
+  en: Un mapa del lugar.
+- id: 1578
+  en: Casa de Piglet
+- id: 1579
+  en: Un mapa del lugar.
+- id: 1580
+  en: Casa de Cangu
+- id: 1581
+  en: Un mapa del lugar.
+- id: 1582
+  en: Cueva tenebrosa
+- id: 1583
+  en: Un mapa del lugar.
+- id: 1588
+  en: Fuego elemental
+- id: 1589
+  en: >-
+    Te verás envuelto en llamas.
+
+    {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} 12{:reset}
+- id: 1590
+  en: Hielo elemental
+- id: 1591
+  en: >-
+    Descarga cristales de hielo sobre el
+
+    objetivo. {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} 15{:reset}
+- id: 1592
+  en: Rayo elemental
+- id: 1593
+  en: >-
+    Lanza rayos al objetivo.
+
+    {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} 18{:reset}
+- id: 1594
+  en: Cura elemental
+- id: 1595
+  en: >-
+    Devuelve la VT.
+
+    {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} todos{:reset}
+- id: 1596
+  en: Magneto elemental
+- id: 1597
+  en: >-
+    Su poder acerca al enemigo.
+
+    {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} 30{:reset}
+- id: 1598
+  en: Reflejo elemental
+- id: 1599
+  en: >-
+    Evita y devuelve ataques enemigos.
+
+    {:width 90}Se usa en el comando Magia. {:color #F0F00080}Coste PM:{:width 100} 10{:reset}
+- id: 1600
+  en: Amuleto ukelele
+- id: 1601
+  en: >-
+    Con la ayuda de dos amigos, usa
+
+    el comando Invocar y
+
+    Stitch te echará una mano.
+- id: 1602
+  en: Forma valiente
+- id: 1603
+  en: >-
+    Con ayuda de Goofy, usa el
+
+    comando Fusión y cambiarás a
+
+    Forma valiente.
+- id: 1604
+  en: Forma sabia
+- id: 1605
+  en: >-
+    Con ayuda de Donald, usa el
+
+    comando Fusión y cambiarás a
+
+    Forma sabia.
+- id: 1606
+  en: Forma maestra
+- id: 1607
+  en: >-
+    Con ayuda de dos amigos, usa el
+
+    comando Fusión y cambiarás a
+
+    Forma maestra.
+- id: 1608
+  en: Forma final
+- id: 1609
+  en: >-
+    Con el verdadero poder de la llave espada,
+
+    usa el comando Fusión y cambiarás a
+
+    Forma final.
+- id: 1610
+  en: Antiforma
+- id: 1611
+  en: >-
+    Con la oscuridad del corazón de Sora,
+
+    usa el comando Fusión y cambiarás a
+
+    Antiforma.
+- id: 1612
+  en: Salto de altura 1
+- id: 1613
+  en: >-
+    Saltas más alto de lo habitual.
+
+    Cuanto más tiempo pulses {:icon button-circle},
+
+    mayor altura alcanzarás.
+- id: 1614
+  en: Salto de altura 2
+- id: 1615
+  en: >-
+    ¡Saltas aún más alto que antes!
+
+    Cuanto más tiempo pulses {:icon button-circle},
+
+    mayor altura alcanzarás.
+- id: 1616
+  en: Salto de altura 3
+- id: 1617
+  en: >-
+    ¡Ahora saltarás realmente alto!
+
+    Cuanto más tiempo pulses {:icon button-circle},
+
+    mayor altura alcanzarás.
+- id: 1618
+  en: Salto de altura máx.
+- id: 1619
+  en: >-
+    ¡Un salto extremo! ¡Más alto de lo que
+
+    creías posible! Cuanto más tiempo
+
+    pulses {:icon button-circle}, mayor altura alcanzarás.
+- id: 1620
+  en: Carrera rápida 1
+- id: 1621
+  en: >-
+    Si mueves el joystick izquierdo
+
+    y pulsas {:icon button-square}, corres rápido.
+
+    Mantenlo pulsado e irás más lejos.
+- id: 1622
+  en: Carrera rápida 2
+- id: 1623
+  en: >-
+    Si mueves el joystick izquierdo
+
+    y pulsas {:icon button-square}, corres rápido.
+
+    Mantenlo pulsado e irás más lejos.
+- id: 1624
+  en: Carrera rápida 3
+- id: 1625
+  en: >-
+    Si mueves el joystick izquierdo
+
+    y pulsas {:icon button-square}, corres rápido.
+
+    Mantenlo pulsado e irás más lejos.
+- id: 1626
+  en: Carrera rápida máx.
+- id: 1627
+  en: >-
+    Si mueves el joystick izquierdo
+
+    y pulsas {:icon button-square}, corres rápido.
+
+    Mantenlo pulsado e irás más lejos..
+- id: 1628
+  en: Regate aéreo 1
+- id: 1629
+  en: >-
+    En el aire, pulsa {:icon button-circle} para saltar de nuevo.
+
+    Es útil para esquivar ataques enemigos.
+- id: 1630
+  en: Regate aéreo 2
+- id: 1631
+  en: >-
+    En el aire, pulsa {:icon button-circle} para saltar de nuevo.
+
+    Es útil para esquivar ataques enemigos.
+- id: 1632
+  en: Regate aéreo 3
+- id: 1633
+  en: >-
+    En el aire, pulsa {:icon button-circle} para saltar de nuevo.
+
+    Es útil para esquivar ataques enemigos.
+- id: 1634
+  en: Regate aéreo máx.
+- id: 1635
+  en: >-
+    En el aire, pulsa {:icon button-circle} para saltar de nuevo.
+
+    Es útil para esquivar ataques enemigos.
+- id: 1636
+  en: Planeador 1
+- id: 1637
+  en: >-
+    En el aire, pulsa {:icon button-square} para planear.
+
+    Mantenlo pulsado y la acción se prolongará.
+- id: 1638
+  en: Planeador 2
+- id: 1639
+  en: >-
+    En el aire, pulsa {:icon button-square} para planear
+
+    más rápido. Mantenlo pulsado y la acción
+
+    se prolongará.
+- id: 1640
+  en: Planeador 3
+- id: 1641
+  en: >-
+    En el aire, pulsa {:icon button-square} para planear
+
+    a gran velocidad. Mantenlo pulsado y
+
+    la acción se prolongará.
+- id: 1642
+  en: Superplaneador
+- id: 1643
+  en: >-
+    En el aire, pulsa {:icon button-square} para planear
+
+    a velocidad de vértigo. Mantenlo
+
+    pulsado y la acción se prolongará.
+- id: 1644
+  en: Bloqueo
+- id: 1645
+  en: >-
+    Si pulsas {:icon button-square}, podrás eludir
+
+    ataques enemigos y contraatacar.
+- id: 2587
+  en: ''
+- id: 2598
+  en: Puente
+- id: 2599
+  en: Isla de Muerta - Acantilados
+- id: 2600
+  en: Donde nada confluye
+- id: 2601
+  en: Callejón del Intersticio
+- id: 2602
+  en: Pasaje de la Otredad
+- id: 2603
+  en: Rascacielos de los Recuerdos
+- id: 2604
+  en: Umbral de la Desesperanza
+- id: 2605
+  en: Prisión Silente
+- id: 2606
+  en: Llamada de la Nada
+- id: 2607
+  en: Ascensión Maldita
+- id: 2608
+  en: Ascensión Maldita
+- id: 2609
+  en: Vista Crepuscular
+- id: 2610
+  en: Salón de las Melodías Huecas
+- id: 2611
+  en: Salón de las Melodías Huecas
+- id: 2612
+  en: Senda del No Ser
+- id: 2613
+  en: Prueba de Existencia
+- id: 2614
+  en: Frontera del Caos
+- id: 2615
+  en: Punto de Confusión
+- id: 2616
+  en: Acceso al No Ser
+- id: 2617
+  en: Pasaje de la Ruina y la Creación
+- id: 2618
+  en: Altar del No Ser
+- id: 2619
+  en: Contorsión de la Memoria
+- id: 2620
+  en: Mundo de la Nada
+- id: 2621
+  en: Estación del Despertar
+- id: 2622
+  en: Mundo de la Nada
+- id: 2623
+  en: Mercado
+- id: 2624
+  en: Pasillos
+- id: 2625
+  en: Fábrica de sincorazón
+- id: 2626
+  en: Casa de Merlín
+- id: 2627
+  en: Castillo del Olvido
+- id: 2628
+  en: Estudio de Ansem
+- id: 2629
+  en: Desfiladero
+- id: 2630
+  en: Gran Garganta
+- id: 2631
+  en: Tinieblas de Scar
+- id: 2632
+  en: Orilla
+- id: 2633
+  en: Ira del mar
+- id: 2634
+  en: Barco nupcial
+- id: 2635
+  en: Puertas del palacio
+- id: 2636
+  en: Simulación del navegador solar
+- id: 2637
+  en: Solar deportivo
+- id: 2638
+  en: Calle del Mercado - Altos de la Estación
+- id: 2639
+  en: Calle del Mercado - Plazoleta del Tranvía
+- id: 2640
+  en: Plaza de la Estación
+- id: 2641
+  en: Estación Central
+- id: 2642
+  en: Terrazas del Atardecer
+- id: 2643
+  en: Estación del Atardecer
+- id: 2644
+  en: Colina del Atardecer
+- id: 2645
+  en: Bosque
+- id: 2646
+  en: Vieja mansión
+- id: 2647
+  en: Mansión - Recibidor
+- id: 2648
+  en: Mansión - Comedor
+- id: 2649
+  en: Mansión - Biblioteca
+- id: 2650
+  en: Mansión - Cuarto blanco
+- id: 2651
+  en: Mansión - Entrada al sótano
+- id: 2652
+  en: Mansión - Entrada al sótano
+- id: 2653
+  en: Mansión - Sala de ordenadores
+- id: 2654
+  en: Mansión - Pasillo del sótano
+- id: 2655
+  en: Mansión - Cuarto de la cápsula
+- id: 2656
+  en: Viaje en tren
+- id: 2657
+  en: Torre
+- id: 2658
+  en: Torre - Entrada
+- id: 2659
+  en: Torre - Desván del hechicero
+- id: 2660
+  en: Torre - Vestidor
+- id: 2661
+  en: Torre - Cámara estelar
+- id: 2662
+  en: Torre - Cámara lunar
+- id: 2663
+  en: Torre - Escaleras caprichosas
+- id: 2664
+  en: Estación de la Serenidad
+- id: 2665
+  en: Estación de la Llamada
+- id: 2666
+  en: Estación del Despertar
+- id: 2667
+  en: Tren del misterio
+- id: 2668
+  en: Túnel
+- id: 2669
+  en: Explanada subterránea
+- id: 2670
+  en: Torre - Escaleras caprichosas
+- id: 2671
+  en: Torre - Escaleras caprichosas
+- id: 2672
+  en: Ni aquí ni allí
+- id: 2673
+  en: Mapa de los mundos
+- id: 2674
+  en:
+- id: 2675
+  en:
+- id: 2676
+  en:
+- id: 2677
+  en:
+- id: 2678
+  en:
+- id: 2679
+  en:
+- id: 2680
+  en:
+- id: 2681
+  en:
+- id: 2682
+  en:
+- id: 2683
+  en: Aceptar
+- id: 2684
+  en: Sí
+- id: 2685
+  en: No
+- id: 2686
+  en: Guardar
+- id: 2687
+  en: Cargar
+- id: 2688
+  en: Mapa de los mundos
+- id: 2689
+  en: Volver pant. título
+- id: 2690
+  en: ¿Ir al mapa de los mundos?
+- id: 2691
+  en: Nuevo archivo
+- id: 2692
+  en: Archivo del juego
+- id: 2693
+  en: Archivo de otro juego
+- id: 2694
+  en: Ranura 1
+- id: 2695
+  en: Ranura 2
+- id: 2696
+  en: ¿Volver pant. título?
+- id: 2697
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Comprobando si hay partidas guardadas...
+- id: 2698
+  en: >-
+    {:icon question-mark}{:color #FF000080}QUESTION{:reset}            {:scale 8}
+
+
+    {:scale 16}Se perderán los avances del juego no guardados. ¿Quieres continuar?
+- id: 2699
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al guardar.
+- id: 2700
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al comprobar datos.
+- id: 2701
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al cargar la partida.
+- id: 2702
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    La memory card de la
+
+    ranura {:unk0d } no tiene formato.
+- id: 2703
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Borrando datos anteriores...
+- id: 2704
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Guardando datos..
+- id: 2705
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Cargando datos...
+- id: 2706
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Sobreescribiendo datos guardados...
+- id: 2707
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Borrando datos anteriores...
+- id: 2708
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al comprobar datos.
+- id: 2709
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al eliminar datos anteriores.
+- id: 2710
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Error al eliminar datos anteriores.
+- id: 2711
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No hay espacio suficiente.
+
+    Se necesitan 169 KB para guardar los datos.
+- id: 2712
+  en: Not Used
+- id: 2713
+  en: Not Used
+- id: 2714
+  en: Los datos guardados están dañados.
+- id: 2715
+  en: Not Used
+- id: 2716
+  en: No se puede guardar en un archivo nuevo.
+- id: 2717
+  en: Guardar archivo nuevo.
+- id: 2718
+  en: No hay espacio suficiente
+- id: 2719
+  en: No hay datos.
+- id: 2721
+  en: Elige el archivo a guardar.
+- id: 2722
+  en: Elige el archivo a cargar.
+- id: 2723
+  en: Not Used
+- id: 2724
+  en: >-
+    {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
+
+
+    ¿Quieres sobrescribir este archivo?
+- id: 2725
+  en: >-
+    {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
+
+
+    ¿Quieres cargar este archivo?
+- id: 2726
+  en: >-
+    {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
+
+
+    ¿Quieres borrar este archivo?
+- id: 2734
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    El sistema de archivos está dañado.
+- id: 2735
+  en: Cargar partida
+- id: 2736
+  en: Continuar
+- id: 2737
+  en: Reintentar
+- id: 2738
+  en: Salir
+- id: 2739
+  en: Saltar escena
+- id: 2740
+  en: Continuar
+- id: 2741
+  en: ¡No me rendiré!
+- id: 2742
+  en: Todo ha terminado...
+- id: 2743
+  en: Diario de Pepito
+- id: 2744
+  en: Tienda de armas de Wallace
+- id: 2745
+  en: Tienda de armaduras de Biggs
+- id: 2746
+  en: Tienda de accessorios de Jessie
+- id: 2747
+  en: Tienda de objetos de Wantz
+- id: 2748
+  en: Taller de Elmina
+- id: 2749
+  en: Tienda de armas de Jaimito, Juanito y Jorgito
+- id: 2750
+  en: Tienda de armaduras de Wedge
+- id: 2751
+  en: Tienda de accesorios de Jaimito, Juanito y Jorgito
+- id: 2752
+  en: Tienda de objetos de Jaimito, Juanito y Jorgito
+- id: 2753
+  en: Tienda moguri de Kupó
+- id: 2754
+  en: Tienda moguri de Monty
+- id: 2755
+  en: Tienda moguri de Mosh
+- id: 2756
+  en: Tienda moguri de Mogjiro
+- id: 2757
+  en: Tienda moguri de Morlock
+- id: 2758
+  en: Tienda moguri de Gumo
+- id: 2759
+  en: Tienda moguri de Mojito
+- id: 2760
+  en: Tienda moguri de Kumop
+- id: 2761
+  en: Tienda moguri de Artemicion
+- id: 2762
+  en: Tienda moguri de Mogtaro
+- id: 2763
+  en: Tienda moguri de Stiltzkin
+- id: 2764
+  en: Comprar
+- id: 2765
+  en: Vender
+- id: 2766
+  en: Salir
+- id: 2767
+  en: Sí
+- id: 2768
+  en: No
+- id: 2769
+  en: Comprar objetos.
+- id: 2770
+  en: Vender objetos.
+- id: 2771
+  en: Cerrar menú.
+- id: 2772
+  en: Baúl
+- id: 2773
+  en: ''
+- id: 2774
+  en: '{:scale 12}{:color #FAF00080} Platines'
+- id: 2775
+  en: >-
+    ¿Cuántos quieres comprar?
+
+    Usa los botones hacia arriba/abajo para
+
+    elegir de 1 en 1, y los botones hacia la
+
+    izquierda/derecha para ir de 10 en 10.
+- id: 2776
+  en: >-
+    ¿Cuántos quieres vender?
+    
+    Usa los botones hacia arriba/abajo para
+    
+    elegir de 1 en 1, y los botones hacia la
+    
+    izquierda/derecha para ir de 10 en 10.
+- id: 2777
+  en: ¿Quieres comprar?
+- id: 2778
+  en: No hay objetos.
+- id: 2779
+  en: ¿Quieres vender?
+- id: 2780
+  en: Sin Mensaje
+- id: 2781
+  en: ''
+- id: 2782
+  en: ¡Fuerza aumentada!
+- id: 2783
+  en: ¡Magia aumentada!
+- id: 2784
+  en: ¡Defensa aumentada!
+- id: 2785
+  en: ¡PH máximos aumentados!
+- id: 2786
+  en: ¡VT máxima aumentada!
+- id: 2787
+  en: ¡PM máximos aumentados!
+- id: 2788
+  en: ¡Indicador de Fusión aumentado!
+- id: 2789
+  en: ¡Espacio para objetos +1!
+- id: 2790
+  en: ¡Espacio para accesorios +1!
+- id: 2791
+  en: ¡Espacio para armadura +1!
+- id: 2792
+  en: '¡{:unk0d }!'
+- id: 2793
+  en: Vergel Radiante
+- id: 6430
+  en: Principiante
+- id: 6431
+  en: Experto
+- id: 7490
+  en: >-
+    Sora:
+
+    Así que solo personal autorizado...
+- id: 7492
+  en: >-
+    Sora:
+
+    La casa de Merlín
+
+    no es por ahí.
+- id: 7496
+  en: >-
+    Sora:
+
+    No creo que podamos abrirla.
+- id: 7500
+  en: >-
+    Sora:
+
+    ¡No podemos rendirnos ahora!
+- id: 7503
+  en: '{:width 90}Ir al rescate'
+- id: 7504
+  en: Observar
+- id: 7505
+  en: Observar
+- id: 7506
+  en: Traducir
+- id: 7507
+  en: Traducir
+- id: 7508
+  en: '{:width 90}Observar la pared'
+- id: 7517
+  en: '{:width 90}Acceder al ordenador'
+- id: 7533
+  en: Aprender
+- id: 7650
+  en: Trampa veloz
+- id: 7658
+  en: '{:icon button-r1}Lista de episodios'
+- id: 7659
+  en: Acontecimientos pasados
+- id: 7660
+  en: Siguiente objetivo
+- id: 7661
+  en: '{:icon button-triangle}Diario de Pepito'
+- id: 7662
+  en: '{:icon button-l1}{:width 95}Selección de puerto'
+- id: 7663
+  en: Forcejear
+- id: 7664
+  en: Derribar
+- id: 7665
+  en: '{:width 90}Acceder al ordenador'
+- id: 7666
+  en: '{:width 90}Acceder al ordenador'
+- id: 7667
+  en: '{:width 90}Acceder al ordenador'
+- id: 7670
+  en: Lanzar
+- id: 7671
+  en: >-
+    Permite quitar la configuración de
+
+    los accesos directos.
+- id: 7672
+  en: '{:icon magic}Carga PM'
+- id: 7673
+  en: '{:icon magic-nocharge}Desactivar la Carga PM'
+- id: 7674
+  en: >-
+    Si no tienes suficientes PM para usar
+
+    este hechizo, espera un momento. El
+
+    indicador de PM comenzará a llenarse.
+- id: 7675
+  en: >-
+    No se puede usar este hechizo si
+
+    no hay suficientes PM.
+- id: 7676
+  en: '{:icon auto-equip}{:scale 14}{:width 90}Autorrecarga: SÍ'
+- id: 7677
+  en: '{:icon item-consumable}{:scale 14}{:width 90}Autorrecarga: NO'
+- id: 7678
+  en: >-
+    {:width 95}Si usas un objeto en un combate y tienes más
+
+    en el baúl, el objeto se recarga tras el combate.{:reset}
+- id: 7679
+  en: >-
+    El objeto no se repone tras
+
+    su uso.
+- id: 7752
+  en: Asirse
+- id: 7753
+  en: Agarrarse
+- id: 7754
+  en: Golpear
+- id: 7755
+  en: ¡Adelante!
+- id: 7756
+  en: Ir al centro
+- id: 7758
+  en: '{:icon ai-mode-frequent}Libre'
+- id: 7759
+  en: '{:icon ai-mode-moderate}Equilibrado'
+- id: 7760
+  en: '{:icon ai-mode-rare}Esporádico'
+- id: 7761
+  en: '{:icon ai-mode-frequent}{:scale 13}{:width 90}A menudo'
+- id: 7762
+  en: '{:icon ai-mode-rare}{:scale 13}{:width 90}In extremis'
+- id: 7763
+  en: Cometa
+- id: 7764
+  en: Lluvia de cometas
+- id: 7765
+  en: >-
+    Cada miembro del grupo lucha
+
+    con sus técnicas propias.
+- id: 7766
+  en: >-
+    Los miembros del grupo concentran sus
+
+    ataques en el objetivo de Sora.
+- id: 7767
+  en: Los miembros del grupo luchan cerca de Sora.
+- id: 7768
+  en: >-
+    Los miembros del grupo combatirán contra
+
+    un objetivo distinto al de Sora.
+- id: 7769
+  en: >-
+    Mientras Sora ataque, los miembros
+
+    del grupo le apoyarán.
+- id: 7770
+  en: >-
+    Los miembros del grupo derrotan a
+
+    un objetivo antes de atacar a otro.
+- id: 7771
+  en: >2-
+
+    Usa esta habilidad libremente.
+- id: 7772
+  en: >2-
+
+    Usa esta habilidad prudentemente.
+- id: 7773
+  en: >2-
+
+    Usa esta habilidad en situaciones especiales.
+- id: 7774
+  en: >2-
+
+    Usa este objeto a menudo.
+- id: 7775
+  en: >2-
+
+    ¡Usa este objeto solo en caso de emergencia!
+- id: 7776
+  en: Corte superior
+- id: 7777
+  en: >-
+    Si pulsas {:icon button-square} durante un combo
+
+    lanzarás al enemigo por los aires.
+- id: 7998
+  en: >-
+    Roxas:
+
+    ¡No es por aquí!
+- id: 7999
+  en: >-
+    Roxas:
+
+    Este no es el camino.
+- id: 8000
+  en: >-
+    Roxas:
+
+    No es por aquí...
+- id: 8001
+  en: >-
+    Roxas:
+
+    Espera, algo va mal.
+- id: 8002
+  en: >-
+    Roxas:
+
+    Parece haber un camino, pero ahora no puedo usarlo.
+- id: 8003
+  en: >-
+    Roxas:
+
+    ¡Será mejor que no huyamos!
+- id: 8004
+  en: >-
+    Roxas:
+
+    Tenemos que defendernos solos.
+- id: 8005
+  en: >-
+    Roxas:
+
+    ¡Ahora no hay vuelta atrás!
+- id: 8006
+  en: >-
+    Roxas:
+
+    ¡Hay que seguirle!
+- id: 8007
+  en: >-
+    Roxas:
+
+    Aún no puedo ir allí.
+- id: 8008
+  en: >-
+    Roxas:
+
+    No hay trabajos por aquí..
+- id: 8009
+  en: >-
+    Roxas:
+
+    ¡Tengo un trabajo que hacer!
+- id: 8010
+  en: >-
+    Roxas:
+
+    Necesito ganar unos platines...
+- id: 8011
+  en: >-
+    Roxas:
+
+    La taquilla está en la estación.
+- id: 8012
+  en: >-
+    Roxas:
+
+    Para subir, necesitamos billetes.
+- id: 8013
+  en: >-
+    Sora:
+
+    Parece que todavía no está listo.
+- id: 8014
+  en: >-
+    Sora:
+
+    No puedo entrar por la fuerza.
+- id: 8015
+  en: >-
+    Sora:
+
+    Tengo un mal presentimiento...
+- id: 8016
+  en: >-
+    Sora:
+
+    Algo nos impide salir.
+- id: 8051
+  en: Libra
+- id: 8052
+  en: Muestra la VT actual del enemigo.
+- id: 8058
+  en: Acceder al ordenador
+- id: 8143
+  en: Aceptar
+- id: 8144
+  en: Sí
+- id: 8145
+  en: No
+- id: 8301
+  en: Aeroestocada
+- id: 8302
+  en: Selección de puerto
+- id: 8303
+  en: Lista de episodios
+- id: 8304
+  en: Ataque súbito
+- id: 8307
+  en: Adamantino
+- id: 8308
+  en: >-
+    Este escudo no posee gran fuerza,
+
+    pero es excelente para defensa.
+
+    Bloquea diversos ataques.
+- id: 8309
+  en: Escudo de cadenas
+- id: 8310
+  en: >-
+    Un gran escudo que bloquea varios
+
+    ataques. También sirve para atacar.
+- id: 8311
+  en: Escudo de ogro
+- id: 8312
+  en: >-
+    Escudo de gran fuerza capaz de bloquear
+
+    varios ataques. {:color #F0F00080}Aumenta en 3{:reset} la defensa en
+
+    situaciones críticas.
+- id: 8313
+  en: Estrella fugaz
+- id: 8314
+  en: >-
+    Un escudo pequeño y fácil de
+
+    manejar, usado solo para el ataque.
+- id: 8315
+  en: Nube de ensueño
+- id: 8316
+  en: >-
+    Escudo de enorme fuerza,
+
+    usado solo para el ataque.
+- id: 8317
+  en: Custodio
+- id: 8318
+  en: >-
+    Un escudo de tremenda fuerza,
+
+    usado solo para el ataque.
+- id: 8319
+  en: Escudo de Genji
+- id: 8320
+  en: >-
+    Escudo de gran fuerza y poder defensivo.
+
+    Si te derriban, revives muy rápido
+
+    y recuperas mucha VT.
+- id: 8321
+  en: Disco akáshico
+- id: 8322
+  en: >-
+    Este escudo posee una fuerza enorme.
+
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 25%{:reset}
+
+    la velocidad de recuperación de los mismos.
+- id: 8323
+  en: Coraza incorpórea
+- id: 8324
+  en: >-
+    Un escudo de enorme fuerza.
+
+    Recupera PM en proporción al daño
+
+    que recibes.
+- id: 8847
+  en: Mazo mágico
+- id: 8848
+  en: Un bastón útil por su fuerza.
+- id: 8849
+  en: Campana victoriosa
+- id: 8850
+  en: >-
+    Este bastón aumenta la fuerza
+
+    de ataque y la magia.
+- id: 8851
+  en: Bastón meteórico
+- id: 8852
+  en: >-
+    Bastón de gran fuerza y poder mágico.
+
+    {:color #F0F00080}Aumenta un 20%{:reset} el daño de los ataques Electro.
+- id: 8853
+  en: Bastón cometa
+- id: 8854
+  en: >-
+    Bastón con poderes estelares.
+
+    Gran fuerza y potencia mágicas.
+- id: 8855
+  en: Escoba real
+- id: 8856
+  en: >-
+    Este bastón aumenta la fuerza
+
+    de ataque y la magia.
+- id: 8857
+  en: Bastón sabio
+- id: 8858
+  en: >-
+    Un bastón que otorga grandes
+
+    poderes mágicos y mucha fuerza.
+- id: 8859
+  en: Dragón naciente
+- id: 8860
+  en: >-
+    Bastón de gran fuerza y poder mágico.
+
+    {:color #F0F00080}Aumenta un 20%{:reset} el daño de los ataques Piro.
+- id: 8861
+  en: Lanza de nadie
+- id: 8862
+  en: >-
+    Una lanza de gran poder mágico y fuerza.
+
+    {:color #F0F00080}Aumenta un 50%{:reset} el efecto de los objetos
+
+    de cura en la batalla.
+- id: 8863
+  en: Cetro conjurador
+- id: 8864
+  en: >-
+    Bastón de gran fuerza y poder mágico.
+
+    {:color #F0F00080}Aumenta un 20%{:reset} el daño de los ataques Hielo.
+- id: 8869
+  en: Comprar billetes
+- id: 8870
+  en: Tocar la luz
+- id: 8871
+  en: Escuchar las reglas
+- id: 8872
+  en: Conversar
+- id: 8873
+  en: '{:width 90}Observar la mesa'
+- id: 8874
+  en: '{:width 80}Escuchar la historia'
+- id: 8875
+  en: Conversar
+- id: 8876
+  en: Tocar el rayo
+- id: 8877
+  en: Isla de Muerta - Cámara del tesoro
+- id: 8993
+  en: Introducir contraseña
+- id: 8995
+  en: Contrallave
+- id: 8996
+  en: Salto lunar
+- id: 8997
+  en: Golpe final
+- id: 9020
+  en: Sol naciente
+- id: 9928
+  en: Duelo
+- id: 9929
+  en: Fin
+- id: 9933
+  en: Infalible
+- id: 9934
+  en: Chivo expiatorio
+- id: 9945
+  en: ¡Salta!
+- id: 10328
+  en: Recuperación aérea
+- id: 10329
+  en: >-
+    Si te derriban, pulsa {:icon button-circle} y
+
+    recuperarás rápidamente el equilibrio.
+- id: 10330
+  en: Peter Pan
+- id: 10331
+  en: Amuleto lámpara
+- id: 10332
+  en: >-
+    Con la ayuda de dos amigos, usa
+
+    el comando Invocar y
+
+    Genio te echará una mano.
+- id: 10333
+  en: Amuleto de plumas
+- id: 10334
+  en: >-
+    Con la ayuda de dos amigos, usa
+
+    el comando Invocar y
+
+    Peter Pan te echará una mano.
+- id: 10335
+  en: Flipper
+- id: 10337
+  en: La "Perla Negra"
+- id: 10338
+  en: La "Perla Negra"
+- id: 10339
+  en: La "Perla Negra"
+- id: 10340
+  en: El "Interceptor"
+- id: 10341
+  en: El "Interceptor"
+- id: 10414
+  en: Giro aéreo
+- id: 10415
+  en: Tornado
+- id: 10416
+  en: Estocada rápida
+- id: 10419
+  en: Cabriola
+- id: 10428
+  en: Jugar
+- id: 10429
+  en: Parar dado
+- id: 10433
+  en: Bloqueo aural
+- id: 10434
+  en: Retirar
+- id: 10435
+  en: La "Perla Negra" - Camarote del capitán
+- id: 10439
+  en: Abrir puerta
+- id: 10441
+  en: Podar
+- id: 10442
+  en: Tiro limpio
+- id: 10443
+  en: Big Ben
+- id: 10444
+  en: >-
+    Sora:
+
+    Vayamos a la casa de Merlín.
+- id: 10445
+  en: ''
+- id: 12068
+  en: ◯
+- id: 12069
+  en: ✕
+- id: 12070
+  en: >-
+    Sora:
+
+    Espero que Pooh esté bien...
+- id: 12071
+  en: ''
+- id: 12072
+  en: Patinar
+- id: 12073
+  en: Tiro furtivo
+- id: 12074
+  en: Pisotón
+- id: 12080
+  en: Obras de restauración
+- id: 12081
+  en: Patio interior
+- id: 12082
+  en: Bajar
+- id: 12083
+  en: Bastón detector
+- id: 12084
+  en: >-
+    Este bastón no tiene poder. Solo
+
+    sirve para detectar movimiento.
+- id: 12086
+  en: Danza del viento
+- id: 12087
+  en: Escalada
+- id: 12088
+  en: Agujas
+- id: 12090
+  en: Ayuda
+- id: 12092
+  en: ¡Arre, Pegaso!
+- id: 12093
+  en: Bloqueador
+- id: 12094
+  en: Ofensiva
+- id: 12096
+  en: Golpe destructor
+- id: 12097
+  en: Dúo mortífero
+- id: 12098
+  en: Impulso cósmico
+- id: 12131
+  en: Combo +1
+- id: 12132
+  en: >-
+    Aumenta en 1 el combo máximo
+
+    en tierra. Si activas más,
+
+    contarás con más combos.
+- id: 12133
+  en: Combo aéreo +1
+- id: 12134
+  en: >-
+    Aumenta en 1 el combo máximo
+
+    en el aire. Si activas más,
+
+    contarás con más combos.
+- id: 12135
+  en: >-
+    Sora:
+
+    ¡Nuestra misión aguarda en
+
+    el sendero de montaña!
+- id: 12885
+  en: Fulgor+
+- id: 12932
+  en: Ataque Fil
+- id: 12998
+  en: Puertas del Coliseo
+- id: 13026
+  en: Raudo
+- id: 13027
+  en: Jugada veloz
+- id: 13028
+  en: Embaucador
+- id: 13030
+  en: Devolver fuego
+- id: 13031
+  en: Farol
+- id: 13032
+  en: Sanguinario
+- id: 13033
+  en: Navaja
+- id: 13034
+  en: Trampa final
+- id: 13036
+  en: León
+- id: 13037
+  en: Armas
+- id: 13038
+  en: Acción
+- id: 13039
+  en: Desarrollo
+- id: 13040
+  en: Apoyo
+- id: 13043
+  en: Piro Donald
+- id: 13044
+  en: >-
+    Lanza una tormenta de fuego sobre
+
+    enemigos cercanos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 13045
+  en: Hielo Donald
+- id: 13046
+  en: >-
+    Lanza una descarga de hielo
+
+    sobre el enemigo. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 13047
+  en: Electro Donald
+- id: 13048
+  en: >-
+    ¡Desata un bombardeo de rayos
+
+    sobre tu objetivo! {:color #F0F00080}Coste PM: 10{:reset}
+- id: 13049
+  en: Cura Donald
+- id: 13050
+  en: >-
+    Recupera la VT de un aliado.
+
+    {:color #F0F00080}Coste PM: todos{:reset}
+- id: 13065
+  en: Agua sanadora
+- id: 13066
+  en: >-
+    Devuelve la VT al grupo.
+
+    {:color #F0F00080}Coste PM: 99{:reset}
+- id: 13067
+  en: Grito furioso
+- id: 13068
+  en: >-
+    Derriba enemigos cercanos con
+
+    gritos enfurecidos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 13086
+  en: Poción curativa
+- id: 13087
+  en: >-
+    Restablece la VT del grupo.
+
+    {:color #F0F00080}Coste PM: 99{:reset}
+- id: 13092
+  en: Hierba sanadora
+- id: 13093
+  en: >-
+    Devuelve la VT al grupo usando los
+
+    poderes de la naturaleza. {:color #F0F00080}Coste PM: 99{:reset}
+- id: 13102
+  en: Lento 3
+- id: 13103
+  en: (Delete)
+- id: 13109
+  en: Trío
+- id: 13110
+  en: >-
+    Comando Límite usado en equipo
+
+    para lanzar un poderoso ataque Trío.
+
+    Consume todos los PM de Sora.
+- id: 13111
+  en: Fantasía
+- id: 13112
+  en: >-
+    Comando Límite que desata el
+
+    poderoso hechizo Cometa de Donald.
+
+    Consume todos los PM de Sora.
+- id: 13113
+  en: Fulgor cegador
+- id: 13114
+  en: >-
+    Comando Límite que desata el
+
+    poderoso hechizo Fulgor de Donald.
+
+    Consume todos los PM de Sora.
+- id: 13115
+  en: Tornado fusión
+- id: 13116
+  en: >-
+    Comando Límite que desata el
+
+    poderoso ataque Giro Goofy.
+
+    Consume todos los PM de Sora.
+- id: 13117
+  en: Unidad
+- id: 13118
+  en: >-
+    Comando Límite con el que Sora y
+
+    Goofy ejecutan el Golpe destructor.
+
+    Consume todos los PM de Sora.
+- id: 13119
+  en: Truco fantástico
+- id: 13120
+  en: >-
+    Con este Límite, Sora y
+
+    Aladdín realizan juntos Raudo.
+
+    Consume todos los PM de Sora.
+- id: 13121
+  en: A tope
+- id: 13122
+  en: >-
+    Comando Límite con el que Sora y
+
+    Auron ejecutan el ataque Bushido.
+
+    Consume todos los PM de Sora.
+- id: 13123
+  en: Luna aullante
+- id: 13124
+  en: >-
+    Con este comando Límite, Sora y
+
+    Bestia dan juntos un Aullido doble.
+
+    Consume todos los PM de Sora.
+- id: 13125
+  en: Ovación
+- id: 13126
+  en: >-
+    Comando Límite con el que Sora y
+
+    Jack ejecutan ¡A bailar!
+
+    Consume todos los PM de Sora.
+- id: 13127
+  en: Dragón de fuego
+- id: 13128
+  en: >-
+    Comando Límite con el que Sora y
+
+    Mulán ejecutan Cohete rojo.
+
+    Consume todos los PM de Sora.
+- id: 13129
+  en: Sesión eterna
+- id: 13130
+  en: >-
+    Comando Límite con el que Sora y
+
+    Riku ejecutan el ataque Sesión.
+
+    Consume todos los PM de Sora.
+- id: 13131
+  en: Orgullo del rey
+- id: 13132
+  en: >-
+    Comando Límite con el que Sora y
+
+    Simba ejecutan Furia felina.
+
+    Consume todos los PM de Sora.
+- id: 13133
+  en: Isla del tesoro
+- id: 13134
+  en: >-
+    Comando Límite con el que Sora y
+
+    Jack Sparrow ejecutan Farol.
+
+    Consume todos los PM de Sora.
+- id: 13135
+  en: Compilación completa
+- id: 13136
+  en: >-
+    Comando Límite con el que Sora y
+
+    Tron ejecutan Configurar.
+
+    Consume todos los PM de Sora.
+- id: 13139
+  en: Sabia
+- id: 13170
+  en: No hay habilidades.
+- id: 13171
+  en: '{:icon button-square}Objetos'
+- id: 13847
+  en: Preferencias
+- id: 13848
+  en: Registro
+- id: 13849
+  en: '{:icon button-square}Habilidades'
+- id: 13850
+  en: '{:icon button-l2}{:icon button-r2}Cambiar'
+- id: 13861
+  en: Trueno palpitante
+- id: 13862
+  en: >-
+    Ataca con electricidad a enemigos
+
+    cercanos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 13863
+  en: Activar
+- id: 13864
+  en: Activa la habilidad seleccionada.
+- id: 13865
+  en: No activar
+- id: 13866
+  en: No activa la habilidad seleccionada.
+- id: 13868
+  en: >-
+    Minnie:
+
+    La sala de audiencias
+
+    no es por ahí.
+- id: 13869
+  en: ''
+- id: 13870
+  en: >-
+    Minnie:
+
+    ¡Deprisa, a la sala de
+
+    audiencias!
+- id: 13875
+  en: Tiro bravo
+- id: 13876
+  en: >-
+    Lanza un poderoso combo final y
+
+    derriba a un único objetivo.
+- id: 13877
+  en: Golpe bravo
+- id: 13878
+  en: >-
+    Lanza un poderoso combo final
+
+    que ataca sucesivamente a varios
+
+    objetivos a la vez.
+- id: 13879
+  en: Tiro sónico
+- id: 13880
+  en: >-
+    Lanza un poderoso combo final
+
+    que atraviesa la defensa
+
+    del objetivo.
+- id: 13881
+  en: Final sónico
+- id: 13882
+  en: >-
+    Lanzas un poderoso combo final
+
+    y atacas desde el aire a varios
+
+    objetivos a la vez.
+- id: 13883
+  en: Tiro sabio
+- id: 13884
+  en: >-
+    Cambia el comando Atacar
+
+    a Disparar.
+- id: 13885
+  en: Acción móvil
+- id: 13886
+  en: >-
+    Podrás realizar acciones
+
+    mientras te mueves.
+- id: 13889
+  en: Espada doble
+- id: 13890
+  en: >-
+    Tendrás una llave espada en cada
+
+    mano. Dispondrás de la habilidad
+
+    del arma de la mano izquierda.
+- id: 13891
+  en: Prisa mágica
+- id: 13892
+  en: >-
+    Acorta el tiempo para lanzar
+
+    hechizos y habilita rápidos
+
+    combos mágicos.
+- id: 13893
+  en: Especia mágica
+- id: 13894
+  en: >-
+    Aumenta el poder de los combos
+
+    mágicos finales.
+- id: 13896
+  en: Regate
+- id: 13951
+  en: Demoler
+- id: 13952
+  en: Pisotón
+- id: 13953
+  en: Latigazo
+- id: 13965
+  en: Disparar
+- id: 13966
+  en: Salto
+- id: 13967
+  en: >-
+    Sora:
+
+    ¡Vamos, a la cueva!
+- id: 13968
+  en: ''
+- id: 13969
+  en: Antimagia
+- id: 13970
+  en: Rodeo
+- id: 13971
+  en: Cruzado
+- id: 14002
+  en: Golpe rápido
+- id: 14004
+  en: >-
+    Sora:
+
+    Volvamos a Bastión Hueco.
+- id: 14005
+  en: ''
+- id: 14006
+  en: >-
+    Sora:
+
+    ¡Sigamos adelante!
+- id: 14007
+  en: Mundo de la Nada
+- id: 14008
+  en: Mundo de la Nada
+- id: 14009
+  en: Atrapar
+- id: 14010
+  en: Informe Ansem 1
+- id: 14011
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14012
+  en: Informe Ansem 2
+- id: 14013
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14014
+  en: Informe Ansem 3
+- id: 14015
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14016
+  en: Informe Ansem 4
+- id: 14017
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14018
+  en: Informe Ansem 5
+- id: 14019
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14020
+  en: Informe Ansem 6
+- id: 14021
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14022
+  en: Informe Ansem 7
+- id: 14023
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14024
+  en: Informe Ansem 8
+- id: 14025
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14026
+  en: Informe Ansem 9
+- id: 14027
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14028
+  en: Informe Ansem 10
+- id: 14029
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14030
+  en: Informe Ansem 11
+- id: 14031
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14032
+  en: Informe Ansem 12
+- id: 14033
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14034
+  en: Informe Ansem 13
+- id: 14035
+  en: >-
+    Un informe secreto escrito por
+
+    Ansem. Lo puedes ver en el Diario
+
+    de Pepito.
+- id: 14088
+  en: Musical
+- id: 14089
+  en: Furia felina
+- id: 14090
+  en: Colmillo feroz
+- id: 14091
+  en: Garra voraz
+- id: 14092
+  en: Rugido noble
+- id: 14093
+  en: >-
+    Permite elegir armas y armaduras,
+
+    o usar objetos del baúl.
+- id: 14094
+  en: Guía sobre equipo
+- id: 14095
+  en: Permite activar habilidades.
+- id: 14096
+  en: Permite reemplazar a miembros del grupo.
+- id: 14097
+  en: Permite ver los datos de los personajes.
+- id: 14098
+  en: Muestra las notas de Pepito.
+- id: 14099
+  en: Abre el menú de configuración del personaje.
+- id: 14100
+  en: Guía sobre opciones
+- id: 14101
+  en: >-
+    Permite modificar diversas funciones
+
+    del juego a tu gusto.
+- id: 14102
+  en: Muestra los objetos y habilidades obtenidos.
+- id: 14103
+  en: Cámara
+- id: 14104
+  en: Joystick derecho
+- id: 14105
+  en: Mapa de navegación
+- id: 14106
+  en: Vibración
+- id: 14107
+  en: Sonido
+- id: 14108
+  en: Menú de comandos
+- id: 14109
+  en: Nivel de dificultad
+- id: 14110
+  en: Automática
+- id: 14111
+  en: Manual
+- id: 14112
+  en: >-
+    La cámara se moverá automáticamente.
+
+    Si mantienes pulsado el botón R2,
+
+    la cámara permanecerá fija.
+- id: 14113
+  en: >-
+    La cámara permanecerá fija.
+
+    Si mantienes pulsado el botón R2, la
+
+    cámara se moverá automáticamente.
+- id: 14114
+  en: Cámara
+- id: 14115
+  en: Menú de comandos
+- id: 14116
+  en: >-
+    Configura el joystick derecho para controlar
+
+    la cámara. Podrás usarlo para comandos
+
+    mientras mantengas pulsado el botón L2.
+- id: 14117
+  en: >-
+    Configura el joystick derecho para los comandos.
+
+    Podrás usarlo para controlar la cámara mientras
+
+    mantengas pulsado el botón L2.
+- id: 14118
+  en: Activado
+- id: 14119
+  en: Desactivado
+- id: 14120
+  en: >-
+    El mapa de navegación aparece
+
+    en la esquina superior derecha.
+- id: 14121
+  en: >-
+    No se muestra el mapa
+
+    de navegación.
+- id: 14122
+  en: Activada
+- id: 14124
+  en: Activa la vibración.
+- id: 14125
+  en: Desactiva la vibración.
+- id: 14126
+  en: Estéreo
+- id: 14127
+  en: Pro Logic II
+- id: 14128
+  en: Mono
+- id: 14129
+  en: Permite jugar con sonido estéreo.
+- id: 14130
+  en: >-
+    Permite jugar con Dolby Pro Logic II.
+
+    Disfruta del sonido envolvente con un
+
+    sistema que admita Dolby Pro Logic II.
+- id: 14131
+  en: Permite jugar con sonido mono.
+- id: 14132
+  en: Kingdom Hearts {II}
+- id: 14133
+  en: Kingdom Hearts
+- id: 14134
+  en: >-
+    Hace que la apariencia de la ventana de
+
+    comandos cambie en cada mundo que visitas.
+- id: 14135
+  en: >-
+    Mantiene el aspecto original
+
+    de la ventana de comandos.
+- id: 14136
+  en: Principiante
+- id: 14137
+  en: Normal
+- id: 14138
+  en: Experto
+- id: 14139
+  en: >-
+    El nivel más fácil.
+
+    Una vez comenzado el juego, el nivel
+
+    de dificultad no se puede cambiar.
+- id: 14140
+  en: >-
+    Nivel medio, ni muy fácil ni muy difícil.
+
+    Una vez comenzado el juego, el nivel
+
+    de dificultad no se puede cambiar.
+- id: 14141
+  en: >-
+    Nivel avanzado con enemigos más fuertes.
+
+    Una vez comenzado el juego, el nivel
+
+    de dificultad no se puede cambiar.
+- id: 14158
+  en: Rayo invertido
+- id: 14162
+  en: Desactivada
+- id: 14205
+  en: Sanctus
+- id: 14206
+  en: Informar
+- id: 14207
+  en: Solicitar
+- id: 14208
+  en: '{:width 80}Escuchar la historia'
+- id: 14211
+  en: Tras el horizonte
+- id: 14212
+  en: >-
+    Pulsa {:icon button-square} y saltarás hacia
+
+    el objetivo con un ataque veloz.
+- id: 14213
+  en: Omega Final
+- id: 14214
+  en: >-
+    Si pulsas {:icon button-square} en medio de un
+
+    combo, lanzarás otro combo final.
+- id: 14221
+  en: Investigar
+- id: 14225
+  en: >-
+    Roxas:
+
+    Ese lugar me da mala espina...
+- id: 14226
+  en: ''
+- id: 14279
+  en: ¡Coloca la joya!
+- id: 14284
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    Comprobando almacenamiento...
+- id: 14285
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No hay espacio suficiente.
+
+    ¿Quieres empezar el juego de todas formas?
+- id: 14286
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+    No hay almacenamiento.
+
+    ¿Quieres empezar el juego de todas formas?
+- id: 14287
+  en: ¡Adelante, Abú!
+- id: 14288
+  en: Llamar
+- id: 14292
+  en: 1
+- id: 14293
+  en: 2
+- id: 14298
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No hay espacio suficiente.
+
+    ¿Quieres empezar el juego de todas formas?
+- id: 14299
+  en: Platines
+- id: 14424
+  en: Guardar datos.
+- id: 14425
+  en: ¿Ir al mapa de los mundos?
+- id: 14426
+  en: Guardar datos en el almacenamiento.
+- id: 14427
+  en: Cargar datos en el almacenamiento.
+- id: 14429
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No hay almacenamiento.
+- id: 14431
+  en: Desembarcar
+- id: 14432
+  en: Retroestocada
+- id: 14439
+  en: Parar
+- id: 14440
+  en: Danza salvaje
+- id: 14442
+  en: Normal
+- id: 14603
+  en: Giro
+- id: 14604
+  en: TODOS
+- id: 14605
+  en: '{:icon weapon-keyblade}'
+- id: 14606
+  en: '{:icon armor}'
+- id: 14607
+  en: '{:icon item-consumable}'
+- id: 14608
+  en: '{:icon item-key}'
+- id: 14612
+  en: ¡A bailar!
+- id: 14613
+  en: '{:width 90}Sincronización'
+- id: 14614
+  en: Al compás
+- id: 14615
+  en: Apoteosis
+- id: 14619
+  en: Observar
+- id: 14622
+  en: Configurar
+- id: 14623
+  en: Código clúster
+- id: 14624
+  en: Pulso explosivo
+- id: 14625
+  en: Reprogramar
+- id: 14626
+  en: Urnicida
+- id: 14629
+  en: Fulgor
+- id: 14630
+  en: Fulgor++
+- id: 14631
+  en: Ciudad de Halloween
+- id: 14632
+  en: Un mapa del lugar.
+- id: 14633
+  en: Mapa naval
+- id: 14634
+  en: Un mapa del lugar.
+- id: 14635
+  en: Roca del Clan
+- id: 14636
+  en: Un mapa del lugar.
+- id: 14637
+  en: Mercado
+- id: 14638
+  en: Un mapa del lugar.
+- id: 14639
+  en: Área de celdas
+- id: 14640
+  en: Un mapa del lugar.
+- id: 14641
+  en: Villa Crepúsculo
+- id: 14642
+  en: Un mapa del lugar.
+- id: 14643
+  en: Ciudad oscura
+- id: 14644
+  en: Un mapa del lugar.
+- id: 14652
+  en: Sabana
+- id: 14657
+  en: Permite usar el objeto seleccionado.
+- id: 14658
+  en: Desecha el objeto seleccionado.
+- id: 14659
+  en: ¿Sobre quién quieres usarlo?
+- id: 14660
+  en: Todos
+- id: 14661
+  en: Usar objeto sobre todos.
+- id: 14670
+  en: Se usa el objeto sobre {:unk0d }.
+- id: 14671
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    ¿Quieres desechar {:unk0d }{:unk0d }?
+- id: 14721
+  en: Tiro maestro
+- id: 14722
+  en: >-
+    Lanza un poderoso combo final
+
+    para atacar varias veces seguidas
+
+    a un mismo objetivo.
+- id: 14723
+  en: Desastre
+- id: 14724
+  en: >-
+    Lanza un poderoso combo final
+
+    que atrae a varios enemigos y
+
+    les causa daño sucesivamente.
+- id: 14725
+  en: Magia infinita
+- id: 14726
+  en: Lanza infinitos combos mágicos.
+- id: 14729
+  en: Magia maestra
+- id: 14730
+  en: Aumenta el poder de la magia.
+- id: 14731
+  en: Golpe súbito
+- id: 14732
+  en: >-
+    Ataque veloz e infalible contra
+
+    un enemigo cercano.
+- id: 14733
+  en: Corte con finta
+- id: 14734
+  en: >-
+    Lanza un ataque contra
+
+    varios enemigos cercanos.
+- id: 14735
+  en: Látigo deslizante
+- id: 14736
+  en: >-
+    Te plantas rápidamente frente a un
+
+    enemigo lejano y le atacas.
+- id: 14737
+  en: Antibloqueo
+- id: 14738
+  en: >-
+    Lanza un poderoso combo final
+
+    que atraviesa el bloqueo
+
+    del enemigo.
+- id: 14739
+  en: Explosión
+- id: 14740
+  en: >-
+    Lanza un combo final que derriba
+
+    a varios enemigos. El daño
+
+    es proporcional a la habilidad mágica.
+- id: 14741
+  en: Salto letal
+- id: 14742
+  en: >-
+    Si pulsas {:icon button-square} al final de un combo,
+
+    asestas un potente golpe capaz de
+
+    atravesar cualquier defensa.
+- id: 14743
+  en: Contrabloqueo
+- id: 14744
+  en: >-
+    Si pulsas Atacar mientras bloqueas,
+
+    devolverás el ataque al enemigo.
+- id: 14745
+  en: Helicóptero
+- id: 14746
+  en: >-
+    Da un poderoso salto ofensivo
+
+    para atacar a enemigos en el aire.
+- id: 14747
+  en: Aeroespiral
+- id: 14748
+  en: >-
+    Se acerca a objetivos aéreos
+
+    distantes y lanza ataques
+
+    giratorios.
+- id: 14749
+  en: Corte horizontal
+- id: 14750
+  en: >-
+    Si pulsas {:icon button-square} durante un combo aéreo,
+
+    lanzarás un potentísimo ataque horizontal.
+- id: 14751
+  en: Aerofinal
+- id: 14752
+  en: >-
+    Lanza un poderoso combo
+
+    final contra un objetivo aéreo.
+- id: 14753
+  en: Contracorte
+- id: 14754
+  en: >-
+    Si te derriban, pulsa {:icon button-square}.
+
+    Recobrarás rápidamente el
+
+    equilibrio y podrás contraatacar.
+- id: 14770
+  en: ¡Marchen!
+- id: 14771
+  en: ¡Alto!
+- id: 14772
+  en: ¡Descansen!
+- id: 14791
+  en: '{:icon item-consumable}'
+- id: 14792
+  en: '{:icon item-tent}'
+- id: 14793
+  en: '{:icon weapon-keyblade}'
+- id: 14794
+  en: '{:icon weapon-staff}'
+- id: 14795
+  en: '{:icon weapon-shield}'
+- id: 14796
+  en: '{:icon question-mark}'
+- id: 14797
+  en: '{:icon question-mark}'
+- id: 14798
+  en: '{:icon question-mark}'
+- id: 14799
+  en: '{:icon question-mark}'
+- id: 14800
+  en: '{:icon question-mark}'
+- id: 14801
+  en: '{:icon question-mark}'
+- id: 14802
+  en: '{:icon question-mark}'
+- id: 14803
+  en: '{:icon question-mark}'
+- id: 14804
+  en: '{:icon question-mark}'
+- id: 14805
+  en: '{:icon armor}'
+- id: 14806
+  en: '{:icon accessory}'
+- id: 14807
+  en: '{:icon material}'
+- id: 14808
+  en: '{:icon item-key}'
+- id: 14809
+  en: Recarga de Fusión
+- id: 14810
+  en: >-
+    Recupera por completo tres indicadores
+
+    de Fusión. Solo puede usarse en el menú.
+- id: 14811
+  en: Recarga de Fusión+
+- id: 14812
+  en: >-
+    Recupera por completo los indicadores
+
+    de Fusión. Solo puede usarse en el menú.
+- id: 14813
+  en: Impulso de vigor
+- id: 14814
+  en: >-
+    Aumenta en 1 la Fuerza.
+
+    Solo puede usarse en el menú.
+- id: 14815
+  en: Impulso mágico
+- id: 14816
+  en: >-
+    Aumenta en 1 la Magia.
+
+    Solo puede usarse en el menú.
+- id: 14817
+  en: Impulso defensivo
+- id: 14818
+  en: >-
+    Aumenta en 1 la Defensa.
+
+    Solo puede usarse en el menú.
+- id: 14819
+  en: Impulso hábil
+- id: 14820
+  en: >-
+    Aumenta en 1 los PH máximos.
+
+    Solo puede usarse en el menú.
+- id: 14821
+  en: loop demo
+- id: 14823
+  en: Guijarro oscuro
+- id: 14824
+  en: >-
+    Este fragmento de gema contiene el
+
+    poder de la oscuridad. Ingrediente
+
+    muy común para fabricar objetos.
+- id: 14825
+  en: Roca oscura
+- id: 14826
+  en: >-
+    Esta roca encierra el poder de la
+
+    oscuridad. Es un ingrediente común
+
+    para fabricar objetos.
+- id: 14827
+  en: Piedra oscura
+- id: 14828
+  en: >-
+    Esta gema rebosa de oscuridad.
+
+    Es un ingrediente raro
+
+    para fabricar objetos.
+- id: 14829
+  en: Cristal oscuro
+- id: 14830
+  en: >-
+    Este misterioso cristal rebosa del
+
+    poder de la oscuridad. Ingrediente
+
+    muy raro para fabricar objetos.
+- id: 14831
+  en: Disparo de cañón
+- id: 14841
+  en: ¡Vence a 50 formas en 40 segundos!
+- id: 14842
+  en: ¡Vence a 10 formas en 15 segundos!
+- id: 14843
+  en: ¡Vence a 100 formas en 80 segundos!
+- id: 14844
+  en: Niv.
+- id: 14845
+  en: VT
+- id: 14846
+  en: PM
+- id: 14847
+  en: Fuerza
+- id: 14848
+  en: Magia
+- id: 14849
+  en: Defensa
+- id: 14850
+  en: PH
+- id: 14851
+  en: Fusión
+- id: 14853
+  en: Valle del Ñu
+- id: 14863
+  en: Anillo diestro
+- id: 14864
+  en: Aumenta un poco los PH máximos.
+- id: 14865
+  en: Anillo inventor
+- id: 14866
+  en: Aumenta los PH máximos.
+- id: 14867
+  en: Anillo técnico
+- id: 14868
+  en: Aumenta mucho los PH máximos.
+- id: 14869
+  en: Anillo de experto
+- id: 14870
+  en: >-
+    Aumenta los PH máximos
+
+    de forma asombrosa.
+- id: 14871
+  en: Anillo de ónice
+- id: 14872
+  en: >-
+    Aumenta la fuerza y un poco
+
+    los PH máximos.
+- id: 14873
+  en: Aro de turmalina
+- id: 14874
+  en: >-
+    Aumenta la fuerza y
+
+    los PH máximos.
+- id: 14875
+  en: Anillo de aguamarina
+- id: 14876
+  en: >-
+    Aumenta la fuerza y
+
+    mucho los PH máximos.
+- id: 14877
+  en: Anillo granate
+- id: 14878
+  en: >-
+    Aumenta la fuerza y
+
+    enormemente los PH máximos.
+- id: 14879
+  en: Anillo de diamante
+- id: 14880
+  en: >-
+    Aumenta la fuerza y de
+
+    forma notable los PH máximos.
+- id: 14881
+  en: Anillo de plata
+- id: 14882
+  en: >-
+    Aumenta el poder de la magia
+
+    y un poco los PH máximos.
+- id: 14883
+  en: Anillo de oro
+- id: 14884
+  en: >-
+    Aumenta el poder de la magia
+
+    y los PH máximos.
+- id: 14885
+  en: Anillo de platino
+- id: 14886
+  en: >-
+    Aumenta el poder de la magia y
+
+    mucho los PH máximos.
+- id: 14887
+  en: Anillo de mitrilo
+- id: 14888
+  en: >-
+    Aumenta el poder de la magia y
+
+    {:width 90}enormemente{:width 100} los PH máximos.
+- id: 14889
+  en: Anillo orichalcum
+- id: 14890
+  en: >-
+    Aumenta el poder de la magia
+
+    y en forma notable los PH máximos.
+- id: 14891
+  en: Anillo maestro
+- id: 14892
+  en: >-
+    Aumenta los PH máximos
+
+    de forma extraordinaria.
+- id: 14893
+  en: Amuleto lunar
+- id: 14894
+  en: >-
+    Aumenta mucho la fuerza, el poder
+
+    de la magia y los PH máximos.
+- id: 14895
+  en: Talismán estelar
+- id: 14896
+  en: >-
+    Aumenta mucho la fuerza y el poder
+
+    de la magia, y enormemente
+
+    los PH máximos.
+- id: 14897
+  en: Anillo hábil
+- id: 14898
+  en: Aumenta enormemente los PH máximos.
+- id: 14899
+  en: Anillo talentoso
+- id: 14900
+  en: >-
+    Aumenta los PH máximos
+
+    de forma notable.
+- id: 14901
+  en: Aro guerrero
+- id: 14902
+  en: >-
+    Aumenta mucho la fuerza y
+
+    los PH máximos.
+- id: 14903
+  en: Aro espadachín
+- id: 14904
+  en: >-
+    Aumenta el poder de la magia, y
+
+    mucho la fuerza y los PH máximos.
+- id: 14905
+  en: Aro de mago
+- id: 14906
+  en: >-
+    Aumenta mucho los PH máximos
+
+    y el poder de la magia.
+- id: 14907
+  en: Aro asesino
+- id: 14908
+  en: >-
+    Aumenta la fuerza, y mucho el poder
+
+    de la magia y los PH máximos.
+- id: 14909
+  en: Anillo cósmico
+- id: 14910
+  en: >-
+    Aumenta los PH máximos
+
+    increíblemente.
+- id: 14911
+  en: Medalla
+- id: 14912
+  en: Aumenta la fuerza.
+- id: 14913
+  en: Arte cósmica
+- id: 14914
+  en: >-
+    Aumenta mucho la fuerza y el poder
+
+    de la magia, y los PH máximos de
+
+    forma extraordinaria.
+- id: 14915
+  en: Códice tenebroso
+- id: 14916
+  en: >-
+    Aumenta de forma notable
+
+    el poder de la magia
+
+    y los PH máximos.
+- id: 14917
+  en: Códice tenebroso+
+- id: 14918
+  en: >-
+    Aumenta el poder de la magia y los PH
+
+    máximos. Recupera PM según el daño
+
+    recibido. Mayor efecto si activas más.
+- id: 14919
+  en: Anillo afortunado
+- id: 14920
+  en: >-
+    Trae suerte al portador y aumenta
+
+    el número de objetos que aparecen.
+- id: 14921
+  en: Plenaflor
+- id: 14922
+  en: >-
+    Aumenta de forma notable
+
+    la fuerza y los PH máximos.
+- id: 14923
+  en: Anillo magnético
+- id: 14924
+  en: Atrae las esferas cercanas.
+- id: 14925
+  en: Plenaflor+
+- id: 14926
+  en: >-
+    Aumenta la fuerza y los PH máximos.
+
+    Si consumes todos los PM,
+
+    los recuperas más rápidamente.
+- id: 14927
+  en: Pañuelo de duende
+- id: 14928
+  en: Aumenta un poco la defensa.
+- id: 14929
+  en: Pañuelo divino
+- id: 14930
+  en: Aumenta la defensa.
+- id: 14931
+  en: Banda de poder
+- id: 14932
+  en: Aumenta enormemente la defensa.
+- id: 14933
+  en: Banda inmune
+- id: 14934
+  en: >-
+    Tiene un poder de defensa
+
+    extremadamente alto.
+- id: 14935
+  en: Cinto protector
+- id: 14936
+  en: Aumenta mucho la defensa.
+- id: 14937
+  en: Cinto de Gaia
+- id: 14938
+  en: >-
+    Aumenta mucho la defensa y la
+
+    resistencia a ataques de oscuridad
+
+    y Electro.
+- id: 14939
+  en: Cinto cósmico
+- id: 14940
+  en: >-
+    Tiene el mayor poder de
+
+    defensa posible.
+- id: 14941
+  en: Dije galvánico
+- id: 14942
+  en: >-
+    Aumenta enormemente tanto la
+
+    resistencia a hechizos Electro
+
+    como la defensa.
+- id: 14943
+  en: Dije galvánico+
+- id: 14944
+  en: >-
+    Aumenta mucho la resistencia a hechizos
+
+    Electro y la defensa.
+
+    Hechizos Electro más potentes.
+- id: 14945
+  en: Insignia ilustre
+- id: 14946
+  en: Aumenta enormemente todas las resistencias.
+- id: 14951
+  en: Brazal Piro
+- id: 14952
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro y mejora un poco la defensa.
+- id: 14953
+  en: Brazal Piro+
+- id: 14954
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro y mejora la defensa.
+- id: 14955
+  en: Brazal Piro++
+- id: 14956
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro y mejora mucho la defensa.
+- id: 14957
+  en: Brazal Piro+++
+- id: 14958
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos Piro y mejora mucho
+
+    la defensa.
+- id: 14961
+  en: Pulsera Hielo
+- id: 14962
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Hielo y mejora un poco la defensa.
+- id: 14963
+  en: Pulsera Hielo+
+- id: 14964
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Hielo y mejora la defensa.
+- id: 14965
+  en: Pulsera Hielo++
+- id: 14966
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Hielo y mejora mucho la defensa.
+- id: 14967
+  en: Pulsera Hielo+++
+- id: 14968
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos Hielo y mejora mucho
+
+    la defensa.
+- id: 14971
+  en: Colgante Electro
+- id: 14972
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Electro y mejora un poco la defensa.
+- id: 14973
+  en: Colgante Electro+
+- id: 14974
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Electro y mejora la defensa.
+- id: 14975
+  en: Colgante Electro++
+- id: 14976
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Electro y mejora mucho la defensa.
+- id: 14977
+  en: Colgante Electro+++
+- id: 14978
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos Electro y mejora mucho
+    
+    la defensa.
+- id: 14981
+  en: Cadena de sombra
+- id: 14982
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    de oscuridad y mejora un poco
+
+    la defensa.
+- id: 14983
+  en: Cadena oscura
+- id: 14984
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    de oscuridad y mejora la defensa.
+- id: 14985
+  en: Cadena nocturna
+- id: 14986
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    de oscuridad y mejora mucho
+
+    la defensa.
+- id: 14987
+  en: Cadena del caos
+- id: 14988
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos de oscuridad y mejora
+
+    mucho la defensa.
+- id: 14991
+  en: Cadena de Abas
+- id: 14992
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro, Hielo y Electro, y mejora
+
+    un poco la defensa.
+- id: 14993
+  en: Cadena de Aegis
+- id: 14994
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro, Hielo, Electro, y mejora la
+
+    defensa.
+- id: 14995
+  en: Acrisius
+- id: 14996
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro, Hielo, Electro, y mejora
+
+    mucho la defensa.
+- id: 14997
+  en: Insignia
+- id: 14998
+  en: Aumenta todas las resistencias.
+- id: 14999
+  en: Cinto de campeón
+- id: 15000
+  en: >-
+    Aumenta la resistencia a hechizos
+
+    Piro, Hielo y Electro.
+- id: 15001
+  en: Pequeña insignia
+- id: 15002
+  en: >-
+    Aumenta un poco todas
+
+    las resistencias.
+- id: 15003
+  en: Acrisius+
+- id: 15004
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos Piro, Hielo, Electro, y
+
+    mejora mucho la defensa.
+- id: 15005
+  en: Cadena cósmica
+- id: 15006
+  en: >-
+    Aumenta mucho la resistencia a
+
+    hechizos Piro, Hielo, Electro, y
+
+    mejora la defensa.
+- id: 15023
+  en: Guijarro ígneo
+- id: 15024
+  en: >-
+    Este fragmento de gema contiene el
+
+    poder del fuego. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15025
+  en: Roca ígnea
+- id: 15026
+  en: >-
+    Esta roca encierra el poder del
+
+    fuego. Es un ingrediente común
+
+    para fabricar objetos.
+- id: 15027
+  en: Piedra ígnea
+- id: 15028
+  en: >-
+    Esta gema rebosa con el poder del
+
+    fuego. Es un elemento extraño que
+
+    sirve para fabricar objetos.
+- id: 15029
+  en: Cristal ígneo
+- id: 15030
+  en: >-
+    Este misterioso cristal rebosa con el
+
+    poder del fuego. Es un elemento
+
+    extraño que sirve para fabricar objetos.
+- id: 15039
+  en: Guijarro luminoso
+- id: 15040
+  en: >-
+    Fragmento de gema con el poder del
+
+    relámpago. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15041
+  en: Roca luminosa
+- id: 15042
+  en: >-
+    Esta roca encierra el poder del
+
+    relámpago. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15043
+  en: Piedra luminosa
+- id: 15044
+  en: >-
+    Esta gema rebosa del poder del
+
+    relámpago. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15045
+  en: Cristal luminoso
+- id: 15046
+  en: >-
+    Este misterioso cristal rebosa del
+
+    poder del relámpago. Un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15047
+  en: Guijarro fuerte
+- id: 15048
+  en: >-
+    Este fragmento de gema contiene una
+
+    fuerza enorme. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15049
+  en: Roca fuerte
+- id: 15050
+  en: >-
+    Esta roca encierra una enorme
+
+    fuerza. Es un ingrediente común
+
+    para fabricar objetos.
+- id: 15051
+  en: Piedra fuerte
+- id: 15052
+  en: >-
+    Esta gema rebosa de fuerza.
+
+    Es un ingrediente raro
+
+    para fabricar objetos.
+- id: 15053
+  en: Cristal fuerte
+- id: 15054
+  en: >-
+    Este misterioso cristal rebosa
+
+    fuerza. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15055
+  en: Guijarro claro
+- id: 15056
+  en: >-
+    Este fragmento de gema emite un
+
+    poderoso fulgor. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15057
+  en: Roca clara
+- id: 15058
+  en: >-
+    Esta roca encierra un poderoso
+
+    fulgor. Es un ingrediente común
+
+    para fabricar objetos.
+- id: 15059
+  en: Piedra clara
+- id: 15060
+  en: >-
+    Esta gema rebosa de poderoso
+
+    fulgor. Es un ingrediente raro
+
+    para fabricar objetos.
+- id: 15061
+  en: Cristal claro
+- id: 15062
+  en: >-
+    Este misterioso cristal rebosa de
+
+    un fulgor poderoso. Un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15063
+  en: Guijarro denso
+- id: 15064
+  en: >-
+    Este fragmento de gema contiene
+
+    poder de concentración. Ingrediente
+
+    muy común para fabricar objetos.
+- id: 15065
+  en: Roca densa
+- id: 15066
+  en: >-
+    Esta roca encierra un gran poder de
+
+    concentración. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15067
+  en: Piedra densa
+- id: 15068
+  en: >-
+    Esta gema rebosa de poder de
+
+    concentración. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15069
+  en: Cristal denso
+- id: 15070
+  en: >-
+    Este misterioso cristal rebosa de
+
+    poder de concentración. Ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15071
+  en: Guijarro del ocaso
+- id: 15072
+  en: >-
+    Este fragmento de gema contiene el
+
+    poder de la penumbra. Ingrediente
+
+    muy común para fabricar objetos.
+- id: 15073
+  en: Roca crepuscular
+- id: 15074
+  en: >-
+    Esta roca encierra el poder de
+
+    la penumbra. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15075
+  en: Piedra crepuscular
+- id: 15076
+  en: >-
+    Esta gema rebosa del poder de
+
+    la penumbra. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15077
+  en: Cristal crepuscular
+- id: 15078
+  en: >-
+    Este misterioso cristal rebosa del
+
+    poder de la penumbra. Ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15079
+  en: Trozo de mitrilo
+- id: 15080
+  en: >-
+    Fragmento de un mineral muy raro y valioso.
+
+    Es un ingrediente muy común para fabricar
+
+    objetos.
+- id: 15081
+  en: Roca de mitrilo
+- id: 15082
+  en: >-
+    Valiosa roca de mitrilo puro. Es un
+
+    ingrediente común para fabricar
+
+    objetos.
+- id: 15083
+  en: Piedra de mitrilo
+- id: 15084
+  en: >-
+    Esta gema contiene gran cantidad
+
+    de mitrilo. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15085
+  en: Cristal de mitrilo
+- id: 15086
+  en: >-
+    Un misterioso cristal de mitrilo.
+
+    Es un ingrediente muy raro
+
+    para fabricar objetos.
+- id: 15087
+  en: Guijarro vital
+- id: 15088
+  en: >-
+    Este fragmento de gema contiene un
+
+    brillo intenso. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15089
+  en: Roca vital
+- id: 15090
+  en: >-
+    Esta roca encierra un brillo
+
+    muy intenso. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15091
+  en: Piedra vital
+- id: 15092
+  en: >-
+    Esta gema emite un brillo muy
+
+    intenso. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15093
+  en: Cristal vital
+- id: 15094
+  en: >-
+    Este misterioso cristal emite un
+
+    brillo deslumbrante. Ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15095
+  en: Guijarro de poder
+- id: 15096
+  en: >-
+    Este fragmento de gema contiene una
+
+    intensa energía. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15097
+  en: Roca de poder
+- id: 15098
+  en: >-
+    Esta roca encierra una energía
+
+    muy intensa. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15099
+  en: Piedra de poder
+- id: 15100
+  en: >-
+    Esta gema rebosa de energía.
+
+    Es un ingrediente raro
+
+    para fabricar objetos.
+- id: 15101
+  en: Cristal de poder
+- id: 15102
+  en: >-
+    Este misterioso cristal rebosa de
+
+    energía. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15103
+  en: Guijarro sereno
+- id: 15104
+  en: >-
+    Fragmento de gema con el poder de
+
+    la satisfacción. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15105
+  en: Roca serena
+- id: 15106
+  en: >-
+    Esta roca encierra el poder de la
+
+    satisfacción. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 15107
+  en: Piedra serena
+- id: 15108
+  en: >-
+    Esta gema rebosa del poder de
+
+    la satisfacción. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 15109
+  en: Cristal sereno
+- id: 15110
+  en: >-
+    Misterioso cristal con el poder de
+
+    la satisfacción. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15111
+  en: Orichalcum+
+- id: 15112
+  en: >-
+    Es el mineral más raro y preciado
+
+    que existe. Sirve de ingrediente
+
+    para fabricar objetos.
+- id: 15113
+  en: Monedero
+- id: 15114
+  en: >-
+    Un monedero hecho a mano.
+
+    Contiene 5.000 platines
+
+    ganados con esfuerzo.
+- id: 15115
+  en: Esfera de cristal
+- id: 15116
+  en: >-
+    Un bonito cristal.
+
+    Si lo pones al sol,
+
+    brilla con destellos.
+- id: 15117
+  en: Trofeo de Seifer
+- id: 15118
+  en: >-
+    Un trofeo que te dio Seifer.
+
+    Está decorado con cuatro
+
+    esferas de cristal.
+- id: 15119
+  en: Cartel del torneo
+- id: 15120
+  en: >-
+    Anuncio del torneo Struggle.
+
+    Dice: ‛¡Prepárate para
+
+    divertirte a lo grande!’
+- id: 15121
+  en: Cartel
+- id: 15122
+  en: >-
+    Cartel ordinario.
+
+    La gente de Villa Crepúsculo
+
+    lo usa para anunciar cosas.
+- id: 15123
+  en: Carta
+- id: 15124
+  en: >-
+    Una carta de uno de los trabajos a
+
+    tiempo parcial. ¡Encárgate de que
+
+    llegue a su destino!
+- id: 15125
+  en: Bocetos de Naminé
+- id: 15126
+  en: >-
+    Unos bocetos que dejó Naminé.
+
+    Los dibujos parecen tener un
+
+    profundo significado.
+- id: 15127
+  en: Carné de miembro
+- id: 15128
+  en: >-
+    Miembro del Comité de Restauración
+
+    {:width 90}de Bastión Hueco{:width 100}.
+
+    Extraño carné de miembro honorario.
+- id: 15129
+  en: Piedra del Olimpo
+- id: 15130
+  en: >-
+    Piedra de los dioses del Olimpo.
+
+    Sirve como protección contra
+
+    la maldición del Inframundo.
+- id: 15131
+  en: Muñeco de Auron
+- id: 15132
+  en: >-
+    Un muñeco idéntico a Auron.
+
+    Dicen que tiene su voluntad cautiva.
+
+    Debe ser devuelto a Auron pronto.
+- id: 15133
+  en: Oro maldito
+- id: 15134
+  en: >-
+    Una pieza de oro maldecido.
+
+    Tiene grabada una calavera.
+- id: 15135
+  en: Regalo
+- id: 15136
+  en: >-
+    Un regalo que fue robado.
+
+    El envoltorio es muy bonito.
+- id: 15137
+  en: Regalos trampa
+- id: 15138
+  en: >-
+    Regalos hechos como señuelo.
+
+    Son réplicas casi perfectas.
+- id: 15139
+  en: Helado
+- id: 15140
+  en: >-
+    Helado hallado dentro de la caja.
+
+    Mmm. Es refrescante y sabe
+
+    muy bien.
+- id: 15141
+  en: Foto
+- id: 15142
+  en: >-
+    Foto hallada dentro de la caja.
+
+    Se ve a Hayner y a la pandilla frente
+
+    a la mansión de Villa Crepúsculo.
+- id: 15143
+  en: Orichalcum
+- id: 15144
+  en: >-
+    Un mineral muy raro y preciado.
+
+    Sirve de ingrediente
+
+    para fabricar objetos.
+- id: 15146
+  en: Mundo de la Nada
+- id: 15147
+  en: Mundo de la Nada
+- id: 15171
+  en: Balancear
+- id: 15172
+  en: Soltar
+- id: 15176
+  en: Saltar
+- id: 15177
+  en: Subir
+- id: 15178
+  en: Todos
+- id: 15179
+  en: Bloqueo de disco
+- id: 15180
+  en: Golpe de disco
+- id: 15194
+  en: >-
+    Sora:
+
+    ¿Pero qué hay de los sincorazón?
+- id: 15195
+  en: ''
+- id: 15199
+  en: Mundo de la Nada
+- id: 15204
+  en: Borrar
+- id: 15205
+  en: Cancelar
+- id: 15206
+  en: Devolver
+- id: 15207
+  en: Luz prístina
+- id: 15208
+  en: Anillo ígneo
+- id: 15209
+  en: Guijarro frío
+- id: 15210
+  en: >-
+    Este fragmento de gema contiene el
+
+    poder del hielo. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 15211
+  en: Roca fría
+- id: 15212
+  en: >-
+    Esta roca encierra el poder del
+
+    hielo. Es un ingrediente común
+
+    para fabricar objetos.
+- id: 15213
+  en: Piedra fría
+- id: 15214
+  en: >-
+    Esta gema rebosa con el poder del
+
+    hielo. Es un ingrediente extraño que
+
+    sirve para fabricar objetos.
+- id: 15215
+  en: Cristal frío
+- id: 15216
+  en: >-
+    Este misterioso cristal rebosa del
+
+    poder del hielo. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 15217
+  en: Omnireceta
+- id: 15218
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15219
+  en: Fantasmal
+- id: 15220
+  en: Interceptar
+- id: 15225
+  en: Chicken Little
+- id: 15226
+  en: Amuleto de béisbol
+- id: 15227
+  en: >-
+    Con la ayuda de dos amigos, usa
+
+    el comando Invocar y
+
+    Chicken Little te echará una mano.
+- id: 15228
+  en: Mundo de la Nada
+- id: 15235
+  en: ¡Vence a todos los sincorazón!
+- id: 15236
+  en: ¡Vence a todos los incorpóreos!
+- id: 15237
+  en: ¡Vence a todos los enemigos!
+- id: 15238
+  en: >-
+    Permite cambiar el equipo de un personaje.
+
+    Para usar un objeto en el campo de
+
+    acción, debes activarlo antes.
+- id: 15239
+  en: >
+    En el baúl, hay objetos.
+
+    Los objetos pueden usarse o desecharse.
+- id: 15240
+  en: No se puede reemplazar a nadie.
+- id: 15241
+  en: >-
+    Permite configurar los botones de acceso
+
+    directo y otras funciones.
+- id: 15242
+  en: >-
+    Cambia la configuración de
+
+    los miembros del grupo.
+- id: 15243
+  en: >-
+    Permite activar habilidades para cada
+
+    miembro del grupo.
+- id: 15244
+  en: >-
+    Confirma la habilidad de Forma.
+    
+    Estas habilidades no pueden cambiarse.
+- id: 15247
+  en: Pegar
+- id: 15248
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    {:unk0d }{:unk0d } no tendría ningún efecto.
+- id: 15249
+  en: Entregar
+- id: 15250
+  en: Saltar
+- id: 15252
+  en: Sanctus
+- id: 15253
+  en: Taller de Mogu
+- id: 15254
+  en: Fabricar
+- id: 15279
+  en: Carga F.
+- id: 15280
+  en: Fulgor de vida
+- id: 15281
+  en: Espada Struggle
+- id: 15282
+  en: >-
+    Arma de juguete usada en
+
+    combates de Struggle.
+- id: 15283
+  en: Salir
+- id: 15284
+  en: Salir de la guía.
+- id: 15285
+  en: Fabricar
+- id: 15286
+  en: Fabricar objetos.
+- id: 15292
+  en: Lista de materiales ya entregados a los Moguris.
+- id: 15295
+  en: Selecciona el objeto a fabricar.
+- id: 15297
+  en: Ayudar
+- id: 15298
+  en: ¡Si llenas el indicador de Fusión, podrás usar Fulgor de vida!
+- id: 15299
+  en: ¡Usa Fulgor de vida para salvar a Sora!
+- id: 15300
+  en: ¡Usa Fulgor de vida para intercambiarte con Sora!
+- id: 15302
+  en: Tipos
+- id: 15303
+  en: 	Total
+- id: 15304
+  en: ''
+- id: 15305
+  en: Media vuelta
+- id: 15306
+  en: Auto-valentía
+- id: 15307
+  en: >-
+    En casos de emergencia, si la Forma
+
+    valiente está disponible, el comando
+
+    de reacción cambia a Valiente.
+- id: 15308
+  en: Auto-sabia
+- id: 15309
+  en: >-
+    En casos de emergencia, si la Forma
+
+    sabia está disponible, el comando
+
+    de reacción cambia a Sabia.
+- id: 15310
+  en: Auto-maestra
+- id: 15311
+  en: >-
+    En casos de emergencia, si la Forma
+
+    maestra está disponible, el comando
+
+    de reacción cambia a Maestra.
+- id: 15312
+  en: Auto-final
+- id: 15313
+  en: >-
+    En casos de emergencia, si la Forma
+
+    final está disponible, el comando
+
+    de reacción cambia a Final.
+- id: 15314
+  en: Auto-invocar
+- id: 15315
+  en: >-
+    Si puede usarse Invocar y un aliado
+
+    es derribado, el comando de
+
+    reacción cambia a Invocar.
+- id: 15316
+  en: Extracombo
+- id: 15317
+  en: >-
+    Aumenta el daño del ataque
+
+    final en tierra, en relación al
+
+    número de golpes del combo.
+- id: 15318
+  en: Extracombo aéreo
+- id: 15319
+  en: >-
+    Aumenta el daño del ataque
+
+    final en el aire, en relación al
+
+    número de golpes del combo.
+- id: 15320
+  en: Extrarreacción
+- id: 15321
+  en: >-
+    {:color #F0F00080}Aumenta un 50%{:reset} el daño causado
+
+    con comandos de reacción.
+
+    Cuantos más actives, mayor efecto.
+- id: 15322
+  en: Letal +
+- id: 15323
+  en: >-
+    Lanza varios ataques letales
+
+    después de los combos.
+- id: 15324
+  en: Combo negativo
+- id: 15325
+  en: >-
+    Reduce en 1 el combo máximo
+
+    en tierra y en aire.
+- id: 15326
+  en: Carga de locura
+- id: 15327
+  en: >-
+    {:color #F0F00080}Aumenta en 2{:reset} la fuerza durante la Carga PM
+
+    y permite combos ilimitados, pero desactiva
+
+    el ataque final del combo.
+- id: 15328
+  en: Fusión por daño
+- id: 15329
+  en: >-
+    {:width 90}Llena el indicador de Fusión cada
+
+    vez que sufres daño. La recarga es
+
+    proporcional al daño recibido.
+- id: 15330
+  en: Extrafusión
+- id: 15331
+  en: >-
+    Permite una recuperación más rápida del
+
+    indicador de Fusión durante la Carga PM.
+
+    Cuantos más activas, mayor efecto.
+- id: 15332
+  en: Extraforma
+- id: 15333
+  en: >-
+    Aumenta la duración de cada Forma de Fusión.
+
+    Cuantos más activas, mayor efecto.
+- id: 15334
+  en: Extrainvocar
+- id: 15335
+  en: >-
+    Extiende la permanencia del aliado
+
+    cuando usas Invocar.
+- id: 15336
+  en: Extralímite
+- id: 15337
+  en: >-
+    Extiende el tiempo
+
+    que duran los Límites.
+- id: 15338
+  en: Extraexperiencia
+- id: 15339
+  en: >-
+    Si la VT cae a menos de la mitad, {:color #F0F00080}aumenta
+
+    un 100%{:reset} la experiencia ganada al vencer enemigos.
+
+    Cuantos más activas, mayor efecto.
+- id: 15340
+  en: Hoja sana
+- id: 15341
+  en: >-
+    Si usas Cura sobre ti mismo,
+
+    seguirás curándote incluso
+
+    cuando te ataquen.
+- id: 15342
+  en: Blanco fijo mágico
+- id: 15343
+  en: >-
+    Fija un blanco automáticamente
+
+    al lanzar Piro, Hielo, Electro
+
+    o Magneto.
+- id: 15344
+  en: Experiencia 0
+- id: 15345
+  en: '{:color #F0F00080}No ganas experiencia{:reset} al derrotar enemigos.'
+- id: 15346
+  en: Atracción
+- id: 15347
+  en: >-
+    Acerca y recoge esferas cercanas.
+
+    Activa dos para atraer esferas
+
+    más lejanas.
+- id: 15348
+  en: Más premios
+- id: 15349
+  en: >-
+    Aumenta la cantidad de esferas VT,
+
+    PM y platines que aparecen. Si todo
+
+    el grupo lo lleva, más aparecerán.
+- id: 15350
+  en: ¡Vaya suerte!
+- id: 15351
+  en: >-
+    Aumenta la cantidad de objetos
+
+    que aparecen. Si todo el grupo
+
+    lo lleva equipado, más aparecerán.
+- id: 15352
+  en: Extrapiro
+- id: 15353
+  en: >-
+    Aumenta el daño de los
+
+    ataques Piro en un {:color #F0F00080}20%{:reset}.
+
+    Cuantos más activas, mayor efecto.
+- id: 15354
+  en: Extrahielo
+- id: 15355
+  en: >-
+    Aumenta el daño de los
+
+    ataques Hielo en un {:color #F0F00080}20%{:reset}.
+
+    Cuantos más activas, mayor efecto.
+- id: 15356
+  en: Extraelectro
+- id: 15357
+  en: >-
+    Aumenta el daño de los
+
+    ataques Electro en un {:color #F0F00080}20%{:reset}.
+
+    Cuantos más activas, mayor efecto.
+- id: 15358
+  en: Extraobjetos
+- id: 15359
+  en: >-
+    Aumenta el efecto de los objetos
+
+    de cura en la batalla en un {:color #F0F00080}50%{:reset}.
+
+    Cuantos más activas, mayor efecto.
+- id: 15360
+  en: Aspirar daño
+- id: 15361
+  en: >-
+    Recupera PM en proporción al
+
+    daño que recibes. Si activas más,
+
+    el efecto aumentará.
+- id: 15362
+  en: Prisa PM
+- id: 15363
+  en: >-
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 25%{:reset}
+
+    la velocidad de recuperación de los mismos.
+
+    Cuantos más activas, mayor efecto.
+- id: 15364
+  en: Defensor
+- id: 15365
+  en: >-
+    Aumenta la defensa en {:color #F0F00080}3{:reset} al instante.
+
+    Cuantos más activas, mayor efecto.
+- id: 15366
+  en: Último estertor
+- id: 15367
+  en: >-
+    Asegura un punto de vitalidad
+
+    si recibes daños severos.
+- id: 15368
+  en: Una vez más
+- id: 15369
+  en: >-
+    Asegura un punto de vitalidad si
+
+    recibes daños a causa de un combo.
+- id: 15370
+  en: Auto Límite
+- id: 15371
+  en: >-
+    Si está disponible, el comando
+
+    de reacción cambia a Límite.
+- id: 15372
+  en: Cambio automático
+- id: 15373
+  en: >-
+    Reemplaza automáticamente a los
+
+    miembros del grupo caídos.
+- id: 15374
+  en: Ultracura
+- id: 15375
+  en: >-
+    Revive rápidamente a un aliado
+
+    caído y le devuelve mucha VT.
+- id: 15376
+  en: Autocura
+- id: 15377
+  en: >-
+    Devuelve la VT a un aliado que haya
+
+    sido reemplazado por otro con Cambiar.
+- id: 15378
+  en: Prisa PM+
+- id: 15379
+  en: >-
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 50%{:reset}
+
+    la velocidad de recuperación de los mismos.
+
+    Cuantos más activas, mayor efecto.
+- id: 15380
+  en: Prisa PM++
+- id: 15381
+  en: >-
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 75%{:reset}
+
+    la velocidad de recuperación de los mismos.
+
+    Cuantos más activas, mayor efecto.
+- id: 15483
+  en: Halosfera
+- id: 15485
+  en: Goofy Tornado
+- id: 15486
+  en: >-
+    ¡Con un torbellino, atrae a los
+
+    enemigos y los ataca!{:color #F0F00080} Coste PM: 10{:reset}
+- id: 15489
+  en: Goofy Turbo
+- id: 15490
+  en: >-
+    Corre entre los enemigos y los arroja
+
+    hacia Sora. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15491
+  en: Tajo frenético
+- id: 15492
+  en: >-
+    Detiene los movimientos del enemigo con
+
+    una súbita serie de ataques. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15493
+  en: Jugada veloz
+- id: 15494
+  en: >-
+    Se abalanza sobre el enemigo para
+
+    conseguir esferas. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15495
+  en: Divisor
+- id: 15496
+  en: >-
+    Mientras vuela, ataca a enemigos
+
+    cercanos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15497
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Has entregado todos {:color #FFFF0080}los materiales de fabricación{:reset}
+
+    que tenías en el baúl.
+- id: 15498
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Has entregado todas {:color #FFFF0080}las recetas{:reset}
+
+    que tenías en el baúl.
+- id: 15499
+  en: Registro
+- id: 15500
+  en: Creaciones
+- id: 15501
+  en: 'L{:width 70}ibre {:width 90}d{:width 70}esarrollo'
+- id: 15502
+  en: Recetas
+- id: 15503
+  en: Salir
+- id: 15504
+  en: Confirmar materiales entregados.
+- id: 15505
+  en: Fabricar viejos objetos.
+- id: 15506
+  en: Hacer que los Moguris desarrollen nuevos objetos.
+- id: 15507
+  en: Fabricar objetos con las recetas que has conseguido.
+- id: 15508
+  en: Cerrar menú.
+- id: 15509
+  en: Fabricación de objetos
+- id: 15510
+  en: Goofy Escudo
+- id: 15511
+  en: >-
+    {:width 90}Un eficaz ataque de amplio alcance. Lanza el
+
+    escudo a un enemigo lejano. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15512
+  en: Ráfaga feroz
+- id: 15513
+  en: >-
+    Se lanza varias veces sobre el enemigo en una
+
+    ráfaga de ataques furiosos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15514
+  en: Furia ardiente
+- id: 15515
+  en: >-
+    Envuelto en llamas, persigue al
+
+    enemigo. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15516
+  en: Terror gélido
+- id: 15517
+  en: >-
+    Cristales de hielo envuelven al enemigo
+
+    en un feroz ataque. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15518
+  en: Rayos de dolor
+- id: 15519
+  en: >-
+    Llueven rayos sobre el enemigo.
+
+    {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15520
+  en: Fuego de Mushu
+- id: 15521
+  en: >-
+    Mushu ataca a los enemigos cercanos
+
+    con su aliento de fuego. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15522
+  en: Lengua ígnea
+- id: 15523
+  en: >-
+    Se lanza contra enemigos aéreos,
+
+    {:width 95}envuelta en el fuego de Mushu. {:color #F0F00080}Coste PM: 10{:reset}{:width 100}
+- id: 15524
+  en: Escudo oscuro
+- id: 15525
+  en: >-
+    Un escudo de oscuridad bloquea los
+
+    ataques enemigos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15528
+  en: Razia tenebrosa
+- id: 15529
+  en: >-
+    Tras un combo, detiene los movimientos
+
+    enemigos con magia oscura. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15530
+  en: Garra fiera
+- id: 15531
+  en: >-
+    Lanza ataques sucesivos contra un
+
+    enemigo. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15532
+  en: Sismo
+- id: 15533
+  en: >-
+    Con un grito de guerra demoledor, ataca
+
+    a enemigos cercanos. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15540
+  en: Disco dirigido
+- id: 15541
+  en: >-
+    Lanza un disco que busca y ataca a un
+
+    enemigo. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15542
+  en: Lento 2
+- id: 15543
+  en: (Delete)
+- id: 15544
+  en: Inmisericorde
+- id: 15545
+  en: >-
+    ¡No hay forma de eludir este
+    
+    ataque! {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15546
+  en: Diluvio
+- id: 15547
+  en: >-
+    Arroja sucesivamente armas
+
+    al enemigo. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15548
+  en: Rompehuesos
+- id: 15549
+  en: >-
+    Arroja bombas al objetivo de forma
+
+    continua. {:color #F0F00080}Coste PM: 10{:reset}
+- id: 15550
+  en: '{:icon rank-c}'
+- id: 15551
+  en: '{:icon rank-b}'
+- id: 15552
+  en: '{:icon rank-a}'
+- id: 15553
+  en: '{:icon rank-s}'
+- id: 15554
+  en: '{:icon gem-dark}'
+- id: 15555
+  en: '{:icon gem-blaze}'
+- id: 15556
+  en: '{:icon gem-frost}'
+- id: 15557
+  en: '{:icon gem-lightning}'
+- id: 15558
+  en: '{:icon gem-power}'
+- id: 15559
+  en: '{:icon gem-lucid}'
+- id: 15560
+  en: '{:icon gem-dense}'
+- id: 15561
+  en: '{:icon gem-twilight}'
+- id: 15562
+  en: '{:icon gem-mythril}'
+- id: 15563
+  en: '{:icon gem-bright}'
+- id: 15564
+  en: '{:icon gem-energy}'
+- id: 15565
+  en: '{:icon gem-serenity}'
+- id: 15566
+  en: '{:icon gem-orichalcum}'
+- id: 15569
+  en: Colgar
+- id: 15570
+  en: Moguri amateur
+- id: 15571
+  en: Moguri novato
+- id: 15572
+  en: Moguri aprendiz
+- id: 15573
+  en: Moguri avispado
+- id: 15574
+  en: Moguri experto
+- id: 15575
+  en: Moguri artesano
+- id: 15576
+  en: Moguri maestro
+- id: 15577
+  en: Moguri superior
+- id: 15578
+  en: Moguri principal
+- id: 15579
+  en: ???
+- id: 15580
+  en: Not Used
+- id: 15581
+  en: Listas
+- id: 15582
+  en: Confirmar listas de colecciones completas.
+- id: 15583
+  en: '{:icon button-square}Lista de la colección'
+- id: 15584
+  en: Lista de objetos fabricados por los Moguris.
+- id: 15585
+  en: '{:icon button-square}Registro de materiales'
+- id: 15587
+  en: '{:width 90}Competir'
+- id: 15588
+  en: Mundo de la Nada
+- id: 15589
+  en: No hay objetos.
+- id: 15590
+  en: Materiales de fabricación que tienes en el baúl.
+- id: 15591
+  en: No hay objetos.
+- id: 15598
+  en: País de Nunca Jamás
+- id: 15599
+  en: ¡Mi sombra!
+- id: 15600
+  en: Chico volador
+- id: 15601
+  en: Pequeña hada
+- id: 15602
+  en: Wendy
+- id: 15603
+  en: Anti Sora
+- id: 15604
+  en: ¡Volarás!
+- id: 15605
+  en: Viejo rival
+- id: 15606
+  en: Victoria
+- id: 15607
+  en: Torre del reloj
+- id: 15608
+  en: Regalo
+- id: 15609
+  en: Fin del viaje
+- id: 15615
+  en: Locura
+- id: 15616
+  en: Receta estelar
+- id: 15617
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15618
+  en: Receta de recarga
+- id: 15619
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15620
+  en: Receta hábil
+- id: 15621
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15622
+  en: Receta de bloqueo
+- id: 15623
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15624
+  en: Dummy
+- id: 15625
+  en: Synthesis Recipe
+- id: 15626
+  en: Dummy
+- id: 15627
+  en: Synthesis Recipe
+- id: 15628
+  en: Dummy
+- id: 15629
+  en: Synthesis Recipe
+- id: 15630
+  en: Dummy
+- id: 15631
+  en: Synthesis Recipe
+- id: 15632
+  en: Dummy
+- id: 15633
+  en: Synthesis Recipe
+- id: 15634
+  en: Dummy
+- id: 15635
+  en: Synthesis Recipe
+- id: 15636
+  en: Dummy
+- id: 15637
+  en: Synthesis Recipe
+- id: 15638
+  en: Dummy
+- id: 15639
+  en: Synthesis Recipe
+- id: 15640
+  en: Dummy
+- id: 15641
+  en: Synthesis Recipe
+- id: 15642
+  en: Dummy
+- id: 15643
+  en: Synthesis Recipe
+- id: 15644
+  en: Dummy
+- id: 15645
+  en: Synthesis Recipe
+- id: 15646
+  en: Receta experimental
+- id: 15647
+  en: >-
+    Esta receta requiere materiales
+
+    de fabricación especiales.
+- id: 15648
+  en: Receta trascendental
+- id: 15649
+  en: >-
+    Esta receta requiere materiales
+
+    de fabricación especiales.
+- id: 15650
+  en: Receta de tinieblas
+- id: 15651
+  en: >-
+    Esta receta requiere materiales
+
+    de fabricación especiales.
+- id: 15652
+  en: Receta iónica
+- id: 15653
+  en: >-
+    Esta receta requiere materiales
+
+    de fabricación especiales.
+- id: 15654
+  en: Receta imperecedera
+- id: 15655
+  en: >-
+    Esta receta requiere materiales
+
+    de fabricación especiales.
+- id: 15656
+  en: Legajo vetusto
+- id: 15657
+  en: >-
+    ¿Qué rareza permitirá fabricar
+
+    esta ancestral receta?
+- id: 15658
+  en: Dummy 23
+- id: 15659
+  en: Synthesis Recipe 23
+- id: 15660
+  en: Dummy 24
+- id: 15661
+  en: Synthesis Recipe 24
+- id: 15662
+  en: Dummy 25
+- id: 15663
+  en: Synthesis Recipe 25
+- id: 15664
+  en: Dummy 26
+- id: 15665
+  en: Synthesis Recipe 26
+- id: 15666
+  en: Dummy 27
+- id: 15667
+  en: Synthesis Recipe 27
+- id: 15668
+  en: Receta de estilo
+- id: 15669
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15670
+  en: Receta lunar
+- id: 15671
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15672
+  en: Receta de la reina
+- id: 15673
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15674
+  en: Receta del rey
+- id: 15675
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15676
+  en: Receta definitiva
+- id: 15677
+  en: >-
+    Una antigua receta de fabricación,
+
+    escrita en un lenguaje que solo
+
+    los Moguris comprenden.
+- id: 15711
+  en: Atravesar
+- id: 15713
+  en: Trío
+- id: 15714
+  en: Súmmum
+- id: 15715
+  en: Artema
+- id: 15716
+  en: Fusión extrema
+- id: 15717
+  en: Combo inicial
+- id: 15729
+  en: Materiales
+- id: 15730
+  en: Demoledor
+- id: 15731
+  en: Romper
+- id: 15754
+  en: Niv. moguri
+- id: 15755
+  en: Siguiente niv.
+- id: 15756
+  en: Receta moguri
+- id: 15757
+  en: Categoría de objeto {:unk0d }
+- id: 15758
+  en: Necesario/Cantidad
+- id: 15759
+  en: Baúl
+- id: 15760
+  en: '{:icon button-square}Materiales'
+- id: 15761
+  en: Fabricar objeto.
+- id: 15765
+  en: Sanar
+- id: 15767
+  en: Agarrar
+- id: 15768
+  en: Rescatar
+- id: 15769
+  en: Agarrar
+- id: 15770
+  en: Del brazo
+- id: 15771
+  en: A caballito
+- id: 15772
+  en: ¡Media vuelta!
+- id: 15773
+  en: Figurón
+- id: 15850
+  en: Rechazar
+- id: 15866
+  en: Explorador estelar
+- id: 15867
+  en: >-
+    Cuando estás en el aire,
+
+    aumenta en 1 el combo máximo.
+- id: 15868
+  en: Dragón oculto
+- id: 15869
+  en: >-
+    Devuelve PM en relación
+
+    proporcional al daño que recibes.
+- id: 15870
+  en: Viva la reina
+- id: 15871
+  en: >-
+    Gran fuerza y poder mágicos.
+
+    Si te derriban, revives muy
+
+    rápido y recuperas mucha VT.
+- id: 15872
+  en: Viva el rey
+- id: 15873
+  en: >-
+    Recio escudo de gran fuerza y poder defensivo.
+
+    {:color #F0F00080}Aumenta un 50%{:reset} el efecto de los objetos
+
+    de cura en la batalla.
+- id: 15906
+  en: '{:width 95}No hay objetos por crear.'
+- id: 15915
+  en: '{:icon ai-settings}'
+- id: 15918
+  en: Emblema de héroe
+- id: 15919
+  en: >-
+    Aumenta el daño de los ataques
+
+    finales en el aire, en proporción
+
+    al número de golpes del combo.
+- id: 15920
+  en: Monocromo
+- id: 15921
+  en: >-
+    {:color #F0F00080}Aumenta un 50%{:reset} el efecto de los objetos
+
+    de cura en la batalla.
+- id: 15922
+  en: Sigue al viento
+- id: 15923
+  en: Atrae las esferas cercanas.
+- id: 15924
+  en: Círculo de Vida
+- id: 15925
+  en: >-
+    Cuenta con un gran poder ofensivo.
+
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 25%{:reset}
+
+    la velocidad de recuperación de los mismos.
+- id: 15926
+  en: Depurador fotónico
+- id: 15927
+  en: '{:color #F0F00080}Aumenta un 20%{:reset} el daño de los ataques Electro.'
+- id: 15928
+  en: Ala de gaviota
+- id: 15929
+  en: >-
+    Posee un gran poder mágico.
+
+    Si la VT cae a menos de la mitad, {:color #F0F00080}aumenta
+
+    un 100%{:reset} la experiencia ganada al vencer enemigos.
+- id: 15930
+  en: Rosa del estruendo
+- id: 15931
+  en: >-
+    Tiene gran poder y permite lanzar
+
+    combos consecutivamente.
+- id: 15932
+  en: Guardián del alma
+- id: 15933
+  en: >-
+    Alberga un gran poder ofensivo.
+
+    {:color #F0F00080}Aumenta un 50%{:reset} el daño causado
+
+    con comandos de reacción.
+- id: 15934
+  en: Lámpara mágica
+- id: 15935
+  en: >-
+    Los deseos se vuelven realidad:
+
+    aumenta la cantidad de esferas de
+
+    VT, PM y platines que aparecen.
+- id: 15936
+  en: Calabaza decisiva
+- id: 15937
+  en: >-
+    ¡Cuantos más combos ejecutas,
+
+    más daño causas, y realizas un
+
+    potente movimiento final!
+- id: 15938
+  en: León durmiente
+- id: 15939
+  en: >-
+    Bien equilibrada en fuerza y magia,
+
+    aumenta en 1 el máximo de combos
+
+    terrestres.
+- id: 15940
+  en: Dulces recuerdos
+- id: 15941
+  en: >-
+    No aporta nada al ataque, pero proporciona
+
+    una mayor cantidad de premios de fusión
+
+    en lugar de platines.
+- id: 15942
+  en: Abismo misterioso
+- id: 15943
+  en: >-
+    Mejora la magia y {:color #F0F00080}aumenta un 20%{:reset}
+
+    el daño que causan los ataques Hielo.
+- id: 15944
+  en: Emblema fatal
+- id: 15945
+  en: >-
+    {:color #F0F00080}Aumenta en 2{:reset} la fuerza durante la Carga PM
+
+    y permite lanzar combos ilimitados,
+
+    pero el combo final se desactiva.
+- id: 15946
+  en: Lazo de llamas
+- id: 15947
+  en: >-
+    Mejora la magia y {:color #F0F00080}aumenta un 20%{:reset}
+
+    el daño que causan los ataques Piro.
+- id: 15948
+  en: Fenrir
+- id: 15949
+  en: >-
+    Tiene gran fuerza y alcance, pero
+
+    reduce en 1 el máximo de combos
+
+    terrestres y aéreos.
+- id: 15950
+  en: Arma Artema
+- id: 15951
+  en: >-
+    Máxima expresión de la llave espada.
+
+    Si consumes todos los PM, {:color #F0F00080}aumenta un 75%{:reset}
+
+    la velocidad de recuperación de los mismos.
+- id: 15952
+  en: Bastón Struggle
+- id: 15953
+  en: >-
+    Bastón de juguete usado en
+
+    combates de Struggle.
+- id: 15954
+  en: Mazo Struggle
+- id: 15955
+  en: >-
+    Mazo de juguete usado en
+
+    combates de Struggle.
+- id: 15956
+  en: Viva la reina+
+- id: 15957
+  en: >-
+    Poderoso bastón de magia y fuerza colosales.
+
+    Recupera PM en proporción al daño que recibes.
+- id: 15958
+  en: Viva el rey+
+- id: 15959
+  en: >-
+    Poderoso escudo de gran fuerza y defensa.
+
+    Reduce el daño a la {:color #F0F00080}mitad{:reset} en
+
+    momentos críticos.
+- id: 15972
+  en: ¡Descifra recetas y fabrica objetos!
+- id: 15973
+  en: ¡Usa materiales de tipo {:icon gem-bright}brillo y {:icon gem-energy}energía!
+- id: 15974
+  en: ¡Usa materiales de tipo {:icon gem-serenity}satisfacción!
+- id: 15975
+  en: ¡Usa hasta dos materiales extra!
+- id: 15976
+  en: ¡Necesitas la mitad de materiales de receta {:icon rank-c}!
+- id: 15977
+  en: ¡Necesitas la mitad de materiales de receta {:icon rank-b}!
+- id: 15978
+  en: ¡Necesitas la mitad de materiales de receta {:icon rank-a}!
+- id: 15979
+  en: ¡Haz nuevos objetos en Libre desarrollo!
+- id: 15980
+  en: ¡Necesitas la mitad de materiales de receta {:icon rank-s}!
+- id: 15982
+  en: Consigue 1 tipo de material.
+- id: 15983
+  en: Consigue 5 tipos de materiales.
+- id: 15984
+  en: Consigue 10 tipos de materiales.
+- id: 15985
+  en: Consigue 15 tipos de materiales.
+- id: 15986
+  en: Consigue 20 tipos de materiales.
+- id: 15987
+  en: Consigue 25 tipos de materiales.
+- id: 15988
+  en: Consigue 30 tipos de materiales.
+- id: 15989
+  en: Consigue 35 tipos de materiales.
+- id: 15990
+  en: Consigue 40 tipos de materiales.
+- id: 15991
+  en: Consigue 45 tipos de materiales.
+- id: 15992
+  en: Consigue todos los materiales.
+- id: 15993
+  en: Obtén {:width 90}un total de 50 o más.
+- id: 15994
+  en: Obtén {:width 90}un total de 100 o más.
+- id: 15995
+  en: Obtén {:width 90}un total de 250 o más.
+- id: 15996
+  en: Obtén {:width 90}un total de 500 o más.
+- id: 15997
+  en: Obtén {:width 90}un total de 1.000 o más.
+- id: 15998
+  en: Obtén todos los {:icon gem-dense}materiales densos.
+- id: 15999
+  en: Obtén todos los {:icon gem-twilight}materiales de penumbra.
+- id: 16000
+  en: Obtén todos los {:icon gem-mythril}materiales de mitrilo.
+- id: 16001
+  en: Obtén todos los {:icon gem-bright}materiales de brillo.
+- id: 16002
+  en: Obtén todos los {:icon gem-energy}materiales de energía.
+- id: 16003
+  en: Obtén todos los {:icon gem-serenity}materiales de satisfacción.
+- id: 16004
+  en: Obtén todos los materiales de categoría {:icon rank-c}.
+- id: 16005
+  en: Obtén todos los materiales de categoría {:icon rank-b}.
+- id: 16006
+  en: Obtén todos los materiales de categoría {:icon rank-a}.
+- id: 16007
+  en: Obtén todos los materiales de categoría {:icon rank-s}.
+- id: 16008
+  en: Obtén 30 o más {:icon gem-dark}guijarros oscuros.
+- id: 16009
+  en: Obtén 30 o más {:icon gem-blaze}guijarros ígneos.
+- id: 16010
+  en: Obtén 30 o más {:icon gem-frost}guijarros fríos.
+- id: 16011
+  en: Obtén 30 o más {:icon gem-lightning}guijarros luminosos.
+- id: 16012
+  en: Obtén 30 o más {:icon gem-power}guijarros fuertes.
+- id: 16013
+  en: Obtén 30 o más {:icon gem-lucid}guijarros claros.
+- id: 16014
+  en: Obtén 30 o más {:icon gem-dense}guijarros densos.
+- id: 16015
+  en: Obtén 30 o más {:icon gem-twilight}guijarros del ocaso.
+- id: 16016
+  en: Obtén 25 o más {:icon gem-dark}rocas oscuras.
+- id: 16017
+  en: Obtén 25 o más {:icon gem-blaze}rocas ígneas.
+- id: 16018
+  en: Obtén 25 o más {:icon gem-frost}rocas frías.
+- id: 16019
+  en: Obtén 25 o más {:icon gem-lightning}rocas luminosas.
+- id: 16020
+  en: Obtén 25 o más {:icon gem-power}rocas fuertes.
+- id: 16021
+  en: Obtén 25 o más {:icon gem-lucid}rocas claras.
+- id: 16022
+  en: Obtén 25 o más {:icon gem-dense}rocas densas.
+- id: 16023
+  en: Obtén 25 o más {:icon gem-twilight}rocas crepusculares.
+- id: 16024
+  en: Obtén 20 o más {:icon gem-dark}piedras oscuras.
+- id: 16025
+  en: Obtén 20 o más {:icon gem-blaze}piedras ígneas.
+- id: 16026
+  en: Obtén 20 o más {:icon gem-frost}piedras frías.
+- id: 16027
+  en: Obtén 20 o más {:icon gem-lightning}piedras luminosas.
+- id: 16028
+  en: Obtén 20 o más {:icon gem-power}piedras fuertes.
+- id: 16029
+  en: Obtén 20 o más {:icon gem-lucid}piedras claras.
+- id: 16030
+  en: Obtén 20 o más {:icon gem-dense}piedras densas.
+- id: 16031
+  en: Obtén 20 o más {:icon gem-twilight}piedras crepusculares.
+- id: 16034
+  en: ''
+- id: 16035
+  en: Pasillos
+- id: 16036
+  en: Arma piro
+- id: 16037
+  en: Arma hielo
+- id: 16046
+  en: El "Interceptor"
+- id: 16047
+  en: Un mapa del lugar.
+- id: 16048
+  en: La "Perla Negra"
+- id: 16049
+  en: Un mapa del lugar.
+- id: 16050
+  en: Isla de Muerta
+- id: 16051
+  en: Un mapa del lugar.
+- id: 16052
+  en: Cementerio de barcos
+- id: 16053
+  en: Un mapa del lugar.
+- id: 16054
+  en: Niv. moguri
+- id: 16055
+  en: Estado
+- id: 16075
+  en: '{:icon button-square}Creaciones'
+- id: 16076
+  en: '{:icon button-square}Libre desarrollo'
+- id: 16077
+  en: '{:icon button-square}Recetas'
+- id: 16080
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Has obtenido {:color #FFFF0080}{:unk0d }{:unk0d }{:reset}
+
+    por completar la colección.
+- id: 16081
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+    ¡El nivel moguri{:color #FFFF0080} ha aumentado!{:reset}
+
+    {:unk0d }
+- id: 16095
+  en: Subir
+- id: 16096
+  en: Saltar
+- id: 16097
+  en: Ciudad de la Navidad
+- id: 16098
+  en: Un mapa del lugar.
+- id: 16099
+  en: Colina de la Luna
+- id: 16100
+  en: Un mapa del lugar.
+- id: 16101
+  en: Oasis
+- id: 16102
+  en: Un mapa del lugar.
+- id: 16103
+  en: Sabana
+- id: 16104
+  en: Un mapa del lugar.
+- id: 16105
+  en: Cerca del castillo
+- id: 16106
+  en: Un mapa del lugar.
+- id: 16107
+  en: Gran Garganta
+- id: 16108
+  en: Un mapa del lugar.
+- id: 16109
+  en: Torre I/O
+- id: 16110
+  en: Un mapa del lugar.
+- id: 16111
+  en: Núcleo central
+- id: 16112
+  en: Un mapa del lugar.
+- id: 16113
+  en: Navegador solar
+- id: 16114
+  en: Un mapa del lugar.
+- id: 16116
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    {:color #FFFF0080}Se necesitan materiales de tipo {:icon gem-serenity}satisfacción{:reset} 
+
+    para fabricar este objeto.
+
+    Revisa {:color #FFFF0080}los materiales de tipo
+
+    {:icon gem-serenity}satisfacción{:reset} para continuar.
+- id: 16117
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Materiales insuficientes. Puedes fabricar
+
+    solo si revisas los materiales de tipo {:color #FFFF0080}{:icon gem-energy}energía{:reset}.
+
+    Por favor, revisa los materiales de tipo {:color #FFFF0080}{:icon gem-energy}energía{:reset}
+
+    para continuar.
+- id: 16118
+  en: ¡Objeto fabricado!
+- id: 16134
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    El baúl esta lleno, no
+
+    se puede fabricar más.
+- id: 16152
+  en: >-
+    Sora:
+
+    ¡Tenemos que ir tras Auron!
+- id: 16154
+  en: Fabricar
+- id: 16155
+  en: Salir
+- id: 16156
+  en: Fabricar objeto.
+- id: 16157
+  en: Cancelar la fabricación.
+- id: 16158
+  en: Aumenta el nivel moguri.
+- id: 16159
+  en: >-
+    Reduce a la mitad la cantidad
+
+    de materiales necesarios.
+- id: 16160
+  en: >-
+    Fabricar objeto de mayor
+
+    categoría.
+- id: 16161
+  en: En el baúl
+- id: 16479
+  en: >-
+    {:color #FFFF0080}¡Puedes usar materiales de tipo
+
+    {:icon gem-bright}brillo y {:icon gem-energy}energía!{:reset}
+
+    ¡Úsalos al fabricar objetos!
+- id: 16480
+  en: >-
+    {:color #FFFF0080}¡Puedes usar materiales de tipo {:icon gem-serenity}satisfacción!{:reset}
+
+    ¡Úsalos en las viejas creaciones que
+
+    se encuentran en Creaciones!
+- id: 16481
+  en: >-
+    {:color #FFFF0080}¡Puedes usar hasta dos
+
+    materiales extra!{:reset}
+- id: 16482
+  en: >-
+    {:color #FFFF0080}¡Los materiales de las recetas de categoría
+
+    {:icon rank-c} se reducen a la mitad!{:reset}
+
+    ¡Puedes fabricar objetos de Creaciones con
+
+    la mitad de materiales!
+- id: 16483
+  en: >-
+    {:color #FFFF0080}¡Los materiales de las recetas de categoría
+
+    {:icon rank-b} se reducen a la mitad!{:reset}
+
+    ¡Puedes fabricar objetos de Creaciones
+
+    con la mitad de materiales!
+- id: 16484
+  en: >-
+    {:color #FFFF0080}¡Los materiales de las recetas de categoría
+
+    {:icon rank-a} se reducen a la mitad!{:reset}
+
+    ¡Puedes fabricar objetos de Creaciones
+
+    con la mitad de materiales!
+- id: 16485
+  en: '{:color #FFFF0080}¡Crea nuevos objetos en Libre desarrollo!{:reset}'
+- id: 16486
+  en: >-
+    {:color #FFFF0080}¡Los materiales de las recetas de categoría
+
+    {:icon rank-s} se reducen a la mitad!{:reset}
+
+    ¡Puedes fabricar objetos de Creaciones
+
+    con la mitad de materiales!
+- id: 16510
+  en: Heelflip
+- id: 16511
+  en: Pop-Jump
+- id: 16512
+  en: Giro 360º
+- id: 16513
+  en: Grab
+- id: 16514
+  en: Air Walk
+- id: 16515
+  en: El pino
+- id: 16574
+  en: >-
+    Sora:
+
+    Vayámonos y vemos
+
+    qué ocurre.
+- id: 16668
+  en: >-
+    Sora:
+
+    ¡Tenemos que recuperar esos datos!
+- id: 16701
+  en: >-
+    Sora:
+
+    ¡Creo que no podemos ir por aquí!
+- id: 16702
+  en: ₓₓₓ
+- id: 16703
+  en: >-
+    Sora:
+
+    Han caído muchas rocas. Debe de ser muy peligroso.
+- id: 16705
+  en: >-
+    Sora:
+
+    Han caído muchas rocas. Debe de ser muy peligroso.
+- id: 16751
+  en: >-
+    Roxas:
+
+    ¡A la armería!
+- id: 16752
+  en: >-
+    Roxas:
+
+    ¡A la tienda de accesorios!
+- id: 16753
+  en: >-
+    Roxas:
+
+    Antes déjame hablar con la tendera.
+- id: 16754
+  en: >-
+    Roxas:
+
+    ¡A la tienda de dulces!
+- id: 16755
+  en: >-
+    Roxas:
+
+    Debería encontrar a ese gato.
+- id: 16756
+  en: >-
+    Roxas:
+
+    ¿Qué arma debería elegir?
+- id: 16757
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 16758
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 16759
+  en: >-
+    Roxas:
+
+    Creo que debería ponerme bajo esa luz.
+- id: 16760
+  en: >-
+    Roxas:
+
+    ¿Qué habrá en ese cofre?
+- id: 16761
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 16762
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 16763
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 16774
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16775
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16776
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16777
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16778
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16779
+  en: >-
+    Roxas:
+
+    ¡Todavía estoy trabajando!
+- id: 16780
+  en: >-
+    Roxas:
+
+    ¡Tengo que llegar al fondo de esto!
+- id: 16781
+  en: >-
+    Roxas:
+
+    ¡Tengo que llegar al fondo de esto!
+- id: 16782
+  en: >-
+    Roxas:
+
+    ¡Tengo que llegar al fondo de esto!
+- id: 16783
+  en: >-
+    Roxas:
+
+    ¡Tengo que llegar al fondo de esto!
+- id: 16787
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Ahora puedes comprar{:color #FFFF0080}{:unk0d }{:unk0d }{:reset}
+
+    en tiendas, ya que has completado
+
+    la colección.
+- id: 16788
+  en: No hay recompensas.
+- id: 16826
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Has aprendido a fabricar nuevos
+
+    objetos con el {:color #FFFF0080}Libre desarrollo{:reset}, ya
+
+    que has completado la colección.
+- id: 16827
+  en: >-
+    Sora:
+
+    Preguntemos a Will 
+    
+    cuándo zarpará ella.
+- id: 16835
+  en: '{:unk0d }Libre desarrollo'
+- id: 16836
+  en: '{:unk0d }Vender en tienda'
+- id: 16837
+  en: '{:icon ai-settings}'
+- id: 16862
+  en: ¡Ohana!
+- id: 16863
+  en: Ventana temporal
+- id: 16864
+  en: Un mapa del lugar.
+- id: 16940
+  en: Infiernódromo
+- id: 16941
+  en: Grind
+- id: 16942
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+    No puedes cambiar este accesorio con las
+
+    habilidades activadas actualmente. Para llevarlo
+
+    contigo, antes debes desactivar alguna habilidad
+    
+    en el menú Habilidades.
+- id: 16943
+  en: Contraataque
+- id: 16951
+  en: EXP.
+- id: 16952
+  en: ''
+- id: 17033
+  en: Disparar
+- id: 17034
+  en: Ukelele
+- id: 17047
+  en: Final
+- id: 17048
+  en: Locura
+- id: 17051
+  en: Primera persona
+- id: 17052
+  en: Bolas
+- id: 17053
+  en: Petardos
+- id: 17054
+  en: Fin
+- id: 17061
+  en: >-
+    Sora:
+
+    Quizá deberíamos echar un
+
+    vistazo al monumento.
+- id: 17078
+  en: Genio valiente
+- id: 17079
+  en: Genio sabio
+- id: 17080
+  en: Genio maestro
+- id: 17081
+  en: Genio final
+- id: 17088
+  en: >-
+    Sora:
+
+    El barco debe de estar
+
+    en Port Royal.
+- id: 17089
+  en: >-
+    Sora:
+
+    El barco debe de estar en
+
+    la Isla de Muerta.
+- id: 17090
+  en: >-
+    Sora:
+
+    El barco debe de estar
+
+    en el cementerio de barcos.
+- id: 17091
+  en: >-
+    Sora:
+
+    El barco debe de estar en
+
+    la Isla de Muerta.
+- id: 17103
+  en: Locura
+- id: 17141
+  en: '{:width 90}Cámara arriba/abajo'
+- id: 17142
+  en: '{:width 90}Cámara izquierda/derecha'
+- id: 17143
+  en: Efectos de invocación
+- id: 17144
+  en: Original
+- id: 17145
+  en: Invertir
+- id: 17146
+  en: >-
+    Mueve el joystick derecho hacia abajo
+
+    para mirar hacia abajo, y muévelo
+
+    hacia arriba para mirar hacia arriba.
+- id: 17147
+  en: >-
+    Mueve el joystick derecho hacia abajo
+
+    para mirar hacia arriba, y muévelo
+
+    hacia arriba para mirar hacia abajo.
+- id: 17148
+  en: Original
+- id: 17149
+  en: Invertir
+- id: 17150
+  en: >-
+    Mueve el joystick derecho hacia la izquierda
+
+    para mirar a la derecha, y hacia la derecha
+
+    para mirar a la izquierda.
+- id: 17151
+  en: >-
+    Mueve el joystick derecho hacia la izquierda
+
+    para mirar a la izquierda, y hacia la derecha
+
+    para mirar a la derecha.
+- id: 17152
+  en: Siempre
+- id: 17153
+  en: Nunca
+- id: 17154
+  en: Automático
+- id: 17155
+  en: Muestra siempre los efectos de invocación.
+- id: 17156
+  en: Nunca muestra los efectos de invocación.
+- id: 17157
+  en: Muestra a veces los efectos de invocación.
+- id: 17165
+  en: Estocada
+- id: 17166
+  en: Repetir
+- id: 17167
+  en: Tiro
+- id: 17168
+  en: Justicia divina
+- id: 17169
+  en: Arcano
+- id: 17170
+  en: Sacudida
+- id: 17171
+  en: Ragnarok
+- id: 17172
+  en: Descarga
+- id: 17194
+  en: Valiente
+- id: 17195
+  en: Sabia
+- id: 17196
+  en: Maestra
+- id: 17197
+  en: Final
+- id: 17198
+  en: NUEVA PARTIDA
+- id: 17199
+  en: ¿Quieres comenzar con esta configuración?
+- id: 17200
+  en: Selecciona el nivel de dificultad
+- id: 17201
+  en: Principiante
+- id: 17202
+  en: Normal
+- id: 17203
+  en: Experto
+- id: 17204
+  en: >-
+    El modo más fácil, indicado para los no
+
+    iniciados en el universo Kingdom Hearts.
+
+    {:color #F0F00080}Podrás ver el final estándar del juego.{:reset}
+- id: 17205
+  en: >-
+    Dificultad estándar. Modo aconsejado
+
+    para quienes ya conocen Kingdom Hearts.
+
+    {:color #F0F00080}Es posible desbloquear todos los finales.{:reset}
+- id: 17206
+  en: >-
+    Enemigos más fuertes y batallas al límite.
+
+    Un modo solo apto para los más valientes.
+
+    {:color #F0F00080}Es más fácil desbloquear el final secreto.{:reset}
+- id: 17207
+  en: ¿Quieres activar la función de vibración?
+- id: 17208
+  en: Sí
+- id: 17209
+  en: No
+- id: 17210
+  en: >-
+    Activar vibración.
+- id: 17211
+  en: >-
+    Desactivar vibración.
+- id: 17212
+  en: Selecciona el tipo de sonido
+- id: 17213
+  en: Estéreo
+- id: 17214
+  en: Pro Logic II
+- id: 17215
+  en: Monoaural
+- id: 17216
+  en: Jugar con sonido estéreo.
+- id: 17217
+  en: >-
+    Jugar con Dolby Pro Logic II.
+
+    Disfruta del sonido envolvente con un
+
+    sistema que admita Dolby Pro Logic II.
+- id: 17238
+  en: Jugar con sonido monoaural.
+- id: 17239
+  en: Asalto automático
+- id: 17240
+  en: >-
+    La llave espada automáticamente
+
+    ataca en varias situaciones.
+- id: 17280
+  en: Nivel de dificultad
+- id: 17281
+  en: Vibración
+- id: 17282
+  en: Sonido
+- id: 17283
+  en: Sí
+- id: 17284
+  en: No
+- id: 17343
+  en: Recoger
+- id: 17351
+  en: Recoger
+- id: 17394
+  en: ¡Aumenta el indicador de Forma!
+- id: 17397
+  en: >-
+    Sora:
+
+    Tenemos que salir de aquí.
+- id: 17398
+  en: ''
+- id: 17399
+  en: >-
+    Sora:
+
+    No hay rastros de hienas
+
+    por aquí.
+- id: 17400
+  en: ''
+- id: 17401
+  en: >-
+    Sora:
+
+    ¿Qué más tenemos que hacer?
+- id: 17402
+  en: ''
+- id: 17409
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Los objetos de las tiendas ya visitadas
+
+    estarán disponibles en las tiendas de
+
+    las ciudades grandes.
+- id: 17410
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Los objetos de las tiendas ya visitadas
+
+    estarán disponibles en las tiendas de
+
+    las ciudades grandes.
+- id: 17445
+  en: Capturar
+- id: 17481
+  en: >-
+    Roxas:
+
+    ¡Todos esperan en la Calle del Mercado!
+- id: 17482
+  en: >-
+    Roxas:
+
+    ¡Tenemos que comprar los billetes!
+- id: 17483
+  en: >-
+    Roxas:
+
+    Para viajar, necesitamos platines...
+- id: 17484
+  en: >-
+    Roxas:
+
+    Nos vemos en la estación, ¿no?
+- id: 17485
+  en: >-
+    Roxas:
+
+    Se dirigía a la mansión encantada.
+- id: 17486
+  en: >-
+    Roxas:
+
+    No parece estar por aquí...
+- id: 17487
+  en: >-
+    ¡No puedes recuperar VT en esta Forma!
+
+    ¡Vuelve a la Forma normal cuando el indicador de Forma llegue a 0,
+
+    o selecciona Revertir cuando no haya enemigos a la vista!
+- id: 17550
+  en: Materiales
+- id: 17551
+  en: Materiales de fabricación que tienes en el baúl.
+- id: 17564
+  en: ''
+- id: 17565
+  en: ''
+- id: 17566
+  en: ''
+- id: 17567
+  en: ''
+- id: 17568
+  en: ''
+- id: 17569
+  en: ''
+- id: 17586
+  en: Combo interior
+- id: 17708
+  en: Guardar
+- id: 17721
+  en: Diario de Roxas
+- id: 17722
+  en: Muestra las notas de Roxas.
+- id: 17723
+  en: Hacer frente
+- id: 17724
+  en: Chocar
+- id: 17725
+  en: Abrirse camino
+- id: 17726
+  en: Golpe de gracia
+- id: 17728
+  en: >-
+    Roxas:
+
+    El torneo es en el solar, ¿no?
+- id: 17729
+  en: ''
+- id: 17730
+  en: >-
+    Roxas:
+
+    ¡Tengo que ir al torneo de Struggle!
+- id: 17731
+  en: ''
+- id: 17732
+  en: >-
+    Roxas:
+
+    ¿Qué tal si exploramos la mansión encantada?
+- id: 17733
+  en: ''
+- id: 17734
+  en: >-
+    Roxas:
+
+    La voz dijo que hay que ir a la mansión...
+- id: 17735
+  en: ''
+- id: 17736
+  en: >-
+    Roxas:
+
+    ¿Por qué no echo un vistazo dentro...?
+- id: 17737
+  en: ''
+- id: 17738
+  en: >-
+    Sora:
+
+    Tengo cosas que hacer.
+- id: 17739
+  en: ''
+- id: 17740
+  en: >-
+    Sora:
+
+    ¡Tengo que subir a ese tren!
+- id: 17741
+  en: ''
+- id: 17742
+  en: >-
+    Sora:
+
+    Mejor no... No si Pete está allí.
+- id: 17743
+  en: ''
+- id: 17752
+  en: Brincar
+- id: 17753
+  en: Niv.
+- id: 17754
+  en: '{:width 90}Experiencia'
+- id: 17755
+  en: Siguiente niv.
+- id: 17756
+  en: VT
+- id: 17757
+  en: PM
+- id: 17758
+  en: PH
+- id: 17759
+  en: Indicador de Fusión
+- id: 17760
+  en: Fuerza
+- id: 17761
+  en: Magia
+- id: 17762
+  en: Defensa
+- id: 17763
+  en: '{:width 80}Resistencia {:reset}Piro'
+- id: 17764
+  en: '{:width 80}Resistencia {:width 90}Hielo'
+- id: 17765
+  en: '{:width 80}Resistencia {:width 90}Electro'
+- id: 17766
+  en: '{:width 80}Resistencia {:reset}Oscuridad'
+- id: 17767
+  en: Niv. de Bonus
+- id: 17768
+  en: Niv. de Invocar
+- id: 17769
+  en: Niv. de Forma
+- id: 17774
+  en: >-
+    El nivel actual del personaje. Los valores para
+
+    atributos tales como Fuerza, Magia, Defensa
+
+    y PH aumentarán al subir de nivel.
+- id: 17775
+  en: >-
+    La cantidad de experiencia ganada.
+
+    Ganas experiencia al vencer
+
+    enemigos.
+- id: 17776
+  en: >-
+    La experiencia necesaria para alcanzar el
+
+    siguiente nivel.
+- id: 17777
+  en: VT actual y VT máxima.
+- id: 17778
+  en: PM actuales y PM máximos.
+- id: 17779
+  en: >-
+    Es necesario activar habilidades.
+
+    Puedes aumentar los PH máximos
+
+    usando ciertos accesorios.
+- id: 17780
+  en: >-
+    Este indicador se usa para Fusión e Invocar.
+
+    Consigue esferas para llenarlo.
+- id: 17781
+  en: >-
+    La fuerza actual del personaje.
+
+    Cuanto mayor sea el número, más
+
+    daño causarás a los enemigos.
+- id: 17782
+  en: >-
+    La destreza mágica actual del personaje.
+
+    Cuanto mayor sea el número, más
+
+    daño causarás a los enemigos.
+- id: 17783
+  en: >-
+    La defensa actual del personaje.
+
+    Cuanto mayor sea el número, menos
+
+    daño te causarán los enemigos.
+- id: 17784
+  en: >-
+    {:width 95}Resistencia contra ataques Piro.
+
+    Cuanto mayor sea el número, menos
+
+    daño te causarán los ataques.
+- id: 17785
+  en: >-
+    {:width 95}Resistencia contra ataques Hielo.
+
+    Cuanto mayor sea el número, menos
+
+    daño te causarán los ataques.
+- id: 17786
+  en: >-
+    {:width 95}Resistencia contra ataques Electro.
+
+    Cuanto mayor sea el número, menos
+
+    daño te causarán los ataques.
+- id: 17787
+  en: >-
+    {:width 95}Resistencia contra ataques de oscuridad.
+
+    Cuanto mayor sea el número, menos
+
+    daño te causarán los ataques.
+- id: 17788
+  en: >-
+    {:width 90}Este nivel aumenta al vencer a ciertos
+
+    enemigos. Al subir de nivel, aumentan la
+
+    VT y los PM, y ganas poderes especiales.
+- id: 17789
+  en: >-
+    Nivel de Invocar. El indicador de Invocar
+
+    aumenta, y las destrezas mágicas de
+
+    invocar aumentan al subir de nivel.
+- id: 17790
+  en: >-
+    Nivel de Forma valiente. Aumenta el
+
+    tiempo que dura la transformación, y las
+
+    habilidades se incrementan al subir de nivel.
+- id: 17791
+  en: >-
+    Nivel de Forma sabia. Aumenta el
+
+    tiempo que dura la transformación, y las
+
+    habilidades se incrementan al subir de nivel.
+- id: 17792
+  en: >-
+    Nivel de Forma maestra. Aumenta el
+
+    tiempo que dura la transformación, y las
+
+    habilidades se incrementan al subir de nivel.
+- id: 17793
+  en: >-
+    Nivel de Forma final. Aumenta el
+
+    tiempo que dura la transformación, y las
+
+    habilidades se incrementan al subir de nivel.
+- id: 17795
+  en: Indicador de Forma
+- id: 17796
+  en: >-
+    Ganas un punto de experiencia por
+
+    cada ataque que haces al enemigo
+
+    en la Forma valiente.
+- id: 17797
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    Formas obtenidas.
+- id: 17798
+  en: >-
+    Indicador de Forma para Forma valiente.
+
+    Cuanto más largo sea el indicador, mayor
+
+    será el tiempo que dure la transformación.
+- id: 17799
+  en: >-
+    Ganas un punto de experiencia por cada
+
+    sincorazón que vences en la Forma sabia.
+- id: 17800
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    Formas obtenidas.
+- id: 17801
+  en: >-
+    Indicador de Forma para Forma sabia.
+
+    Cuanto más largo sea el indicador, mayor
+
+    será el tiempo que dure la transformación.
+- id: 17802
+  en: >-
+    {:width 80}Cada esfera de fusión pequeña da un punto de experiencia,
+
+    y una de las grandes da tres por cada
+
+    premio de fusión obtenido en Forma maestra.
+- id: 17803
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    Formas obtenidas.
+- id: 17804
+  en: >-
+    Indicador de Forma para Forma maestra.
+
+    Cuanto más largo sea el indicador, mayor
+
+    será el tiempo que dure la transformación.
+- id: 17805
+  en: >-
+    Ganas un punto de experiencia por cada
+
+    incorpóreo que vences en la Forma final.
+- id: 17806
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    Formas obtenidas.
+- id: 17807
+  en: >-
+    Indicador de Forma para Forma final.
+
+    Cuanto más largo sea el indicador, mayor
+
+    será el tiempo que dure la transformación.
+- id: 17808
+  en: Indicador de Invocar
+- id: 17809
+  en: Stitch
+- id: 17810
+  en: Genio
+- id: 17811
+  en: Peter Pan
+- id: 17812
+  en: Chicken Little
+- id: 17813
+  en: >-
+    Durante la invocación, ganas un punto de
+
+    experiencia por cada punto que consume
+
+    el indicador de Invocar.
+- id: 17814
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    invocaciones obtenidas.
+- id: 17815
+  en: >-
+    Tu indicador de Invocar actual.
+
+    Cuanto más largo sea el indicador,
+
+    más tiempo durará la invocación.
+- id: 17816
+  en: >-
+    Stitch bloquea muchos ataques enemigos.
+
+    Es aconsejable invocarlo para defenderte.
+- id: 17817
+  en: >-
+    Genio posee varios ataques Límite y
+
+    puede transformarse en varias Formas.
+- id: 17818
+  en: >-
+    {:width 85}Peter Pan ayudará a Sora a combatir a
+
+    los enemigos. Si Sora cae en la batalla,
+
+    Campanilla podrá revivirlo una vez.
+- id: 17819
+  en: >-
+    ¡Chicken Little puede detener los
+
+    movimientos de los enemigos y acercar
+
+    a los enemigos distantes para atacarlos!
+- id: 17834
+  en: Niv. de Valiente
+- id: 17835
+  en: Niv. de Sabia
+- id: 17836
+  en: Niv. de Maestra
+- id: 17837
+  en: Niv. de Final
+- id: 17838
+  en: Condición de {:unk0d }.
+- id: 17839
+  en: Condición de Forma de {:unk0d }.
+- id: 17840
+  en: >-
+    Condición de invocaciones. Cuando Sora
+
+    lo llama, un amigo acude en su ayuda
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 3{:reset}
+- id: 17841
+  en: Invocar
+- id: 17847
+  en: >
+    Sora:
+- id: 17848
+  en: ''
+- id: 17849
+  en: >-
+    Sora:
+
+    ¡Necesitamos la contraseña
+
+    del DTD!
+- id: 17850
+  en: ''
+- id: 17851
+  en: >
+    Sora:
+- id: 17852
+  en: ''
+- id: 17853
+  en: ¡Aumenta el indicador de Invocar!
+- id: 17854
+  en: Sesión
+- id: 17855
+  en: Sable extremo
+- id: 17856
+  en: Cañón oscuro
+- id: 17857
+  en: XIII aceros
+- id: 17858
+  en: Maestro de Corazones
+- id: 17859
+  en: Armagedón
+- id: 17862
+  en: Llamar
+- id: 17904
+  en: Izquierda
+- id: 17905
+  en: Derecha
+- id: 17921
+  en: Tornadito
+- id: 17922
+  en: Tornadote
+- id: 17925
+  en: Revés doble
+- id: 17926
+  en: Embestida veloz
+- id: 17992
+  en: PH
+- id: 17993
+  en: Fuerza
+- id: 17994
+  en: Magia
+- id: 17995
+  en: Defensa
+- id: 17996
+  en: Habilidad
+- id: 17997
+  en: '{:width 80}Resistencia {:reset}Piro'
+- id: 17998
+  en: '{:width 80}Resistencia {:width 90}Hielo'
+- id: 17999
+  en: '{:width 80}Resistencia {:width 90}Electro'
+- id: 18000
+  en: '{:width 80}Resistencia {:reset}Oscuridad'
+- id: 18001
+  en: Piro
+- id: 18002
+  en: Hielo
+- id: 18003
+  en: Electro
+- id: 18004
+  en: Oscuridad
+- id: 18007
+  en: Ataque final
+- id: 18008
+  en: >-
+    Si pulsas {:icon button-square} al final de un combo,
+
+    harás daño a los enemigos cercanos.
+- id: 18009
+  en: Combo superior
+- id: 18010
+  en: >-
+    Si durante un combo pulsas {:icon button-square},
+
+    lanzarás al enemigo por los aires.
+- id: 18011
+  en: Impulso aéreo
+- id: 18012
+  en: >-
+    Si durante un combo pulsas {:icon button-square},
+
+    podrás detener y atacar a un
+
+    enemigo en el aire.
+- id: 18013
+  en: Contraataque letal
+- id: 18014
+  en: >-
+    Si pulsas {:icon button-square} cuando te derriban,
+
+    recobrarás el equilibrio velozmente
+
+    y podrás contraatacar.
+- id: 18019
+  en: >-
+    Sora:
+
+    ¡Algo pasa en el solar!
+- id: 18020
+  en: ''
+- id: 18021
+  en: >-
+    Sora:
+
+    ¡Algo pasa en el solar!
+- id: 18022
+  en: ''
+- id: 18023
+  en: >-
+    Sora:
+
+    ¡A la estación, rápido!
+- id: 18024
+  en: ''
+- id: 18025
+  en: >-
+    Sora:
+
+    ¡Algo pasa en el solar!
+- id: 18026
+  en: ''
+- id: 18027
+  en: >-
+    Sora:
+
+    ¡A la estación, rápido!
+- id: 18028
+  en: ''
+- id: 18029
+  en: >-
+    Sora:
+
+    ¡Algo pasa en el solar!
+- id: 18030
+  en: ''
+- id: 18031
+  en: >-
+    Sora:
+
+    ¡A la estación, rápido!
+- id: 18032
+  en: ''
+- id: 18033
+  en: >-
+    Sora:
+
+    Mmm, no es por aquí...
+- id: 18034
+  en: ''
+- id: 18035
+  en: >-
+    Sora:
+
+    Mmm, no es por aquí...
+- id: 18036
+  en: ''
+- id: 18037
+  en: >-
+    Sora:
+
+    Mmm, no es por aquí...
+- id: 18038
+  en: ''
+- id: 18039
+  en: >-
+    Sora:
+
+    Mmm, no es por aquí...
+- id: 18040
+  en: ''
+- id: 18043
+  en: Amuleto de promesa
+- id: 18044
+  en: >-
+    El amuleto de Kairi. Representa
+
+    su deseo de volver a ver a Sora,
+
+    sin importar lo lejos que estén.
+- id: 18050
+  en: >-
+    Sora:
+
+    ¡Deprisa, encontremos a Tron!
+- id: 18058
+  en: >-
+    Sora:
+
+    ¡Tron nos espera!
+- id: 18059
+  en: ''
+- id: 18060
+  en: >
+    Sora:
+- id: 18061
+  en: ''
+- id: 18062
+  en: >-
+    Sora:
+
+    Antes arreglemos el núcleo de energía.
+- id: 18063
+  en: ''
+- id: 18064
+  en: >-
+    Sora:
+
+    El terminal nos devolverá a Bastión Hueco.
+- id: 18065
+  en: ''
+- id: 18066
+  en: >-
+    Sora:
+
+    ¡El PCM ha desactivado los ascensores!
+- id: 18067
+  en: ''
+- id: 18068
+  en: Eclipse
+- id: 18069
+  en: Tormenta magna
+- id: 18071
+  en: Conversar
+- id: 18110
+  en: Carrera brutal
+- id: 18111
+  en: >-
+    Si atacas durante Aceleración, te
+
+    lanzarás rápidamente sobre un
+
+    enemigo.
+- id: 18112
+  en: Aceleración
+- id: 18113
+  en: >-
+    Si mantienes pulsado {:icon button-square}, te
+
+    mueves con rapidez.
+- id: 18120
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No hay espacio suficiente libre.
+- id: 18122
+  en: Lanzar
+- id: 18201
+  en: Subirse
+- id: 18202
+  en: Tiro muelle
+- id: 18398
+  en: Puerto
+- id: 18399
+  en: Isla de Muerta - Acantilados
+- id: 18402
+  en: ¿Fusión?
+- id: 18465
+  en: Arcano final
+- id: 18466
+  en: >-
+    Blande la llave espada hábilmente
+
+    y lanza un poderoso combo final
+
+    para acabar con un único objetivo.
+- id: 18467
+  en: Tiro definitivo
+- id: 18468
+  en: >-
+    Mientras giras en el aire, lanza
+
+    un poderoso combo final para
+
+    acabar con un único objetivo.
+- id: 18469
+  en: Arte definitivo
+- id: 18470
+  en: >-
+    Lanza un poderoso combo final
+
+    para acabar con varios objetivos
+
+    de una sola vez.
+- id: 18471
+  en: Crimen y castigo
+- id: 18472
+  en: >-
+    Con una llave espada en cada
+
+    mano, lanzarás poderosos hechizos.
+- id: 18480
+  en: >-
+    Sora:
+
+    Leon nos dará los detalles.
+- id: 18481
+  en: ''
+- id: 18565
+  en: Colina del Atardecer
+- id: 18566
+  en: Un mapa del lugar.
+- id: 18567
+  en: Vieja mansión
+- id: 18568
+  en: Un mapa del lugar.
+- id: 18569
+  en: Torre
+- id: 18570
+  en: Un mapa del lugar.
+- id: 18571
+  en: DH
+- id: 18572
+  en: Un mapa del lugar.
+- id: 18573
+  en: >-
+    Sora:
+
+    ¡Debemos deshacernos de
+
+    los sincorazón!
+- id: 18575
+  en: No hay objetos.
+- id: 18585
+  en: Razia tenebrosa
+- id: 18586
+  en: Escudo oscuro
+- id: 18592
+  en: Acrobacia
+- id: 18595
+  en: Golpear
+- id: 18682
+  en: Monedero
+- id: 18683
+  en: >-
+    Un monedero del rey.
+
+    Por alguna razón, hay
+
+    5.000 platines dentro.
+- id: 18692
+  en: Castillo del Mundo Inexistente
+- id: 18693
+  en: Un mapa del lugar.
+- id: 18755
+  en: >-
+    Sora:
+
+    ¡No podemos dejar el entrenamiento!
+- id: 18756
+  en: >-
+    Sora:
+
+    ¡No podemos dejar el entrenamiento!
+- id: 18757
+  en: >-
+    Sora:
+
+    ¡No podemos dejar el entrenamiento!
+- id: 18758
+  en: >-
+    Sora:
+
+    ¡No podemos dejar el entrenamiento!
+- id: 18774
+  en: Vieja mansión
+- id: 18808
+  en: >-
+    Sora:
+
+    ¡Debemos entrar en
+
+    ese ordenador!
+- id: 18809
+  en: ''
+- id: 18810
+  en: >-
+    Sora:
+
+    ¡Tenemos que reiniciar
+
+    el terminal!
+- id: 18812
+  en: >-
+    Sora:
+
+    ¡El terminal nos llevará a la rejilla de juego!
+- id: 18855
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18856
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18857
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18858
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18859
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18860
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18861
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18862
+  en: >-
+    Sora:
+
+    Allí no puedo usar mi monopatín.
+- id: 18928
+  en: >-
+    Sora:
+
+    ¡Espera la señal de Will!
+- id: 18950
+  en: Volver una carta
+- id: 18953
+  en: Rebanador
+- id: 18954
+  en: Acero ascendente
+- id: 18955
+  en: Rascacielos
+- id: 18964
+  en: Bola premiada
+- id: 18965
+  en: Rareza
+- id: 18966
+  en: Serie limitada
+- id: 18967
+  en: Bola especial
+- id: 18994
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 18995
+  en: >-
+    Roxas:
+
+    ¡No voy a huir!
+- id: 19005
+  en: >-
+    Roxas:
+
+    ¡Hay que seguirle!
+- id: 19006
+  en: ''
+- id: 19007
+  en: >-
+    Sora:
+
+    Este no es el tren correcto.
+- id: 19008
+  en: ''
+- id: 19011
+  en: '{:width 90}Devolver el oro'
+- id: 19030
+  en: Leer libro
+- id: 19031
+  en: >-
+    Sora:
+
+    ¡Debemos deshacernos de esas hienas!
+- id: 19032
+  en: >-
+    Sora:
+
+    ¡Debemos deshacernos de esas hienas!
+- id: 19033
+  en: >-
+    Sora:
+
+    ¡Tenemos que capturarlos!
+- id: 19073
+  en: Rosca
+- id: 19074
+  en: Trompo súbito
+- id: 19113
+  en: >-
+    Sora:
+
+    ¡No podemos dejar que Pete huya!
+- id: 19114
+  en: >-
+    Sora:
+
+    ¡No voy a huir!
+- id: 19115
+  en: >-
+    Sora:
+
+    ¡No voy a huir!
+- id: 19116
+  en: >-
+    Sora:
+
+    ¡No voy a huir!
+- id: 19209
+  en: Continuar
+- id: 19310
+  en: Tiro móvil
+- id: 19311
+  en: >
+    Sora:
+- id: 19312
+  en: ''
+- id: 19314
+  en: >-
+    Roxas:
+
+    ¡Vayamos a la Colina del Atardecer!
+- id: 19315
+  en: ''
+- id: 19316
+  en: >-
+    Sora:
+
+    Aún no puedo entrar. ¿Estarán trabajando?
+- id: 19317
+  en: ''
+- id: 19318
+  en: >-
+    Sora:
+
+    ¡A la mansión! ¡Rápido!
+- id: 19319
+  en: ''
+- id: 19321
+  en: Lluvia de meteoros
+- id: 19341
+  en: Quitar armadura.
+- id: 19342
+  en: Quitar accesorios.
+- id: 19343
+  en: >-
+    Condición de Forma valiente.
+
+    Una Forma especial para ataques físicos.
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 3{:reset}
+- id: 19344
+  en: >-
+    Condición de Forma sabia.
+
+    Una Forma especial para ataques mágicos.
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 3{:reset}
+- id: 19345
+  en: >-
+    Condición de Forma maestra.
+
+    Combina el uso de llave espada y magia.
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 4{:reset}
+- id: 19346
+  en: >-
+    Condición de Forma final. Desata
+
+    el verdadero poder de la llave espada.
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 5{:reset}
+- id: 19350
+  en: ''
+- id: 19352
+  en: '{:unk 72}Puntos'
+- id: 19353
+  en: Tiempo:{:unk 72}
+- id: 19354
+  en: Ronda{:unk 72}
+- id: 19355
+  en: –––
+- id: 19361
+  en: Atacar
+- id: 19362
+  en: Razia tenebrosa
+- id: 19363
+  en: Rescatar
+- id: 19370
+  en: Reflejo
+- id: 19371
+  en: Reflejo
+- id: 19375
+  en: Megaláser
+- id: 19376
+  en: >-
+    Sora:
+
+    Ya no hay vuelta atrás...
+- id: 19381
+  en: Tocar
+- id: 19406
+  en: ¡Hay un sincorazón extraño!
+- id: 19416
+  en: 'PÁGINA'
+- id: 19417
+  en: ¿Qué es la Autorrecarga?
+- id: 19418
+  en: ¿Qué es la Carga PM?
+- id: 19419
+  en: ¿Qué son las Habilidades?
+- id: 19420
+  en: ¿Qué son las Armas secundarias?
+- id: 19421
+  en: '{:color #F0F00080}Botón SELECT:{:reset}Ayuda'
+- id: 19428
+  en: Arma piro
+- id: 19429
+  en: Arma hielo
+- id: 19435
+  en: >-
+    Sora:
+
+    Ya no hay vuelta atrás...
+- id: 19466
+  en: Mejor punt.
+- id: 19467
+  en: Récord
+- id: 19470
+  en: Trofeo Copa Hades
+- id: 19471
+  en: >-
+    Trofeo de campeón de la Copa
+
+    Paradoja de Hades. Prueba que has
+
+    ganado muchas batallas difíciles.
+- id: 19480
+  en: Niv. de juego
+- id: 19481
+  en: '{:width 90}Diario de Pepito completo'
+- id: 19482
+  en: '{:width 90}Rutas gumi completas'
+- id: 19483
+  en: Aliados curados
+- id: 19484
+  en: Salvado por Mickey
+- id: 19485
+  en: Forma más usada
+- id: 19486
+  en: Antiforma usada
+- id: 19487
+  en: Invocación más usada
+- id: 19488
+  en: '{:color #F0F00080} {:reset}veces'
+- id: 19492
+  en: INFORME DE BATALLA
+- id: 19541
+  en: '{:width 90}Trofeo ‛Struggle’'
+- id: 19542
+  en: >-
+    Trofeo del torneo de Struggle.
+
+    Está decorado con cuatro cristales.
+- id: 19552
+  en: Bloqueo
+- id: 19561
+  en: El miembro que deja el grupo ha entregado su equipo.
+- id: 19562
+  en: >-
+    Sora:
+
+    Preguntaré a los demás si
+
+    están listos para partir.
+- id: 19563
+  en: ''
+- id: 19565
+  en: Bloqueo
+- id: 19573
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19574
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19575
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19576
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19577
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19578
+  en: >-
+    Sora:
+
+    ¡Todavía estoy trabajando!
+- id: 19581
+  en: '{:unk0d }Libre desarrollo 2'
+- id: 19582
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Has aprendido a fabricar más objetos
+
+    nuevos con el {:color #FFFF0080}Libre desarrollo{:reset}, ya
+
+    que has completado la colección.
+- id: 19600
+  en: '{:unk 72}Golpes'
+- id: 19615
+  en: >-
+    Ping se unirá al grupo. Por un tiempo, no podrás reemplazar a los
+
+    miembros del grupo ni usar invocaciones.
+- id: 19620
+  en: >-
+    Sora:
+
+    ¿Y qué hay de los barriles
+
+    de pólvora?
+- id: 19857
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+
+
+    No se detecta ningún mando analógico (DUALSHOCK®2).
+- id: 19862
+  en: NIV.
+- id: 19988
+  en: Gruta de la Evocación - Entrañas
+- id: 19989
+  en: Gruta de la Evocación - Minas
+- id: 19990
+  en: Gruta de la Evocación - Sala de máquinas
+- id: 19991
+  en: Gruta de la Evocación - Galerías
+- id: 19992
+  en: Tránsito de la Evocación
+- id: 19993
+  en: Edén de la Convergencia
+- id: 19994
+  en: Complejo subterráneo
+- id: 19995
+  en: Contorsión de la Memoria
+- id: 19996
+  en: Mundo de la Nada
+- id: 19997
+  en: Salón de las Melodías Huecas
+- id: 19998
+  en: Puenteₓₓₓₓₓₓₓ
+- id: 19999
+  en: Vieja mansión
+- id: 20000
+  en: Estación de la Evocación
+- id: 20001
+  en: Islas del Destino
+- id: 20002
+  en: Punto de Confusión
+- id: 20003
+  en: Mansión - Entrada al sótano
+- id: 20004
+  en: Frontera del Caos
+- id: 20005
+  en: Estación del Olvido
+- id: 20006
+  en: Estación del Despertar
+- id: 20007
+  en: Punto de encuentro
+- id: 20008
+  en: Maestro de combos
+- id: 20009
+  en: >-
+    Las combinaciones continúan
+
+    aunque falles algún golpe.
+- id: 20010
+  en: Fusionizador
+- id: 20011
+  en: >-
+    Aumenta la cantidad de esferas
+
+    de Fusión que aparecen.
+
+    Mayor efecto cuantos más equipes.
+- id: 20012
+  en: Luz y Oscuridad
+- id: 20013
+  en: >-
+    Proporciona un poder tan
+
+    misterioso como poderoso.
+- id: 20014
+  en: Control de daño
+- id: 20015
+  en: >-
+    Reduce el daño a la mitad
+
+    en caso de emergencia.
+
+    Equipa dos para que actúe antes.
+- id: 20016
+  en: Maestro
+- id: 20017
+  en: >-
+    Acción a raudales y ni un solo respiro.
+
+    Una vez comenzado el juego, el nivel
+
+    de dificultad no se puede cambiar.
+- id: 20018
+  en: Maestro
+- id: 20019
+  en: Maestro
+- id: 20020
+  en: >-
+    Acción a raudales y ni un solo respiro.
+
+    El juego comienza con ciertas ventajas.
+
+    {:color #F0F00080}Es aún más fácil desbloquear el final secreto.
+- id: 20021
+  en: Dos serán uno
+- id: 20022
+  en: >-
+    Gran poder ofensivo y mágico,
+
+    además de un implacable recurso oculto.
+- id: 20023
+  en: Prueba triunfal
+- id: 20024
+  en: >-
+    Aúna unas increíbles cualidades
+
+    físicas y mágicas, pero impide
+
+    que recibas experiencia.
+- id: 20025
+  en: Centurión
+- id: 20026
+  en: >-
+    Aúna una gran fuerza y
+
+    un excelente poder mágico.
+- id: 20027
+  en: Centurión+
+- id: 20028
+  en: >-
+    Aúna una gran fuerza y poder
+
+    mágico. Reduce el daño a la
+
+    mitad en caso de emergencia.
+- id: 20029
+  en: Seta benévola
+- id: 20030
+  en: Bastón tan gris como su utilidad.
+- id: 20031
+  en: Seta benévola+
+- id: 20032
+  en: >-
+    Alberga cierto poder mágico,
+
+    pero nada como para tirar cohetes.
+- id: 20033
+  en: Seta ventajosa
+- id: 20034
+  en: >-
+    Bastón ideal para hechizos.
+
+    Si consumes todos los PM,
+
+    {:color #F0F00080}los recuperas un 25%{:reset} más rápido.
+- id: 20035
+  en: Seta ventajosa+
+- id: 20036
+  en: >-
+    Bastón de gran poder mágico.
+
+    Si consumes todos los PM,
+
+    {:color #F0F00080}los recuperas un 50%{:reset} más rápido.
+- id: 20037
+  en: Seta suprema
+- id: 20038
+  en: >-
+    Bastón de excelso poder mágico.
+
+    Si consumes todos los PM,
+
+    {:color #F0F00080}los recuperas un 75%{:reset} más rápido.
+- id: 20039
+  en: Orgullo helado
+- id: 20040
+  en: >-
+    Gran escudo de inigualable capacidad
+
+    defensiva.
+- id: 20041
+  en: Orgullo helado+
+- id: 20042
+  en: >-
+    Gran escudo de inigualable capacidad
+
+    defensiva. Si consumes todos los PM,
+
+    {:color #F0F00080}los recuperas un 75%{:reset} más rápido.
+- id: 20043
+  en: Seta dichosa
+- id: 20044
+  en: Escudo prácticamente inútil.
+- id: 20045
+  en: Seta dichosa+
+- id: 20046
+  en: >-
+    Escudo de poca utilidad,
+
+    aunque con algo de fuerza.
+- id: 20047
+  en: Seta señorial
+- id: 20048
+  en: >-
+    Escudo de gran fuerza.
+
+    {:color #F0F00080}Resta un 10%{:reset} al daño recibido.
+- id: 20049
+  en: Seta señorial+
+- id: 20050
+  en: >-
+    Escudo de notable fuerza.
+
+    {:color #F0F00080}Resta un 20%{:reset} al daño recibido.
+- id: 20051
+  en: Seta excepcional
+- id: 20052
+  en: >-
+    Escudo de fuerza sin parangón.
+
+    {:color #F0F00080}Resta un 40%{:reset} al daño recibido.
+- id: 20053
+  en: Listos, ¡ya!
+- id: 20054
+  en: Birlar
+- id: 20055
+  en: Contra brusca
+- id: 20082
+  en: Tranco súbito
+- id: 20083
+  en: >-
+    Da una rápida zancada hacia
+
+    un enemigo lejano y lo
+
+    golpea, anulando su guardia.
+- id: 20084
+  en: Lance aéreo
+- id: 20085
+  en: >-
+    Se impulsa con un gran salto
+
+    para golpear con fuerza
+
+    a un enemigo volador lejano.
+- id: 20086
+  en: Obús magneto
+- id: 20087
+  en: >-
+    Atrae a los enemigos en el aire
+
+    y lanza un combo final. El daño
+
+    es proporcional a la habilidad mágica.
+- id: 20088
+  en: Arrebato giratorio
+- id: 20089
+  en: >-
+    Ejecuta un potente ataque
+
+    circular cuando está rodeado.
+- id: 20090
+  en: Extraer
+- id: 20091
+  en: INFORME DE BATALLA
+- id: 20094
+  en: The End
+- id: 20095
+  en: Forma suma
+- id: 20096
+  en: Suma
+- id: 20097
+  en: Forma suma
+- id: 20098
+  en: >-
+    Con el recuerdo de alguien especial,
+
+    usa el comando Fusión y
+
+    cambiarás a Forma suma.
+- id: 20099
+  en: Voltereta 1
+- id: 20100
+  en: >-
+    Si mueves el joystick izquierdo y pulsas {:icon button-square},
+
+    darás una voltereta para esquivar ataques.
+
+    Es más eficaz cuando se sube de nivel.
+- id: 20101
+  en: Voltereta 2
+- id: 20102
+  en: >-
+    Si mueves el joystick izquierdo y pulsas {:icon button-square},
+
+    darás una voltereta para esquivar ataques.
+
+    Es más eficaz cuando se sube de nivel.
+- id: 20103
+  en: Voltereta 3
+- id: 20104
+  en: >-
+    Si mueves el joystick izquierdo y pulsas {:icon button-square},
+
+    darás una voltereta para esquivar ataques.
+
+    Es más eficaz cuando se sube de nivel.
+- id: 20105
+  en: Voltereta máx.
+- id: 20106
+  en: >-
+    Si mueves el joystick izquierdo y pulsas {:icon button-square},
+
+    darás una voltereta para esquivar ataques.
+
+    Es más eficaz cuando se sube de nivel.
+- id: 20107
+  en: Auto-suma
+- id: 20108
+  en: >-
+    En casos de emergencia, si la Forma
+
+    suma está disponible, el comando
+
+    de reacción cambia a Suma.
+- id: 20109
+  en: Estocada veloz
+- id: 20110
+  en: >-
+    Asesta varios golpes al rival.
+
+    Encadena ataques con {:icon button-triangle}.
+
+    {:color #F0F00080}Coste PM:{:width 100} 60{:reset}
+- id: 20111
+  en: Último arcano
+- id: 20112
+  en: >-
+    Potente comando Límite que
+
+    puede finalizarse con más
+
+    golpes pulsando {:icon button-triangle}. {:color #F0F00080}Coste PM:{:width 100} 75{:reset}
+- id: 20113
+  en: Tiro mortífero
+- id: 20114
+  en: >-
+    Comando Límite que lanza la
+
+    llave espada contra el rival y
+
+    puede complementarse con {:icon button-triangle}. {:color #F0F00080}Coste PM:{:width 100} 65{:reset}
+- id: 20115
+  en: Ragnarok
+- id: 20116
+  en: >-
+    Comando Límite que se ejecuta
+
+    pulsando {:icon button-triangle} en el momento
+
+    preciso tras un combo aéreo. {:color #F0F00080}Coste PM:{:width 100} 80{:reset}
+- id: 20117
+  en: Zantetsuken
+- id: 20118
+  en: >-
+    Lanza un poderoso combo final
+
+    para acabar con un único rival
+
+    débil de una sola vez.
+- id: 20119
+  en: Oleada mágica
+- id: 20120
+  en: >-
+    Lanza un combo final contra quienes
+
+    te rodean. El daño
+
+    es proporcional a la habilidad mágica.
+- id: 20121
+  en: Pulso huracanado
+- id: 20122
+  en: >-
+    Mientras giras en el aire, lanza
+
+    un poderoso combo final
+
+    golpeando a diestro y siniestro.
+- id: 20123
+  en: Niv. de Suma
+- id: 20124
+  en: >-
+    Ganas un punto de experiencia cada
+
+    vez que lanzas un poderoso combo final.
+- id: 20125
+  en: >-
+    Experiencia necesaria para subir de nivel.
+
+    El tope del nivel depende del número de
+
+    Formas obtenidas.
+- id: 20126
+  en: >-
+    Indicador de Forma para Forma suma.
+
+    Cuanto más largo sea el indicador, mayor
+
+    será el tiempo que dure la transformación.
+- id: 20127
+  en: Suma
+- id: 20128
+  en: >-
+    Condición de Forma suma.
+
+    Una Forma especial para usar límites.
+
+    {:color #F0F00080}Puntos de Fusión consumidos: 4{:reset}
+- id: 20129
+  en: >-
+    Nivel de Forma suma. Aumenta el
+
+    tiempo que dura la transformación, y las
+
+    habilidades se incrementan al subir de nivel.
+- id: 20159
+  en: '{:icon button-circle}: Menú de guardado  {:icon button-cross}:  Salir'
+- id: 20168
+  en: Finta
+- id: 20169
+  en: Finta alta
+- id: 20170
+  en: >-
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+
+
+    Crea un archivo de datos de juego completo.
+
+    Podrás cargarlo para afrontar de
+    
+    nuevo la batalla final.
+- id: 20171
+  en: >-
+    {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}
+
+
+    ¿Quieres volver a la pantalla
+
+    del título sin guardar
+
+    los datos de juego completo?
+- id: 20190
+  en: Unificar
+- id: 20191
+  en: Guijarro evocador
+- id: 20192
+  en: >-
+    Fragmento de gema con el poder de
+
+    la reminiscencia. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 20193
+  en: Roca evocadora
+- id: 20194
+  en: >-
+    Esta roca encierra el poder de
+
+    la reminiscencia. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 20195
+  en: Piedra evocadora
+- id: 20196
+  en: >-
+    Esta gema rebosa del poder de
+
+    la reminiscencia. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 20197
+  en: Cristal evocador
+- id: 20198
+  en: >-
+    Este misterioso cristal rebosa
+
+    reminiscencia. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 20199
+  en: Guijarro sosegado
+- id: 20200
+  en: >-
+    Fragmento de gema con el poder
+
+    del sosiego. Es un ingrediente
+
+    muy común para fabricar objetos.
+- id: 20201
+  en: Roca sosegada
+- id: 20202
+  en: >-
+    Esta roca encierra el poder
+
+    del sosiego. Es un ingrediente
+
+    común para fabricar objetos.
+- id: 20203
+  en: Piedra sosegada
+- id: 20204
+  en: >-
+    Esta gema rebosa del poder
+
+    del sosiego. Es un ingrediente
+
+    raro para fabricar objetos.
+- id: 20205
+  en: Cristal sosegado
+- id: 20206
+  en: >-
+    Este misterioso cristal rebosa
+
+    sosiego. Es un ingrediente
+
+    muy raro para fabricar objetos.
+- id: 20207
+  en: Ilusión extraviada
+- id: 20208
+  en: >-
+    Mena que desprende una peculiar
+
+    aura. Sirve de ingrediente
+
+    para fabricar objetos.
+- id: 20209
+  en: Ilusión materializada
+- id: 20210
+  en: >-
+    Mena que desprende una peculiar
+
+    aura. Sirve de ingrediente
+
+    para fabricar objetos.
+- id: 20211
+  en: Evocación oscura
+- id: 20212
+  en: Un mapa del lugar.
+- id: 20214
+  en: Ragnarok
+- id: 20215
+  en: Tiro
+- id: 20216
+  en: Descarga
+- id: 20217
+  en: Megadescarga
+- id: 20220
+  en: Arrancar
+- id: 20221
+  en: Acceder
+- id: 20222
+  en: Estocada veloz
+- id: 20223
+  en: Repetir
+- id: 20224
+  en: Final
+- id: 20225
+  en: Último arcano
+- id: 20226
+  en: Sacudida
+- id: 20227
+  en: Remate
+- id: 20228
+  en: Tiro mortífero
+- id: 20229
+  en: Mortífero
+- id: 20230
+  en: Justicia divina
+- id: 20235
+  en: Suma
+- id: 20236
+  en: Megadescarga
+- id: 20237
+  en: Volver a Escenas
+- id: 20240
+  en: Arrancar
+- id: 20241
+  en: Japonésₓ
+- id: 20242
+  en: Inglés
+- id: 20243
+  en: ¿Qué capítulo quieres ver?
+- id: 20244
+  en: Disfruta viendo las escenas del juego.
+- id: 20270
+  en: Reproducir todo
+- id: 20325
+  en: Contra Zantetsuken
+- id: 20326
+  en: >-
+    Si pulsas Atacar mientras bloqueas,
+
+    contraatacas con Zantetsuken.
+- id: 20327
+  en: Combo recio
+- id: 20328
+  en: >-
+    Si pulsas {:icon button-square} durante un combo,
+
+    podrás eludir ataques enemigos
+
+    y contraatacar.
+- id: 20329
+  en: Saqueo VT
+- id: 20330
+  en: >-
+    Sora recupera VT cuando golpea
+
+    al rival usando un comando Límite.
+- id: 20338
+  en: Gruta de la Evocación
+- id: 20339
+  en: Un mapa del lugar.
+- id: 20342
+  en: Edén de la Convergencia
+- id: 20343
+  en: Un mapa del lugar.
+- id: 20364
+  en: Pieza de "El despertar"
+- id: 20392
+  en: Pieza de "El despertar"
+- id: 20393
+  en: Pieza de "Corazón"
+- id: 20394
+  en: Pieza de "Corazón"
+- id: 20395
+  en: Pieza de "Corazón"
+- id: 20396
+  en: Pieza de "El despertar"
+- id: 20397
+  en: Marca del Nexo
+- id: 20398
+  en: >-
+    Prueba de haber salido victorioso de
+
+    la batalla más allá del Castillo Disney.
+
+    ¿Qué efecto tendrá en Sora?
+- id: 20399
+  en: Marca del Incorpóreo
+- id: 20400
+  en: >-
+    Prueba de haber vencido a los miembros
+
+    materializados de la Organización {XIII}.
+
+    ¿Qué efecto tendrá en Sora?
+- id: 20401
+  en: Marca de la Serenidad
+- id: 20402
+  en: >-
+    Prueba de haber vencido a los miembros
+
+    de la Micorganización {XIII}.
+
+    ¿Qué efecto tendrá en Sora?
+- id: 20403
+  en: Deludir
+- id: 20404
+  en: Cancelar
+- id: 20405
+  en: Restablecer
+- id: 20406
+  en: Suprimir
+- id: 20407
+  en: Pasar página
+- id: 20408
+  en: Pieza de "El despertar"
+- id: 20409
+  en: Pieza de "El despertar"
+- id: 20410
+  en: Pieza de "El despertar"
+- id: 20411
+  en: Pieza de "El despertar"
+- id: 20412
+  en: Pieza de "El despertar"
+- id: 20413
+  en: Pieza de "El despertar"
+- id: 20416
+  en: Pieza de "El despertar"
+- id: 20418
+  en: Pieza de "El despertar"
+- id: 20419
+  en: Pieza de "El despertar"
+- id: 20422
+  en: Pieza de "Luces y sombras"
+- id: 20423
+  en: Pieza de "Luces y sombras"
+- id: 20424
+  en: Pieza de "Luces y sombras"
+- id: 20425
+  en: Pieza de "Luces y sombras"
+- id: 20426
+  en: Pieza de "Corazón"
+- id: 20427
+  en: Pieza de "Luces y sombras"
+- id: 20428
+  en: Pieza de "Corazón"
+- id: 20429
+  en: Pieza de "Luces y sombras"
+- id: 20430
+  en: Pieza de "Corazón"
+- id: 20431
+  en: Pieza de "Luces y sombras"
+- id: 20432
+  en: Pieza de "Luces y sombras"
+- id: 20433
+  en: Pieza de "Luces y sombras"
+- id: 20434
+  en: Pieza de "Luces y sombras"
+- id: 20435
+  en: Pieza de "Luces y sombras"
+- id: 20436
+  en: Pieza de "Luces y sombras"
+- id: 20437
+  en: Pieza de "La aurora"
+- id: 20438
+  en: Pieza de "La aurora"
+- id: 20439
+  en: Pieza de "La aurora"
+- id: 20440
+  en: Pieza de "La aurora"
+- id: 20441
+  en: Pieza de "La aurora"
+- id: 20442
+  en: Pieza de "La aurora"
+- id: 20443
+  en: Pieza de "La aurora"
+- id: 20444
+  en: Pieza de "La aurora"
+- id: 20445
+  en: Pieza de "La aurora"
+- id: 20446
+  en: Pieza de "La aurora"
+- id: 20447
+  en: Pieza de "Corazón"
+- id: 20448
+  en: Pieza de "La aurora"
+- id: 20449
+  en: Pieza de "La aurora"
+- id: 20450
+  en: Pieza de "La aurora"
+- id: 20451
+  en: Pieza de "Corazón"
+- id: 20452
+  en: Pieza de "La aurora"
+- id: 20453
+  en: Pieza de "La aurora"
+- id: 20454
+  en: Pieza de "La aurora"
+- id: 20455
+  en: Pieza de "La aurora"
+- id: 20456
+  en: Pieza de "Corazón"
+- id: 20457
+  en: Pieza de "La aurora"
+- id: 20458
+  en: Pieza de "La aurora"
+- id: 20459
+  en: Pieza de "La aurora"
+- id: 20460
+  en: Pieza de "La aurora"
+- id: 20461
+  en: Pieza de "La aurora"
+- id: 20462
+  en: Pieza de "Corazón"
+- id: 20463
+  en: Pieza de "La aurora"
+- id: 20464
+  en: Pieza de "La aurora"
+- id: 20465
+  en: Pieza de "La aurora"
+- id: 20466
+  en: Pieza de "La aurora"
+- id: 20467
+  en: Pieza de "Corazón"
+- id: 20468
+  en: Pieza de "La aurora"
+- id: 20469
+  en: Pieza de "La aurora"
+- id: 20470
+  en: Pieza de "La aurora"
+- id: 20471
+  en: Pieza de "Corazón"
+- id: 20472
+  en: Pieza de "La aurora"
+- id: 20473
+  en: Pieza de "La aurora"
+- id: 20474
+  en: Pieza de "La aurora"
+- id: 20475
+  en: Pieza de "La aurora"
+- id: 20476
+  en: Pieza de "La aurora"
+- id: 20477
+  en: Pieza de "La aurora"
+- id: 20478
+  en: Pieza de "La aurora"
+- id: 20479
+  en: Pieza de "La aurora"
+- id: 20480
+  en: Pieza de "La aurora"
+- id: 20481
+  en: Pieza de "La aurora"
+- id: 20482
+  en: Pieza de "La aurora"
+- id: 20483
+  en: Pieza de "La aurora"
+- id: 20484
+  en: Pieza de "La aurora"
+- id: 20485
+  en: Pieza de "La aurora"
+- id: 20486
+  en: Pieza de "La aurora"
+- id: 20487
+  en: Pieza de "La aurora"
+- id: 20488
+  en: Pieza de "La aurora"
+- id: 20489
+  en: Pieza de "La aurora"
+- id: 20490
+  en: Pieza de "La aurora"
+- id: 20491
+  en: Coraza
+- id: 20492
+  en: >-
+    Reduce un 
+
+    {:color #F0F00080}10%{:reset} el daño recibido.
+- id: 20493
+  en: Coraza+
+- id: 20494
+  en: >-
+    Reduce un 
+
+    {:color #F0F00080}20%{:reset} el daño recibido.
+- id: 20495
+  en: Coraza++
+- id: 20496
+  en: >-
+    Reduce un 
+
+    {:color #F0F00080}40%{:reset} el daño recibido.
+- id: 20498
+  en: '{:icon remembrance}'
+- id: 20499
+  en: '{:icon tranquil}'
+- id: 20535
+  en: Forcejear
+- id: 20536
+  en: Reiniciar
+- id: 20537
+  en: Otra más
+- id: 20538
+  en: Pieza de "Al filo"
+- id: 20551
+  en: Pieza de "Al filo"
+- id: 20555
+  en: Pieza de "Al filo"
+- id: 20558
+  en: Pieza de "Al filo"
+- id: 20561
+  en: Pieza de "Al filo"
+- id: 20564
+  en: Pieza de "Al filo"
+- id: 20571
+  en: Pieza de "Al filo"
+- id: 20574
+  en: Pieza de "Al filo"
+- id: 20576
+  en: Pieza de "Al filo"
+- id: 20577
+  en: Pieza de "Al filo"
+- id: 20579
+  en: Pieza de "Al filo"
+- id: 20580
+  en: Pieza de "Al filo"
+- id: 20623
+  en: Anillo supremo
+- id: 20624
+  en: Aumenta enormemente los PH máximos.
+- id: 20626
+  en: Pieza de "El crepúsculo"
+- id: 20627
+  en: Pieza de "El crepúsculo"
+- id: 20628
+  en: Pieza de "El crepúsculo"
+- id: 20629
+  en: Pieza de "El crepúsculo"
+- id: 20630
+  en: Pieza de "El crepúsculo"
+- id: 20631
+  en: Pieza de "El crepúsculo"
+- id: 20632
+  en: Pieza de "El crepúsculo"
+- id: 20633
+  en: Pieza de "El crepúsculo"
+- id: 20634
+  en: Pieza de "El crepúsculo"
+- id: 20635
+  en: Pieza de "El crepúsculo"
+- id: 20636
+  en: Pieza de "El crepúsculo"
+- id: 20637
+  en: Pieza de "El crepúsculo"
+- id: 20640
+  en: Pieza de "El crepúsculo"
+- id: 20642
+  en: Pieza de "El crepúsculo"
+- id: 20643
+  en: Pieza de "El crepúsculo"
+- id: 20644
+  en: Pieza de "El crepúsculo"
+- id: 20645
+  en: Pieza de "El crepúsculo"
+- id: 20646
+  en: Pieza de "El crepúsculo"
+- id: 20647
+  en: Pieza de "El crepúsculo"
+- id: 20648
+  en: Pieza de "El crepúsculo"
+- id: 20653
+  en: Pieza de "El crepúsculo"
+- id: 20654
+  en: Pieza de "El crepúsculo"
+- id: 20656
+  en: Pieza de "El crepúsculo"
+- id: 20657
+  en: Pieza de "El crepúsculo"
+- id: 20658
+  en: Pieza de "El crepúsculo"
+- id: 20659
+  en: Pieza de "El crepúsculo"
+- id: 20660
+  en: Pieza de "El crepúsculo"
+- id: 20661
+  en: Pieza de "El crepúsculo"
+- id: 20662
+  en: Pieza de "El crepúsculo"
+- id: 20663
+  en: Pieza de "El crepúsculo"
+- id: 20664
+  en: Pieza de "El crepúsculo"
+- id: 20665
+  en: Pieza de "El crepúsculo"
+- id: 20666
+  en: Pieza de "El crepúsculo"
+- id: 20667
+  en: Pieza de "El crepúsculo"
+- id: 20668
+  en: Pieza de "El crepúsculo"
+- id: 20669
+  en: Pieza de "El crepúsculo"
+- id: 20670
+  en: Pieza de "El crepúsculo"
+- id: 20671
+  en: Pieza de "El crepúsculo"
+- id: 20672
+  en: Pieza de "El crepúsculo"
+- id: 20673
+  en: Pieza de "El crepúsculo"
+- id: 20675
+  en: Pieza de "El crepúsculo"
+- id: 20676
+  en: Pieza de "El crepúsculo"
+- id: 20677
+  en: Pieza de "El crepúsculo"
+- id: 20678
+  en: Pieza de "El crepúsculo"
+- id: 20679
+  en: Pieza de "El crepúsculo"
+- id: 20680
+  en: Pieza de "El crepúsculo"
+- id: 20681
+  en: Pieza de "El crepúsculo"
+- id: 20682
+  en: Pieza de "El crepúsculo"
+- id: 20683
+  en: Consigue 50 tipos de materiales.
+- id: 20684
+  en: Consigue 55 tipos de materiales.
+- id: 20685
+  en: Obtén todos los {:icon remembrance}materiales evocadores.
+- id: 20686
+  en: Obtén todos los {:icon tranquil}materiales de sosiego.
+- id: 20694
+  en: Forcejear
+- id: 20695
+  en: Acometer
+- id: 21364
+  en: Vista arriba
+- id: 21375
+  en: Cetro conjurador+
+- id: 21376
+  en: >-
+    Gran fuerza y poder mágicos.
+
+    {:color #F0F00080}Aumenta la defensa en 3{:reset}
+
+    en casos de emergencia.
+- id: 21377
+  en: Disco akáshico+
+- id: 21378
+  en: >-
+    Este escudo posee una fuerza
+
+    enorme. Si consumes todos los PM,
+
+    {:color #F0F00080}los recuperas un 50%{:reset} más rápido.
+- id: 21469
+  en: Antimagia
+- id: 21563
+  en: Descenso
+- id: 21564
+  en: Escape
+- id: 21567
+  en: Pavor
+- id: 21568
+  en: Otro plano
+- id: 21569
+  en: Falacia
+- id: 21570
+  en: Recelo
+- id: 21571
+  en: Quimera
+- id: 21572
+  en: Invisibilidad
+- id: 21573
+  en: Ensoñación
+- id: 21574
+  en: Ilusión
+- id: 21575
+  en: Ardid
+- id: 21576
+  en: Engaño
+- id: 21577
+  en: Maquinación
+- id: 21578
+  en: Delirio
+- id: 21579
+  en: Espejismo
+- id: 21580
+  en: Visión
+- id: 21581
+  en: Conspirar
+- id: 21582
+  en: Embaucar
+- id: 21583
+  en: Tejemaneje
+- id: 21584
+  en: Rapto
+- id: 21585
+  en: Trampa
+- id: 21586
+  en: Treta
+- id: 21587
+  en: Acertijo
+- id: 21588
+  en: Farsante
+- id: 21589
+  en: Manipular
+- id: 21590
+  en: Secuestro
+- id: 21591
+  en: Intriga
+- id: 21592
+  en: Alucinación
+- id: 21593
+  en: Embuste
+- id: 21594
+  en: Inexplicable
+- id: 21595
+  en: Mutación
+- id: 21596
+  en: Truco
+- id: 21597
+  en: Espectro
+- id: 21598
+  en: Impostor
+- id: 21599
+  en: Misterio
+- id: 21600
+  en: Ragnarok
+- id: 21601
+  en: Obnubilación
+- id: 21602
+  en: Desánimo
+- id: 21603
+  en: Lexicón
+- id: 21604
+  en: Cepo
+- id: 21605
+  en: Restaurar
+- id: 21606
+  en: Desligar
+- id: 21607
+  en: Restituir
+- id: 21608
+  en: ¡Bingo!
+- id: 21609
+  en: Sanar
+- id: 21610
+  en: Focalizar
+- id: 21611
+  en: Recompensa
+- id: 21612
+  en: Fortuna
+- id: 21613
+  en: Vigor
+- id: 21614
+  en: Tesoro
+- id: 21615
+  en: Amparar
+- id: 21616
+  en: Riqueza
+- id: 21617
+  en: Laureles
+- id: 21618
+  en: Aliviar
+- id: 21619
+  en: Buenaventura
+- id: 21620
+  en: Clasificar
+- id: 21621
+  en: Escudriñar
+- id: 21622
+  en: Seleccionar

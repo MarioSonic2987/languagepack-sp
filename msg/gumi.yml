@@ -1,0 +1,2854 @@
+﻿- id: 6219
+  en: Lista de tesoros
+- id: 6220
+  en: Material gumi
+- id: 6221
+  en: Gumi Aero
+- id: 6222
+  en: Casco plano
+- id: 6223
+  en: Casco curvo
+- id: 6224
+  en: Casco sólido
+- id: 6225
+  en: Casco esférico
+- id: 6226
+  en: Gumi Puente
+- id: 6227
+  en: Gumi Puente+
+- id: 6228
+  en: Gumi Envión
+- id: 6229
+  en: Gumi Impulso
+- id: 6230
+  en: Gumi Cohete
+- id: 6231
+  en: Gumi Minipropulsor
+- id: 6232
+  en: Gumi Propulsor
+- id: 6233
+  en: '{:width 95}Gumi Rotopropulsor'
+- id: 6234
+  en: Gumi Turbo Sónico
+- id: 6235
+  en: Gumi Rotor
+- id: 6236
+  en: Gumi Megarrotor
+- id: 6237
+  en: Gumi Tempestad
+- id: 6238
+  en: Gumi Huracán
+- id: 6239
+  en: Gumi Tifón
+- id: 6240
+  en: Gumi Ciclón
+- id: 6241
+  en: Gumi Vórtice
+- id: 6242
+  en: Gumi Tormenta
+- id: 6243
+  en: Gumi Ángel
+- id: 6244
+  en: Gumi Penumbra
+- id: 6245
+  en: Gumi Barrera
+- id: 6246
+  en: Gumi Muro
+- id: 6247
+  en: Gumi Escudo
+- id: 6248
+  en: Gumi Escudo+
+- id: 6249
+  en: Gumi Piro
+- id: 6250
+  en: Gumi Piro+
+- id: 6251
+  en: Gumi Piro++
+- id: 6252
+  en: Gumi Hielo
+- id: 6253
+  en: Gumi Hielo+
+- id: 6254
+  en: Gumi Hielo++
+- id: 6255
+  en: Gumi Gravedad
+- id: 6256
+  en: Gumi Gravedad+
+- id: 6257
+  en: Gumi Gravedad++
+- id: 6258
+  en: Gumi Electro
+- id: 6259
+  en: Gumi Electro+
+- id: 6260
+  en: Gumi Electro++
+- id: 6261
+  en: Gumi Cometa
+- id: 6262
+  en: Gumi Meteo
+- id: 6263
+  en: Gumi Artema
+- id: 6264
+  en: Gumi Taladro
+- id: 6265
+  en: Gumi Sierra
+- id: 6266
+  en: Gumi Orichalcum
+- id: 6267
+  en: Gumi Masamune
+- id: 6268
+  en: Gumi Excalibur
+- id: 6269
+  en: Gumi Infinito
+- id: 6270
+  en: Esfera de Neón
+- id: 6271
+  en: Barra de Neón
+- id: 6272
+  en: Gumi Mando
+- id: 6273
+  en: Gumi Parábola
+- id: 6274
+  en: Gumi Antena
+- id: 6275
+  en: Gumi Radar
+- id: 6276
+  en: Esfera de Luz
+- id: 6277
+  en: Cubo de Luz
+- id: 6278
+  en: Corona Gumi
+- id: 6279
+  en: Gumi Shuriken
+- id: 6280
+  en: Gumi Repel
+- id: 6281
+  en: Gumi Bumerán
+- id: 6282
+  en: Gumi Luna
+- id: 6283
+  en: Gumi Puño
+- id: 6284
+  en: Gumi Bomba
+- id: 6287
+  en: Gumi Drenaje
+- id: 6303
+  en: Atracción
+- id: 6307
+  en: Cura ▲
+- id: 6311
+  en: Auto Vital
+- id: 6314
+  en: DUMMY
+- id: 6315
+  en: >-
+    Puedes modificar los materiales
+
+    gumi para realizar tus diseños.
+
+    Si les agregas biseles, tubos o
+
+    curvas, la VT de la nave aumentará.
+- id: 6316
+  en: >-
+    Puedes modificar los materiales
+
+    gumi para realizar tus diseños.
+
+    La movilidad de la nave
+
+    aumentará si usas gumis Aero.
+- id: 6329
+  en: Gumi-cabinas
+- id: 6330
+  en: Gumi-alas
+- id: 6331
+  en: Gumi-motores
+- id: 6332
+  en: '{:width 90}Gumi-proyectiles'
+- id: 6333
+  en: Gumi-rayos
+- id: 6334
+  en: Gumi-protecciones
+- id: 6335
+  en: '{:width 92}Gumis opcionales'
+- id: 6336
+  en: Gumi-blancos
+- id: 6337
+  en: Asignar habilidades
+- id: 6339
+  en: Multigumis
+- id: 6340
+  en: Dar forma
+- id: 6341
+  en: Copiar y colocar
+- id: 6342
+  en: Editar
+- id: 6343
+  en: Pintar
+- id: 6344
+  en: Deshacer
+- id: 6345
+  en: Rehacer
+- id: 6346
+  en: Cambio de modo
+- id: 6349
+  en: Guardar plano
+- id: 6350
+  en: Salir
+- id: 6351
+  en: Gumis biselados
+- id: 6352
+  en: Gumis curvos
+- id: 6353
+  en: Gumis Aero
+- id: 6354
+  en: Colocar gumis
+- id: 6355
+  en: Agregar biseles
+- id: 6356
+  en: Agregar curvas
+- id: 6357
+  en: Agregar una punta
+- id: 6358
+  en: Copia normal
+- id: 6359
+  en: Copia en espejo
+- id: 6365
+  en: >-
+    Cambia las formas de los materiales
+
+    gumi antes de colocarlos.
+- id: 6366
+  en: >-
+    Agrega biseles a un material gumi
+
+    para aumentar la VT de la nave.
+- id: 6367
+  en: >-
+    Agrega curvas a un material gumi
+
+    para aumentar mucho la VT de la nave.
+- id: 6368
+  en: >-
+    Agrega aerodinámica a un material gumi
+
+    para aumentar la movilidad de la nave.
+- id: 6369
+  en: >-
+    Si los agrupas, puedes colocar
+
+    múltiples materiales gumi de una vez.
+- id: 6372
+  en: >-
+    Cambia la forma de los gumis
+
+    que ya hayas colocado.
+- id: 6373
+  en: >-
+    Agrega biseles al material
+
+    gumi seleccionado.
+- id: 6374
+  en: >-
+    Agrega curvas al material
+
+    gumi seleccionado.
+- id: 6375
+  en: >-
+    Afila el material gumi seleccionado
+
+    en la dirección elegida.
+- id: 6376
+  en: >-
+    Clona uno o más gumis que hayas
+
+    colocado y coloca la copia.
+- id: 6377
+  en: Copia el diseño gumi tal como es.
+- id: 6378
+  en: >-
+    Gira el diseño gumi
+
+    antes de copiarlo.
+- id: 6379
+  en: >-
+    Mueve los bloques gumi que has
+
+    colocado o los quita del montaje.
+- id: 6380
+  en: Da color a los bloques gumi.
+- id: 6381
+  en: >-
+    Da un paso atrás y devuelve el
+
+    montaje a su condición previa.
+- id: 6382
+  en: >-
+    Deshace el último cambio y devuelve
+
+    el montaje a su condición previa.
+- id: 6383
+  en: >-
+    Cambia a un modo de edición diseñado
+
+    para colocar deco-gumis.
+- id: 6384
+  en: >-
+    Configura el Editor según
+
+    tus preferencias.
+- id: 6386
+  en: >-
+    Abandona el montaje de la nave
+
+    gumi y sal del Editor.
+- id: 6387
+  en: Aumenta la energía total de la nave.
+- id: 6388
+  en: >-
+    Coloca deco-gumis que aumentan
+
+    la movilidad de la nave.
+- id: 6389
+  en: >-
+    Coloca deco-gumis que aumentan
+
+    la velocidad de la nave.
+- id: 6390
+  en: >-
+    Coloca los deco-gumis que disparan
+
+    cuando pulsas {:icon button-cross}.
+- id: 6391
+  en: >-
+    Coloca los deco-gumis que lanzan rayos
+
+    a objetivos cercanos si pulsas {:icon button-triangle}.
+- id: 6392
+  en: >-
+    Coloca deco-gumis que puedan
+
+    bloquear el fuego enemigo.
+- id: 6393
+  en: >-
+    No olvides incluir deco-gumis
+
+    de los raros y únicos.
+- id: 6394
+  en: >-
+    Coloca los deco-gumis que fijan un blanco
+
+    y disparan cuando mantienes pulsado {:icon button-cross}.
+- id: 6395
+  en: Asigna unidades de habilidad.
+- id: 6396
+  en: >-
+    Cambia a un modo de edición
+
+    diseñado para colocar materiales gumi.
+- id: 6399
+  en: Comenzar
+- id: 6400
+  en: Editor gumi
+- id: 6404
+  en: Seleccionar nivel de misión para volar.
+- id: 6415
+  en: Naves gumi
+- id: 6416
+  en: Navecitas
+- id: 6422
+  en: Mapa de los mundos
+- id: 6424
+  en: Ataque
+- id: 6425
+  en: Coste
+- id: 6426
+  en: VT
+- id: 6427
+  en: Velocidad
+- id: 6428
+  en: Movilidad
+- id: 6429
+  en: '-'
+- id: 8434
+  en: >-
+    Atrae las esferas que normalmente
+
+    están fuera de alcance.
+- id: 8438
+  en: >-
+    Aumenta el efecto recuperador
+
+    de las esferas de VT.
+- id: 8442
+  en: >-
+    Devuelve VT después de la primera
+
+    vez que el indicador llega a 0.
+- id: 8450
+  en: ¡Despega y toma la ruta gumi!
+- id: 8451
+  en: ¡Construye y mejora las naves gumi!
+- id: 8466
+  en: '{:width 84}Construye naves con los bloques gumi que has reunido.'
+- id: 8467
+  en: '{:width 84}Construye navecitas para que defiendan tu nave gumi.'
+- id: 8473
+  en: Volver al mapa de los mundos.
+- id: 13976
+  en: Cambiar formación
+- id: 14075
+  en: Continuar
+- id: 14076
+  en: Reintentar
+- id: 14077
+  en: Fuego rápido
+- id: 14078
+  en: Semiautomático
+- id: 14079
+  en: Automático
+- id: 14080
+  en: Eje Y
+- id: 14081
+  en: Normal
+- id: 14082
+  en: Invertir
+- id: 14083
+  en: Cámara
+- id: 14084
+  en: Normal
+- id: 14085
+  en: Invertir
+- id: 14086
+  en: Menú gumi
+- id: 14087
+  en: Mapa de los mundos
+- id: 14280
+  en: Configuración
+- id: 14281
+  en: Armas gumi
+- id: 14282
+  en: '{:width 90}Gumis de movimiento'
+- id: 14283
+  en: '{:width 90}Gumis auxiliares'
+- id: 14289
+  en: Continuar
+- id: 14290
+  en: Menú gumi
+- id: 14291
+  en: Mapa de los mundos
+- id: 14648
+  en: >-
+    Guarda en un plano la nave
+
+    gumi que has construido.
+- id: 14649
+  en: >-
+    Coloca deco-gumis diseñados
+
+    para el ataque.
+- id: 14650
+  en: >-
+    Coloca deco-gumis
+
+    de movimiento.
+- id: 14651
+  en: >-
+    Coloca deco-gumis diseñados
+
+    para aplicaciones especiales.
+- id: 14681
+  en: Cañón ▲
+- id: 14682
+  en: Láser ▲
+- id: 14683
+  en: Rayo ▲
+- id: 14684
+  en: Convertir medallas
+- id: 14685
+  en: Auto Regen
+- id: 14686
+  en: Auto Contra
+- id: 14687
+  en: Convertir costes
+- id: 14688
+  en: Formación activa
+- id: 14689
+  en: '{:width 95}Diseño A'
+- id: 14690
+  en: '{:width 95}Diseño B'
+- id: 14691
+  en: Diseños realistas
+- id: 14692
+  en: Calcamonías
+- id: 14693
+  en: Diseños varios A
+- id: 14694
+  en: Diseños varios B
+- id: 14695
+  en: Diseños de neón A
+- id: 14696
+  en: Diseños de neón B
+- id: 14697
+  en: Coste límite ▲
+- id: 14699
+  en: Sistema de navecitas
+- id: 14700
+  en: PH límite ▲
+- id: 14701
+  en: Modelo Hongo
+- id: 14702
+  en: Modelo Albatros α
+- id: 14703
+  en: Modelo PuPu
+- id: 14704
+  en: Modelo Tonberry
+- id: 14705
+  en: Modelo Moguri
+- id: 14706
+  en: Modelo {:width 95}Mandrágora {:width 100}
+- id: 14707
+  en: Modelo Chocobo
+- id: 14708
+  en: Modelo Cactilio
+- id: 14709
+  en: Modelo Cait Sith
+- id: 14710
+  en: Modelo Fenrir
+- id: 14711
+  en: Modelo Kingdom
+- id: 14712
+  en: Modelo Secreto
+- id: 15148
+  en: '{:width 95}Límite de navecitas ▲'
+- id: 15181
+  en: >-
+    Aumenta el daño que causan
+
+    los ataques de cañón.
+- id: 15182
+  en: >-
+    Aumenta el daño que causan
+
+    los ataques láser.
+- id: 15183
+  en: >-
+    Aumenta el daño que causan
+
+    los ataques con gumi-rayos.
+- id: 15184
+  en: >-
+    Hace que las esferas de medalla aparezcan
+
+    más a menudo que las esferas de VT.
+- id: 15185
+  en: >-
+    Después de un tiempo, devuelve
+
+    VT automáticamente.
+- id: 15186
+  en: >-
+    Si un enemigo te alcanza, lanza
+
+    disparos láser automáticamente.
+- id: 15187
+  en: >-
+    Te permite abandonar una navecita
+
+    y agregar su costo a la
+
+    nave gumi.
+- id: 15188
+  en: >-
+    Te permite cambiar la formación
+
+    de las navecitas con {:icon button-l2} y {:icon button-r2}.
+- id: 15189
+  en: >-
+    Te permite cambiar la energía de las
+
+    navecitas a una formación activa con {:icon button-square}.
+- id: 15196
+  en: Material gumi ₓ 5
+- id: 15197
+  en: Material gumi ₓ 10
+- id: 15198
+  en: Material gumi ₓ 20
+- id: 15420
+  en: Energía
+- id: 15421
+  en: >-
+    Lanza dos series de disparos hacia
+
+    el frente. Fuego rápido habilitado.
+- id: 15422
+  en: >-
+    Dos fuertes series de disparos
+
+    hacia el frente. Fuego rápido habilitado.
+- id: 15423
+  en: >-
+    Dos poderosas series de disparos
+
+    hacia el frente. Fuego rápido habilitado.
+- id: 15424
+  en: >-
+    Dos series de disparos en dos
+
+    direcciones. Fuego rápido habilitado.
+- id: 15425
+  en: >-
+    Dos series de disparos en tres
+
+    direcciones. Fuego rápido habilitado.
+- id: 15426
+  en: >-
+    Dos series de disparos en cuatro
+
+    direcciones. Fuego rápido habilitado.
+- id: 15427
+  en: >-
+    Lanza una serie de disparos que
+
+    se esparcen al impactar.
+- id: 15428
+  en: >-
+    Lanza una serie de disparos que
+
+    se esparcen al impactar.
+- id: 15429
+  en: >-
+    Lanza una poderosa serie de disparos
+
+    que se esparcen al impactar.
+- id: 15430
+  en: >-
+    Los disparos láser buscan blancos
+
+    que han sido fijados. Puedes fijar
+
+    dos enemigos al mismo tiempo.
+- id: 15431
+  en: >-
+    Los disparos láser buscan blancos
+
+    que han sido fijados. Puedes fijar
+
+    cuatro enemigos al mismo tiempo.
+- id: 15432
+  en: >-
+    Los disparos láser buscan blancos
+
+    que han sido fijados. Puedes fijar
+
+    seis enemigos al mismo tiempo.
+- id: 15433
+  en: >-
+    Fija el blanco en objetivos cercanos
+
+    y lanza dos disparos láser.
+- id: 15434
+  en: >-
+    Fija el blanco en objetivos cercanos
+
+    y lanza cuatro disparos láser.
+- id: 15435
+  en: >-
+    Los disparos láser buscan blancos
+
+    fijos. Puedes apuntar a un objetivo
+
+    difícil y atacarlo hasta seis
+
+    veces seguidas.
+- id: 15436
+  en: >-
+    Daña a los enemigos que
+
+    chocan con el bloque gumi.
+- id: 15437
+  en: >-
+    Daña a los enemigos que
+
+    chocan con el bloque gumi.
+- id: 15438
+  en: >
+    Usa el indicador de Rayo para lanzar
+
+    un ataque frontal que atraviesa
+
+    la defensa enemiga. Si agregas más
+
+    gumi-rayos, podrás realizar combos.
+- id: 15439
+  en: >
+    Usa el indicador de Rayo para lanzar
+
+    un ataque vertical que atraviesa
+
+    la defensa enemiga. Si agregas más
+
+    gumi-rayos, podrás realizar combos.
+- id: 15440
+  en: >
+    Usa el indicador de Rayo para lanzar
+
+    un ataque horizontal que atraviesa
+
+    la defensa enemiga. Si agregas más
+
+    gumi-rayos, podrás realizar combos.
+- id: 15441
+  en: >
+    Usa el indicador de Rayo para lanzar
+
+    un ataque circular que atraviesa
+
+    la defensa enemiga. Si agregas más
+
+    gumi-rayos, podrás realizar combos.
+- id: 15442
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15443
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15444
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15445
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15446
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15447
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15448
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15449
+  en: >-
+    Consume energía, pero aumenta
+
+    la velocidad de la nave.
+- id: 15450
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15451
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15452
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15453
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15454
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15455
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15456
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15457
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15458
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 15459
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15460
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15461
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15462
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15463
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15464
+  en: >-
+    La nave se ralentiza, pero
+
+    se incrementa la energía y
+
+    aumenta el daño que
+
+    causan las armas gumi.
+- id: 15465
+  en: >-
+    Bloquea el fuego enemigo normal,
+
+    pero reduce la energía de la nave.
+- id: 15466
+  en: >-
+    Bloquea el fuego enemigo normal,
+
+    pero reduce la energía de la nave.
+- id: 15467
+  en: >-
+    Bloquea los ataques con
+
+    láser de los enemigos,
+
+    pero reduce la energía de la nave.
+- id: 15468
+  en: >-
+    Bloquea los ataques con
+
+    láser de los enemigos,
+
+    pero reduce la energía de la nave.
+- id: 15469
+  en: Aumenta la energía de la nave.
+- id: 15470
+  en: Aumenta la energía de la nave.
+- id: 15471
+  en: Aumenta la movilidad de la nave.
+- id: 15472
+  en: >-
+    Te permite fijar blancos más rápido,
+
+    pero sacrificas algo de velocidad.
+
+    Si agregas varios, mejorarás
+
+    la respuesta del blanco fijo.
+- id: 15473
+  en: >-
+    Te permite fijar blancos más rápido,
+
+    pero sacrificas algo de velocidad.
+
+    Si agregas varios, mejorarás
+
+    la respuesta del blanco fijo.
+- id: 15474
+  en: >-
+    Te permite fijar blancos más rápido,
+
+    pero sacrificas algo de velocidad.
+
+    Si agregas varios, mejorarás
+
+    la respuesta del blanco fijo.
+- id: 15475
+  en: >-
+    Consume energía, pero aumenta
+
+    mucho la VT de la nave.
+- id: 15476
+  en: >-
+    Consume energía, pero aumenta
+
+    mucho la VT de la nave.
+- id: 15477
+  en: >-
+    Reduce la VT a 1, pero la nave
+
+    comienza las misiones en modo Locura.
+- id: 15478
+  en: >-
+    Daña a los enemigos que
+
+    chocan con el bloque gumi.
+- id: 15479
+  en: >-
+    Absorbe y redirecciona el fuego
+
+    enemigo normal. Cuantos más
+
+    disparos absorbes, más poderoso
+
+    resulta tu contraataque.
+- id: 15679
+  en: '{:width 90}{:color #8080F080}Botón SELECT{:reset}{:width 90}: Cerrar'
+- id: 15680
+  en: '{:icon button-cross}: Abrir'
+- id: 15681
+  en: '{:icon button-circle}: Atrás'
+- id: 15683
+  en: 'Materiales gumi {:color #8080F080}▸{:reset}'
+- id: 15684
+  en: 'Deco-gumis {:color #8080F080}▸{:reset}'
+- id: 15685
+  en: 'Colocar gumis {:color #8080F080}▸{:reset}'
+- id: 15686
+  en: 'Copiar y colocar {:color #8080F080}▸{:reset}'
+- id: 15687
+  en: 'Dar forma {:color #8080F080}▸{:reset}'
+- id: 15697
+  en: 'Armas gumi {:color #8080F080}▸{:reset}'
+- id: 15698
+  en: 'Gumis de movimiento {:color #8080F080}▸{:reset}'
+- id: 15699
+  en: 'Gumis auxiliares {:color #8080F080}▸{:reset}'
+- id: 15874
+  en: Antes de comenzar
+- id: 15875
+  en: Modo visor
+- id: 15876
+  en: '¡A construir! {:color #8080F080}▸{:reset}'
+- id: 15877
+  en: 'Información adicional {:color #8080F080}▸{:reset}'
+- id: 15878
+  en: 1. Selección
+- id: 15879
+  en: 3. Reglas
+- id: 15880
+  en: Guía de botones
+- id: 15881
+  en: 2. Seleccionar un área
+- id: 15882
+  en: 1. Copia normal
+- id: 15883
+  en: 1. Modificaciones
+- id: 15884
+  en: 3. Agregar puntas
+- id: 15885
+  en: 1. Selección
+- id: 15886
+  en: 3. Agregar colores
+- id: 16440
+  en: Comenzar
+- id: 16441
+  en: Cancelar
+- id: 16582
+  en: ¡Bienvenido al Editor!
+- id: 16583
+  en: Los materiales gumi
+- id: 16584
+  en: Los deco-gumis
+- id: 16585
+  en: El modo visor
+- id: 16586
+  en: Cómo construir naves gumi
+- id: 16587
+  en: Cuaderno de información
+- id: 16588
+  en: Colocar materiales gumi
+- id: 16589
+  en: Copiar formas y colocar
+- id: 16590
+  en: Cambiar formas de gumis
+- id: 16600
+  en: Gumis de ataque
+- id: 16601
+  en: Gumis de movimiento
+- id: 16602
+  en: Deco-gumis especiales
+- id: 16612
+  en: ¡Seleccionemos los gumis!
+- id: 16613
+  en: Reglas de colocación
+- id: 16614
+  en: Guía de botones
+- id: 16615
+  en: Cómo seleccionar un área
+- id: 16616
+  en: Cómo hacer una copia normal
+- id: 16617
+  en: Biseles y curvas
+- id: 16618
+  en: Cómo agregar puntas
+- id: 16619
+  en: Elegir colores de la paleta
+- id: 16620
+  en: Agregar color a los bloques gumi
+- id: 16634
+  en: >-
+    Las naves gumi son vehículos especiales,
+
+    construidos con {:color #8080F080}bloques gumi{:reset}.
+
+
+    Con este Editor gumi, puedes
+
+    construir tu propia nave o
+
+    remodelar naves basadas en
+
+    los planos que hayas adquirido.
+
+
+    {:color #00F0F080}- ¡Con el botón SELECT, obtendrás ayuda!{:reset}
+
+    Con solo pulsar el {:color #8080F080}botón SELECT{:reset},
+
+    puedes acceder a esta {:color #F0F00080}guía gumi{:reset} en 
+
+    cualquier momento. Si al fabricar tienes
+
+    dudas, pulsa el {:color #8080F080}botón SELECT{:reset} para
+
+    recibir asistencia.
+- id: 16635
+  en: >-
+    Los materiales gumi son {:color #F0F00080}bloques que
+
+    puedes adaptar{:reset} de acuerdo a tus
+
+    necesidades a la hora de construir.
+
+
+    {:color #00F0F080}- ¡Crea una estructura con materiales gumi!{:reset}
+
+    Para trabajar con materiales gumi,
+
+    se usan tres herramientas básicas:
+
+    {:color #8080F080}Colocar gumis{:reset}, {:color #8080F080}Copiar y colocar{:reset}, y
+
+    {:color #8080F080}Dar forma{:reset}.
+
+
+    {:color #00F0F080}- ¿Cómo se cambia de modo?{:reset}
+
+    Mientras trabajas con materiales gumi,
+
+    puedes pulsar {:icon button-triangle} o elegir que
+
+    el comando {:color #8080F080}Cambio de modo{:reset} cambie
+
+    a {:color #F0F00080}modo de edición para deco-gumis{:reset}.
+- id: 16636
+  en: >-
+    Los accesorios gumi, o deco-gumis, son
+
+    bloques que poseen funciones especiales
+
+    y no se pueden reformar.
+
+
+    {:color #00F0F080}- ¡Coloca algunos deco-gumis!{:reset}
+
+    Para colocar deco-gumis, se usa uno de
+
+    estos tres comandos, según el tipo de gumi:
+
+    {:color #8080F080}Armas gumi{:reset}, {:color #8080F080}Gumis de movimiento{:reset}, o
+
+    {:color #8080F080}Gumis auxiliares{:reset}.
+
+
+    {:color #00F0F080}- ¿Cómo se cambia de modo?{:reset}
+
+    Mientras trabajas con deco-gumis, puedes
+
+    pulsar {:icon button-triangle} o elegir que el comando
+
+    {:color #8080F080}Cambio de modo{:reset} cambie a {:color #F0F00080}modo de edición
+
+    para materiales gumi{:reset}.
+- id: 16637
+  en: >-
+    Al editar, puedes ver la nave gumi
+
+    pulsando el {:color #8080F080}botón START{:reset}
+
+    en el menú del Editor.
+
+      {:color #8080F080}Joystick izquierdo{:reset}: Acercar/Alejar
+      {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+      {:color #8080F080}Botón R3{:reset}:  Posición de cámara inicial
+      {:icon button-circle}: Salir del modo visor
+
+    {:color #00F0F080}- El botón START durante la edición{:reset}
+
+    Si quieres volver directamente al
+
+    menú del Editor mientras editas, pulsa
+
+    el {:color #8080F080}botón START{:reset}.
+- id: 16638
+  en: >-
+    Existen muchos tipos de bloques gumi.
+
+    La funcionalidad de tu nave gumi depende
+
+    de {:color #F0F00080}la combinación de
+
+    bloques que uses para construirla{:reset}. Esta
+
+    guía gumi te enseñará a usar
+
+    el sistema y a construir naves.
+
+
+    {:color #00F0F080}- ¡Descubre la guía gumi!{:reset}
+
+    Cómo usar esta guía:
+
+
+    {:icon button-cross}: Abrir la ayuda seleccionada
+
+    {:icon button-circle}: Volver a la sección anterior
+
+    {:color #8080F080}Botón SELECT{:reset}: Cerrar la guía gumi
+
+
+    ¡Para seguir leyendo, pulsa {:icon button-cross}!
+- id: 16640
+  en: >-
+    Ver los {:color #8080F080}objetos y funciones especiales{:reset}
+
+    que has conseguido hasta el momento
+
+    para tu nave gumi.
+- id: 16641
+  en: >-
+    Los materiales gumi se usan principalmente
+
+    para crear la estructura de la nave. Pueden
+
+    ser reformados antes de colocarse.
+
+    {:color #00F0F080}- ¡Los parámetros también son importantes!{:reset}
+
+    Los parámetros de tu nave gumi
+
+    cambiarán según la forma de
+
+    los materiales gumi.
+
+    {:color #8080F080}Gumis biselados{:reset}/{:color #8080F080}Gumis curvos{:reset} -
+
+    {:color #F0F00080}Aumentan la VT{:reset}
+
+    {:color #8080F080}Gumis Aero{:reset} - {:color #F0F00080}Aumentan la movilidad{:reset}
+
+    {:color #8080F080}Multigumis{:reset}
+
+    Para hacer más fácil el proceso, los gumis
+
+    biselados, tubulares y curvos se agrupan.
+
+    Los parámetros siguen iguales a los de
+
+    los gumis originales por separado.
+- id: 16642
+  en: >-
+    Copia la forma de un material gumi
+
+    existente para reformar un material gumi
+
+    nuevo y colocarlo en tu nave.
+
+    {:color #00F0F080}- Métodos de copiado{:reset}
+
+    {:color #8080F080}Copia normal{:reset}
+      Copia el diseño del gumi tal como es
+      y lo coloca.
+    {:color #8080F080}Copia en espejo{:reset}
+      Da vuelta y copia el diseño del gumi y
+      lo coloca.
+    {:color #00F0F080}- Si no tienes suficientes...{:reset}
+
+    Para copiar y colocar gumis, debes
+
+    tener {:color #F0F00080}la misma cantidad de materiales
+
+    gumi{:reset}. No puedes colocar gumis si no
+
+    tienes la cantidad necesaria.
+- id: 16643
+  en: >-
+    Puedes reformar materiales gumi
+
+    ya colocados.
+
+    Al hacerlo, los parámetros
+
+    también cambiarán.
+
+
+    {:color #00F0F080}- Tres tipos de reformas{:reset}
+
+    {:color #8080F080}Biseles{:reset}
+      El material gumi seleccionado se
+      convertirá en un gumi biselado.
+    {:color #8080F080}Curvas{:reset}
+      El material gumi seleccionado se
+      convertirá en un gumi curvo.
+    {:color #8080F080}Puntas{:reset}
+      El material gumi seleccionado tendrá
+      una punta en una dirección específica.
+- id: 16644
+  en: >-
+    Puedes colorear los bloques gumi.
+
+    Hay varias maneras de hacerlo.
+
+
+    Elige un color cuando colocas el gumi.
+
+    Agrega el color al gumi después
+
+    de haberlo colocado.
+
+    Cambia el color de un gumi.
+
+
+    {:color #00F0F080}- ¡Consigue kits de diseño!{:reset}
+
+    Al principio, solo puedes dar color a
+
+    los gumis. Pero si {:color #F0F00080}consigues kits de diseño{:reset},
+
+    también podrás
+
+    usar distintos diseños.
+- id: 16645
+  en: >-
+    Las unidades de habilidad son partes que
+
+    {:color #F0F00080}agregan ciertas funciones{:reset} a la nave. A
+
+    diferencia de los bloques gumi, no tienen
+
+    forma.
+
+
+    {:color #8080F080}Botón hacia arriba/abajo{:reset}: Mover cursor
+
+    {:icon button-cross} / {:icon button-triangle}: Colocar/Quitar
+
+
+    {:color #00F0F080}- Asignar habilidades{:reset}
+
+    Cada habilidad tiene {:color #F0F00080}PH{:reset}. Puedes
+
+    asignar habilidades a tu antojo
+
+    hasta que el indicador de {:color #F0F00080}PH de
+
+    la nave gumi{:reset} se complete.
+- id: 16646
+  en: >-
+    Cambia la configuración del Editor
+
+    de acuerdo a tus preferencias.
+
+
+    {:color #8080F080}Botón hacia arriba/abajo{:reset}:
+      Seleccionar configuración
+    {:color #8080F080}Botón hacia la izquierda/derecha{:reset}:
+      Cambiar configuración
+    {:icon button-circle}: Confirmar selección y volver
+
+
+    {:color #00F0F080}- ¡Intentémoslo!{:reset}
+
+    Puedes cambiar la configuración cuando
+
+    lo desees, así que échale un vistazo
+
+    en cuanto puedas.
+- id: 16647
+  en: >-
+    Cuando completas una nave gumi, debes
+
+    guardarla como {:color #8080F080}plano original{:reset} usando
+
+    {:color #8080F080}Guardar plano{:reset} en el menú del Editor,
+
+    o {:color #F0F00080}no podrás usarla{:reset}.
+
+    Si guardas los planos, puedes volar y
+
+    reeditar esas naves gumi.
+
+    Sin embargo, {:color #F0F00080}las naves gumi que hayan
+
+    excedido los costes no se podrán guardar{:reset}.
+
+
+    {:color #00F0F080}- Guardar en círculos de luz{:reset}
+
+    Puedes guardar los bloques gumi y los planos
+
+    que consigas en los {:color #F0F00080}círculos de luz{:reset}.
+
+    Esa información no se guarda
+
+    cuando seleccionas {:color #8080F080}Guardar plano{:reset}.
+- id: 16648
+  en: >-
+    Las armas gumi son gumis de ataque.
+
+    {:color #F0F00080}Cuanto mayor sea la energía, mayor{:reset}
+
+    {:color #F0F00080}será el daño{:reset} que cause la nave gumi.
+
+
+    {:color #00F0F080}- Aprende a usar estos gumis{:reset}
+
+    {:color #8080F080}Gumi-proyectiles{:reset} - Para disparar
+      a un enemigo, pulsa {:icon button-cross}.
+    {:color #8080F080}Gumi-blancos{:reset} - Para fijar
+      al enemigo y dispararle, mantén
+      pulsado {:icon button-cross}.
+    {:color #8080F080}Gumi-rayos{:reset} - Pulsa {:icon button-triangle} para
+      atacar usando el indicador de Rayo.
+    {:color #8080F080}Gumi-impactos{:reset} - Puedes atacar
+      con los gumi-impactos colocados en tu nave.
+- id: 16649
+  en: >-
+    Los gumis de movimiento tienen la capacidad
+
+    de mejorar los movimientos de tu nave.
+
+
+    Los {:color #8080F080}gumi-motores{:reset} {:color #F0F00080}consumen energía{:reset},
+
+    pero aumentan la velocidad de la nave.
+
+    Los {:color #8080F080}gumi-alas{:reset} aumentan la
+
+    {:color #F0F00080}movilidad{:reset} de la nave.
+
+
+    {:color #00F0F080}- Mayor movilidad{:reset}
+
+    La nave gumi puede dar una {:color #F0F00080}
+
+    voltereta{:reset} con {:icon button-circle}.
+
+    Esto te dará velocidad y te permitirá
+
+    esquivar mejor los ataques enemigos.
+- id: 16650
+  en: >-
+    Los gumis auxiliares son bloques especiales.
+
+    Existen {:color #8080F080}gumi-cabinas{:reset},
+
+    {:color #8080F080}gumi-protecciones{:reset} y {:color #8080F080}gumis opcionales{:reset}.
+
+    Cada uno tiene varias funciones.
+
+
+    {:color #00F0F080}- Gumi-cabinas{:reset}
+
+    De todos los gumis auxiliares, el
+
+    {:color #8080F080}gumi-cabina{:reset} es el más importante.
+
+    Si colocas uno, la velocidad de la
+
+    nave se reducirá bastante, pero
+
+    la {:color #F0F00080}energía{:reset} aumentará mucho.
+
+
+    Debes colocar uno para que la nave
+
+    {:color #F0F00080}pueda liberar toda su fuerza{:reset}.
+- id: 16651
+  en: >-
+    Al comienzo, no puedes construir grandes
+
+    naves. Los bloques gumi tienen ciertos {:color #8080F080}costes{:reset}.
+
+    Puedes colocar gumis hasta que se complete el
+
+    {:color #F0F00080}coste de la nave gumi{:reset} que aparece en la parte
+
+    superior derecha.
+
+
+    {:color #00F0F080}- ¡Los dos gumis a la vez!{:reset}
+
+    Los {:color #8080F080}materiales gumi{:reset} y los {:color #8080F080}deco-gumis{:reset}
+
+    pueden colocarse uno encima de otro.
+
+
+    {:color #00F0F080}- ¿Hacia dónde apunta la nave gumi?{:reset}
+
+    La nave gumi apunta en la dirección
+
+    que marca la flecha de la rejilla.
+
+    El icono que aparece en la parte inferior
+
+    derecha también muestra la dirección.
+- id: 16652
+  en: >-
+    {:color #00F0F080}- Cambio de modo{:reset}
+
+    {:color #8080F080}Cambia de modo{:reset} con {:icon button-triangle}.
+
+
+    {:color #00F0F080}- Botón Deshacer/Rehacer{:reset}
+
+    Usa {:icon button-r1} para {:color #8080F080}deshacer{:reset}, y {:icon button-r2} para {:color #8080F080}rehacer{:reset}.
+
+
+    {:color #00F0F080}- Volver al menú del Editor{:reset}
+
+    Si pulsas el {:color #8080F080}botón START{:reset} mientras editas,
+
+    regresarás directo al menú del Editor.
+
+
+    {:color #00F0F080}- Reiniciar cámara{:reset}
+
+    Con el {:color #8080F080}botón R3{:reset}, puedes hacer que
+
+    la cámara vuelva a su posición inicial.
+- id: 16654
+  en: >-
+    Copia el área seleccionada y coloca un gumi.
+
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar gumi
+
+    {:icon button-cross}: Seleccionar gumi para copiar
+
+    {:icon button-cross} dos veces: Copiar  {:icon button-circle}: Atrás
+
+
+    {:width 90}{:color #00F0F080}- ¡Hagamos una copia!{:reset}
+
+    Coloca el cursor sobre la forma que quieres
+
+    copiar y pulsa {:icon button-cross}. Luego, indica con el
+
+    cursor dónde quieres colocarla. Usa el
+
+    {:color #8080F080}joystick izquierdo{:reset} para rotar y colocar
+
+    el gumi. Confirma la dirección en que
+
+    apuntará, y pulsa {:icon button-cross} para que se copie.
+- id: 16656
+  en: >-
+    Primero, elige el gumi que quieres colocar.
+
+      {:icon button-cross}: Confirmar  {:icon button-circle}: Atrás
+
+    {:color #00F0F080}- ¡Mira desde distintos ángulos!{:reset}
+
+    Puedes rotar la cámara con el
+
+    {:color #8080F080}joystick derecho{:reset}. Al hacerlo,
+
+    puedes revisar tu nave y los bloques
+
+    gumi desde muchos ángulos distintos.
+
+    {:color #00F0F080}- ¡Pongámosle color!{:reset}
+
+    Al seleccionar un gumi, puedes cambiar la
+
+    paleta de colores con {:icon button-l1} y {:icon button-r1}.
+
+    Es recomendable decidir de antemano
+
+    qué colores usar. Para hacerlo, selecciona
+
+    {:color #8080F080}Pintar{:reset} en el menú del Editor.
+- id: 16657
+  en: >-
+    Puedes manejar más de un
+
+    gumi a la vez.
+
+
+    {:icon button-triangle}: Expandir área
+
+    {:icon button-triangle} dos veces: Confirmar área
+
+
+    {:color #00F0F080}- Seleccionar un área{:reset}
+
+    Pulsa {:icon button-triangle} en la esquina del área
+
+    que quieres expandir, y mueve el cursor
+
+    para expandirla. Pulsa otra vez {:icon button-triangle}
+
+    para confirmar el área.
+- id: 16658
+  en: >
+    Para {:color #8080F080}agregar biseles{:reset} y {:color #8080F080}curvas{:reset}, debes
+
+    seleccionar un material gumi.
+
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:icon button-cross}: Confirmar  {:icon button-circle}: Atrás
+
+    {:icon button-r1}: Deshacer  {:icon button-r2}: Rehacer
+
+
+    {:color #00F0F080}- ¡Démosle forma!{:reset}
+
+    Pon el cursor sobre el gumi que quieres
+
+    reformar y pulsa {:icon button-cross}. También
+
+    puedes {:color #F0F00080}reformar un área{:reset}.
+
+
+    Si cometes un error, usa estos botones:
+
+    {:icon button-r1}: {:color #8080F080}Deshacer{:reset}  {:icon button-r2}: {:color #8080F080}Rehacer{:reset}.
+- id: 16659
+  en: >-
+    Elige el color que quieres usar en
+
+    la {:color #F0F00080}paleta de color{:reset}.
+
+
+    {:color #8080F080}Botones de dirección{:reset}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:icon button-square}, {:color #8080F080}{:width 90}Botón hacia abajo{:reset}{:width 90}: Abrir muestrario{:width 100}
+
+    {:icon button-cross}: Confirmar  {:icon button-circle}: Atrás
+
+    {:icon button-triangle} en el muestrario de color: Cambiar color
+
+
+    {:color #00F0F080}- ¡Pon un color en la paleta!{:reset}
+
+    Selecciona una paleta de color con los {:color #8080F080}botones
+
+    hacia la izquierda y derecha{:reset}, y abre el
+
+    muestrario de color con {:icon button-square} o el {:color #8080F080}botón hacia
+
+    abajo{:reset}. En el muestrario, selecciona
+
+    un color {:width 90}y pulsa {:icon button-cross} para agregarlo a la paleta.
+- id: 16955
+  en: Translúcido
+- id: 16956
+  en: Normal
+- id: 16957
+  en: Opaco
+- id: 16958
+  en: Translúcido
+- id: 16959
+  en: Normal
+- id: 17083
+  en: Opaco
+- id: 17111
+  en: 1. Tipos de gumi
+- id: 17119
+  en: 4. Guardar plano
+- id: 17121
+  en: Los tipos de gumi
+- id: 17131
+  en: >-
+    Los bloques que forman la nave gumi
+
+    son {:color #8080F080}materiales gumi{:reset} y {:color #8080F080}deco-gumis{:reset}.
+
+    Los {:color #8080F080}materiales gumi{:reset} se usan para dar
+
+    forma a la nave gumi y aumentar su VT,
+
+    mientras que los {:color #8080F080}deco-gumis{:reset} se usan para
+
+    agregar varias funciones. {:color #F0F00080}Cuando coloques
+
+    estos gumis{:reset}, tu nave estará completa.
+
+
+    {:color #00F0F080}- Pilotar la nave gumi{:reset}
+
+    ¡Se necesita un solo bloque para que tu nave
+
+    gumi levante vuelo! ¡Y una nave gumi puede
+
+    volar con cualquier forma, así que a crear!
+
+    Pero asegúrate de tener suficiente
+
+    {:color #8080F080}VT{:reset} o tu nave durará poco.
+- id: 17321
+  en: Gumi-impactos
+- id: 17322
+  en: >-
+    Coloca bloques gumi que dañan a
+
+    los objetivos contra los que chocan.
+- id: 17579
+  en: >-
+    Cuando coloques bloques en el Editor,
+
+    los gumis ya colocados se verán
+
+    transparentes.
+- id: 17580
+  en: >-
+    Cuando coloques bloques en el Editor,
+
+    los gumis ya colocados se verán
+
+    translúcidos.
+- id: 17581
+  en: >-
+    Cuando coloques bloques en el Editor,
+
+    los gumis ya colocados se verán
+
+    opacos.
+- id: 17582
+  en: >-
+    Los planos del área de montaje del Editor
+
+    para ver la profundidad están casi translúcidos.
+- id: 17583
+  en: >-
+    Los planos del área de montaje del Editor
+
+    para ver la profundidad están medio translúcidos.
+- id: 17584
+  en: >-
+    Los planos del área de montaje del Editor
+
+    para ver la profundidad están opacos.
+- id: 17744
+  en: Prisa Rayo
+- id: 17746
+  en: Precarga Rayo
+- id: 17747
+  en: >-
+    Aumenta la velocidad con que
+
+    se completa el indicador de Rayo.
+- id: 17749
+  en: >-
+    Carga el indicador de Rayo para que
+
+    puedas usarlo al comienzo del viaje.
+- id: 17750
+  en: Multigumi
+- id: 17751
+  en: >-
+    Los multigumi sirven para colocar
+
+    muchos materiales gumi a la vez.
+- id: 18045
+  en: '{:icon gumi-block}'
+- id: 18046
+  en: '{:icon gumi-blueprint}'
+- id: 18047
+  en: '{:icon gumi-brush}'
+- id: 18048
+  en: '{:icon gumi-ship}'
+- id: 18049
+  en: '{:icon gumi-gear}'
+- id: 18319
+  en: Rendimiento
+- id: 18321
+  en: Nave
+- id: 18322
+  en: '{:width 90}Área de montaje'
+- id: 18482
+  en: ¡Niveles de misión 1 y 2 disponibles!
+- id: 18483
+  en: ¡Nivel de misión 3 disponible!
+- id: 18485
+  en: ¡Has obtenido una Corona Gumi!
+- id: 18486
+  en: '¡Obtenido: {:unk0d }!'
+- id: 18490
+  en: >-
+    {:width 98}El nivel de misión 1 son {:color #F0F00080}búsquedas de medallas{:reset}.
+
+    ¡Reúne el número de medallas necesario!
+- id: 18491
+  en: >-
+    {:width 98}El nivel de misión 2 son {:color #F0F00080}ataques enemigos{:reset}.
+
+    ¡Destruye el número de naves indicado!
+- id: 18492
+  en: >-
+    {:width 98}El nivel de misión 3 son {:color #F0F00080}pruebas de puntuación{:reset}.
+
+    ¡Para manejar la cámara, usa {:icon button-l1} y {:icon button-r1}!
+- id: 18493
+  en: 'Herramientas{:color #8080F080} ▸{:reset}'
+- id: 18494
+  en: Las herramientas de edición
+- id: 18495
+  en: >-
+    Existen otras herramientas además de las
+
+    usadas para colocar bloques gumi.
+
+
+    {:color #00F0F080}- Herramientas de edición{:reset}
+
+    Hay tres herramientas adicionales que
+
+    se usan para fabricar naves: {:color #8080F080}Pintar{:reset}, {:color #8080F080}Editar{:reset} y
+
+    {:color #8080F080}Asignar habilidades{:reset}.
+
+
+    {:color #00F0F080}- Botones de acceso directo{:reset}
+
+    Otros dos comandos que te pueden
+
+    ayudar son {:color #8080F080}Deshacer{:reset} y {:color #8080F080}Rehacer{:reset}. Puedes
+
+    seleccionarlos en el menú, o pulsar {:icon button-r1}
+
+    para {:color #8080F080}Deshacer{:reset} y {:icon button-r2} para {:color #8080F080}Rehacer{:reset}.
+- id: 18496
+  en: 'Pintar {:color #8080F080}▸{:reset}'
+- id: 18497
+  en: 'Editar {:color #8080F080}▸{:reset}'
+- id: 18498
+  en: Asignar habilidades
+- id: 18500
+  en: Deshacer/Rehacer
+- id: 18501
+  en: Configuración
+- id: 18502
+  en: Cambio de modo
+- id: 18503
+  en: Guardar plano
+- id: 18504
+  en: Salir
+- id: 18505
+  en: Gumis de color
+- id: 18506
+  en: Editar nave gumi
+- id: 18507
+  en: Unidades de habilidad y PH
+- id: 18509
+  en: Cancelar y Deshacer
+- id: 18510
+  en: Editar configuración
+- id: 18511
+  en: Editar cambios de modo
+- id: 18512
+  en: Guardar nave gumi
+- id: 18513
+  en: Salir del Editor
+- id: 18529
+  en: Guía gumi
+- id: 18533
+  en: >-
+    {:icon button-cross}: Confirmar  {:icon button-square}: Quitar
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar gumi  
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara   {:icon button-circle}: Atrás
+- id: 18534
+  en: 2. Colocación
+- id: 18535
+  en: 4. Gumis Aero
+- id: 18536
+  en: ¡Coloquemos los gumis!
+- id: 18537
+  en: Colocar gumis Aero
+- id: 18538
+  en: >-
+    A continuación, coloca el gumi seleccionado.
+
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar bloque
+      {:icon button-cross}: Confirmar  {:icon button-square}: Quitar  {:icon button-circle}: Atrás
+
+    {:color #00F0F080}- ¡Coloquemos los gumis!{:reset}
+
+    Usa el cursor para seleccionar el área
+
+    donde quieres colocar el gumi.
+
+    Usa el {:color #8080F080}joystick izquierdo{:reset} para rotar
+
+    el gumi en la dirección que desees.
+
+    Pulsa {:icon button-cross} para colocar el gumi. Si
+
+    cometes un error, ubica el cursor sobre
+
+    el gumi que quieres quitar y pulsa {:icon button-square}.
+- id: 18539
+  en: >
+    Los gumis Aero y gumi-alas tienen
+
+    un modo de colocación ligeramente distinto.
+
+
+    {:color #00F0F080}- ¡Da vueltas a los gumis!{:reset}
+
+    Los gumis Aero se pueden voltear
+
+    con el {:color #8080F080}botón L3{:reset}.
+
+
+    {:color #00F0F080}- ¡Cambia y coloca los gumis!{:reset}
+
+    Después de confirmar con {:icon button-cross}, puedes
+
+    usar los {:color #8080F080}botones de dirección{:reset} para
+
+    cambiar la posición de los gumis.
+- id: 18540
+  en: >-
+    {:icon button-cross}: Confirmar   {:color #8080F080}Botón L3{:reset}: Rotar gumi
+
+    {:icon button-square}: Quitar   Tras colocar, usa
+
+    los {:color #8080F080}botones de dirección{:reset} para fijar la posición.
+- id: 18541
+  en: Parámetros
+- id: 18542
+  en: Parámetros de bloques gumi
+- id: 18543
+  en: >-
+    Los bloques gumi tienen varios
+
+    parámetros que determinan la
+
+    funcionalidad de tu nave gumi.
+
+
+    {:color #8080F080}VT{:reset} - Cuanto mayor sea la VT, la
+      nave podrá resistir mayores daños.
+    {:color #8080F080}Ataque{:reset} - Representa el poder
+      ofensivo de cada gumi.
+    {:color #8080F080}Energía{:reset} - Cuanto mayor sea la energía,
+      mayor será el poder ofensivo de la nave.
+    {:color #8080F080}Velocidad{:reset} - Representa la velocidad
+      de movimiento de la nave gumi.
+    {:color #8080F080}Movilidad{:reset} - Aumenta la efectividad
+      de las volteretas.
+- id: 18544
+  en: >-
+    {:width 90}{:icon button-cross}: Confirmar y ejecutar {:icon button-triangle}: Seleccionar área
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar gumi
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara
+- id: 18576
+  en: >-
+    {:icon button-triangle}: Seleccionar área   {:icon button-cross}: Ejecutar
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Fijar dirección
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara   {:icon button-circle}: Atrás
+- id: 18578
+  en: 4. Copia en espejo
+- id: 18579
+  en: Cómo hacer una copia en espejo
+- id: 18580
+  en: >-
+    Copia el gumi seleccionado. Luego
+
+    dale la vuelta y colócalo de nuevo.
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:color #8080F080}Joystick izquierdo{:reset}: {:width 95}Dirección giro{:width 100}
+
+    {:icon button-triangle}: Expandir área
+
+    {:icon button-triangle} dos veces: Confirmar área
+
+    {:icon button-cross}: Copia en espejo
+
+    {:icon button-circle}: Atrás
+
+    {:color #00F0F080}- ¡Hagamos una copia en espejo!{:reset}
+
+    La {:color #8080F080}copia en espejo{:reset} se hace en un área
+
+    seleccionada. Tras seleccionarla, usa el
+
+    {:color #8080F080}joystick izquierdo{:reset} para {:color #F0F00080}seleccionar
+
+    la dirección en que girará{:reset}. Luego pulsa
+
+    {:icon button-cross} para copiar en espejo.
+- id: 18582
+  en: >-
+    {:icon button-cross}: Ejecutar   {:icon button-triangle}: Seleccionar área
+
+    {:icon button-r1}: Deshacer   {:icon button-r2}: Rehacer
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara
+- id: 18584
+  en: >-
+    Selecciona varios materiales gumi y
+
+    refórmalos para que tengan punta.
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:color #8080F080}Joystick izquierdo{:reset}: {:width 90}Dirección punta{:width 100}
+
+    {:icon button-triangle}: Expandir área
+
+    {:icon button-triangle} dos veces: Confirmar área
+
+    {:icon button-cross}: Confirmar  {:icon button-circle}: Atrás
+
+    {:icon button-r1}: Deshacer  {:icon button-r2}: Rehacer
+
+    {:color #00F0F080}- ¡Agreguemos una punta!{:reset}
+
+    Puedes {:color #8080F080}agregar una punta{:reset} en un área
+
+    seleccionada. Después de confirmar el área,
+
+    con el {:color #8080F080}joystick izquierdo{:reset} {:color #F0F00080}selecciona
+
+    la dirección de la punta{:reset}. Luego pulsa {:icon button-cross}
+
+    para reformarla.
+- id: 18593
+  en: 4. Colocar alas
+- id: 18594
+  en: Colocar gumis-alas
+- id: 18633
+  en: >-
+    Puedes cambiar la posición de los gumis
+
+    ya colocados, o bien quitarlos.
+
+    Hay varias cosas que puedes hacer
+
+    con {:color #8080F080}Editar{:reset}.
+
+    Cambiar la posición de un bloque gumi.
+
+    Cambiar la dirección de un bloque gumi.
+
+    Quitar varios bloques gumi juntos.
+
+
+    {:color #00F0F080}- Si te equivocas...{:reset}
+
+    Si por error haces algo que no
+
+    querías, como quitar un grupo de bloques
+
+    gumi, pulsa {:icon button-r1} o selecciona {:color #8080F080}Deshacer{:reset}
+
+    para {:color #F0F00080}cancelar y rehacer{:reset}.
+- id: 18684
+  en: Cuaderno de consejos
+- id: 18685
+  en: Vibración
+- id: 18686
+  en: Sí
+- id: 18687
+  en: No
+- id: 18691
+  en: '{:icon button-dpad}: Pasar la página {:icon button-circle}: Atrás'
+- id: 18694
+  en: No.
+- id: 18695
+  en: >-
+    Cómo dar a los gumis el color de la paleta.
+
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:icon button-triangle}: Expandir área
+
+    {:icon button-triangle} dos veces: Confirmar área
+
+    {:icon button-cross}: Confirmar  {:icon button-circle}: Atrás
+
+
+    {:color #00F0F080}- ¡Pongamos más colores!{:reset}
+
+    Selecciona el color que quieres usar en
+
+    la paleta de color y pulsa {:icon button-cross}. Luego,
+
+    pon el cursor sobre el gumi que deseas
+
+    colorear y pulsa {:icon button-cross}. También puedes
+
+    elegir colores cuando colocas gumis,
+
+    o colorear áreas seleccionadas.
+- id: 18696
+  en: 2. Paletas de color
+- id: 18697
+  en: Las paletas de color
+- id: 18698
+  en: >-
+    Puedes usar {:color #F0F00080}hasta 16 colores{:reset} en una
+
+    nave gumi. Los encontrarás
+
+    en la paleta de color.
+
+
+    {:color #00F0F080}- Cómo usar la paleta de color{:reset}
+
+    Si la nave gumi ya está coloreada,
+
+    simplemente elige de la paleta un color
+
+    que te guste para cambiar el color actual.
+
+
+    El color de la paleta seleccionado se
+
+    puede cambiar en cualquier momento.
+- id: 18700
+  en: 5. Kits de diseño
+- id: 18701
+  en: Los kits de diseño
+- id: 18702
+  en: >-
+    Los kits de diseño son colores
+
+    realizados sobre patrones.
+
+    {:color #F0F00080}Consigue kits de diseño{:reset}
+
+    para agregar estampados a los gumis.
+
+
+    {:color #00F0F080}- Cómo usar kits de diseño{:reset}
+
+    Para abrir los muestrarios de kits de
+
+    diseño que hayas conseguido, abre el
+
+    muestrario de colores y pulsa {:icon button-triangle}.
+
+    Ponlos en la paleta de color para usarlos
+
+    en los gumis.
+
+
+    Para volver al muestrario de color,
+
+    pulsa {:icon button-triangle}.
+- id: 18703
+  en: 4. Seleccionar un área
+- id: 18704
+  en: >-
+    {:icon button-cross}: Ejecutar  {:icon button-triangle}: Seleccionar área
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara  {:icon button-circle}: Atrás
+- id: 18718
+  en: >-
+    {:icon button-cross}: Agarrar/Colocar   {:icon button-square}: Quitar
+
+    {:icon button-triangle}: Seleccionar área
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara   {:icon button-circle}: Atrás
+- id: 18719
+  en: 1. Mover gumis
+- id: 18720
+  en: Mover bloques gumi
+- id: 18721
+  en: >-
+    Los gumis se pueden mover y quitar.
+
+    {:color #8080F080}Botones de dirección{:reset}/{:icon button-l1}{:icon button-l2}: Mover cursor
+
+    {:color #8080F080}Joystick derecho{:reset}: Rotar cámara
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar gumi
+
+    {:icon button-triangle}: Expandir área  {:icon button-triangle} dos veces: {:width 95}Confirmar{:width 100}
+
+    {:icon button-cross}: Sujetar/Colocar gumi
+
+    {:icon button-square}: Quitar  {:icon button-circle}: Atrás
+
+    {:color #00F0F080}- ¡Mueve los bloques gumi!{:reset}
+
+    Pon el cursor sobre el gumi que quieres
+
+    mover y pulsa {:icon button-cross}. Luego arrastra el
+
+    cursor a la posición en que te gustaría
+
+    colocarlo. Rota y fija el gumi con el
+
+    {:color #8080F080}joystick izquierdo{:reset}.
+
+    Selecciona la dirección en la que quieres
+
+    que apunte, y pulsa {:icon button-cross} para confirmar.
+- id: 18752
+  en: >-
+    {:icon button-cross}: Confirmar  {:icon button-square}: Abrir paleta
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara  {:icon button-circle}: Atrás
+- id: 18759
+  en: >-
+    {:icon button-cross}: Confirmar  {:icon button-l1}{:icon button-r1}: Cambiar color
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara  {:icon button-circle}: Atrás
+- id: 18760
+  en: 'Otros comandos {:color #8080F080}▸{:reset}'
+- id: 18761
+  en: Otros comandos del menú
+- id: 18762
+  en: >-
+    Hay cuatro comandos que pueden servirte
+
+    para editar tu nave gumi:
+
+    {:color #8080F080}Configuración{:reset}, {:color #8080F080}Cambio de modo{:reset}, {:color #8080F080}Guardar plano{:reset}
+
+    y {:color #8080F080}Salir{:reset}.
+
+
+    {:color #00F0F080}- Guardar plano y Salir{:reset}
+
+    {:color #8080F080}Guardar plano{:reset} y {:color #8080F080}Salir{:reset} son los dos
+
+    comandos más importantes para salir
+
+    del menú del Editor de naves gumi. ¡Debes
+
+    aprender a manejarlos muy bien!
+
+
+    {:color #00F0F080}- Comandos y accesos directos{:reset}
+
+    Puedes cambiar los modos de edición
+
+    para {:color #8080F080}materiales gumi{:reset} y {:color #8080F080}deco-gumis{:reset}
+
+    usando {:icon button-triangle} para {:color #8080F080}cambio de modo{:reset}.
+- id: 18763
+  en: >
+    Puedes deshacer una edición y volver al
+
+    paso anterior. También puedes volver
+
+    al último paso.
+
+
+    {:icon button-r1}/{:color #8080F080}Deshacer{:reset}: Volver al paso anterior
+
+    {:icon button-r2}/{:color #8080F080}Rehacer{:reset}: Volver al último paso
+
+
+    {:color #00F0F080}- ¡Aprovecha estos botones!{:reset}
+
+    Es divertido editar con {:icon button-r1} y {:icon button-r2},
+
+    ya que puedes corregir errores fácilmente
+
+    o rehacer lo que habías hecho.
+
+    Sin embargo, la cantidad de veces que
+
+    puedes deshacer tus pasos es limitada.
+
+    Es recomendable {:color #F0F00080}salvar los planos
+
+    originales{:reset} antes de editarlos.
+- id: 18765
+  en: >-
+    Puedes alternar entre editar
+
+    {:color #8080F080}materiales gumi{:reset} y {:color #8080F080}deco-gumis{:reset}.
+
+    Y puedes hacer lo mismo con {:icon button-triangle}.
+
+
+    {:color #00F0F080}- Dos modos de edición{:reset}
+
+    En Modo de edición, hay un modo para editar
+
+    {:color #F0F00080}materiales gumi{:reset} y otro para
+
+    {:color #F0F00080}deco-gumis{:reset}.
+
+
+    Al {:color #8080F080}cambiar modos{:reset}, podrás alternar
+
+    los tres comandos que ves arriba en el
+
+    menú del Editor, y así podrás cambiar
+
+    los gumis editables.
+- id: 18766
+  en: >-
+    Terminar una nave gumi y salir
+
+    del Editor.
+
+    Selecciona {:color #8080F080}Guardar plano{:reset} para
+
+    mantener la forma de la nave.
+
+
+    {:color #00F0F080}- ¡Guarda siempre los planos!{:reset}
+
+    Al salir del Editor, el comando
+
+    {:color #8080F080}Deshacer{:reset} no tendrá efecto.
+
+    Ten cuidado al seleccionar {:color #8080F080}Salir{:reset}.
+- id: 18775
+  en: 2. Parámetros
+- id: 18776
+  en: 3. Colocar gumis
+- id: 18777
+  en: Reglas para colocar gumis
+- id: 18778
+  en: Completo
+- id: 18779
+  en: Límite ▲
+- id: 18780
+  en: Límite ▲ x2
+- id: 18781
+  en: Habilidad
+- id: 18782
+  en: PH ▲
+- id: 18783
+  en: PH ▲ x2
+- id: 18784
+  en: PH ▲ x3
+- id: 18785
+  en: Diseños
+- id: 18786
+  en: Navecita
+- id: 18787
+  en: Navecita ▲
+- id: 18788
+  en: ¡Lista de objetos completa!
+- id: 18789
+  en: Coste límite ▲
+- id: 18790
+  en: Coste límite ▲ x2
+- id: 18791
+  en: Unidad de habilidad
+- id: 18792
+  en: PH límite ▲
+- id: 18793
+  en: PH límite ▲ x2
+- id: 18794
+  en: PH límite ▲ x3
+- id: 18795
+  en: Kits de diseño
+- id: 18796
+  en: Sistema de navecitas
+- id: 18797
+  en: Límite de navecitas ▲
+- id: 18798
+  en: >-
+    ¡Has completado todas las {:color #8080F080}misiones
+
+    gumi{:reset}! ¡Y has conseguido todos los {:color #8080F080}bloques
+
+    gumi{:reset} y los {:color #8080F080}objetos especiales{:reset}!
+- id: 18799
+  en: >-
+    ¡El {:color #8080F080}coste{:reset} límite de la nave gumi {:color #F0F00080}ha
+
+    aumentado en 100{:reset}!
+
+
+    Ahora el coste máximo de una nave gumi
+
+    ha aumentado {:color #8080F080}a 700{:reset}.
+- id: 18800
+  en: >-
+    ¡El {:color #8080F080}coste{:reset} límite de la nave gumi {:color #F0F00080}ha
+
+    vuelto a aumentar en 100{:reset}!
+
+
+    Ahora el coste máximo de una nave gumi
+
+    ha aumentado {:color #8080F080}a 800{:reset}.
+- id: 18801
+  en: >-
+    ¡Obtienes una {:color #F0F00080}unidad de habilidad{:reset}!
+
+    Las unidades de habilidad son partes que
+
+    {:color #F0F00080}agregan ciertas funciones{:reset} a la nave gumi.
+
+    A diferencia de los bloques gumi, las
+
+    unidades de habilidad no tienen forma.
+
+    Para {:color #8080F080}asignar habilidades{:reset},
+
+    selecciona ese comando en el menú del Editor.
+
+
+    {:color #00F0F080}- Cómo asignar habilidades{:reset}
+
+    Cada habilidad tiene {:color #F0F00080}PH{:reset}. Puedes
+
+    asignar habilidades a tu antojo
+
+    hasta que el indicador de {:color #F0F00080}PH de
+
+    la nave gumi{:reset} se complete.
+
+
+    ¡Intenta adquirir muchas habilidades!
+- id: 18802
+  en: >-
+    ¡Los {:color #8080F080}PH{:reset} límite de la nave gumi {:color #F0F00080}han
+
+    aumentado 4 puntos{:reset}!
+
+
+    Puedes asignar hasta {:color #8080F080}12 PH{:reset}
+
+    a la nave gumi.
+- id: 18803
+  en: >-
+    ¡Los {:color #8080F080}PH{:reset} límite de la nave gumi {:color #F0F00080}han
+
+    vuelto a aumentar 4 puntos{:reset}!
+
+
+    Puedes asignar hasta {:color #8080F080}16 PH{:reset}
+
+    a la nave gumi.
+- id: 18804
+  en: >-
+    ¡Los {:color #8080F080}PH{:reset} límite de la nave gumi {:color #F0F00080}han
+
+    vuelto a aumentar 4 puntos{:reset}!
+
+
+    Puedes asignar hasta {:color #8080F080}20 PH{:reset}
+
+    a la nave gumi.
+- id: 18805
+  en: >-
+    ¡Obtienes un {:color #F0F00080}kit de diseño{:reset}!
+
+    Selecciona {:color #8080F080}Pintar{:reset} en el menú del Editor
+
+    para agregar diseños a los bloques gumi.
+
+
+    ¡Intenta adquirir muchos kits de diseño!
+- id: 18806
+  en: >-
+    ¡Obtienes una {:color #F0F00080}navecita{:reset}!
+
+    Una {:color #8080F080}navecita{:reset} es una nave pequeña
+
+    que sigue a la nave gumi, lucha junto a
+
+    ella y bloquea ciertos ataques enemigos.
+
+
+    {:color #00F0F080}- Modificar la navecita{:reset}
+
+    Selecciona {:color #F0F00080}Navecita{:reset} en el menú gumi
+
+    para construir una. La navecita tiene su
+
+    {:color #F0F00080}propio coste{:reset}, su {:color #F0F00080}propio plano{:reset} y
+
+    se construye aparte de la nave gumi.
+
+    Sin embargo, ambas naves no pueden volar
+
+    simultáneamente si comparten un gumi.
+
+    El parámetro de la navecita que te
+
+    acompaña se incorpora a la estructura
+
+    de la nave gumi.
+- id: 18807
+  en: >-
+    ¡El {:color #8080F080}coste{:reset} límite de la navecita {:color #F0F00080}ha
+
+    aumentado en 100{:reset}!
+
+
+    Ahora la navecita puede tener un
+
+    {:color #8080F080}coste de 200{:reset}.
+- id: 18923
+  en: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	¿Quieres guardar el plano de la
+    	nave que acabas de construir?
+- id: 18924
+  en: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	Para guardar este plano,
+    	debes bajar el coste y quitar bloques.
+- id: 18925
+  en: Sí
+- id: 18926
+  en: No
+- id: 18927
+  en: Aceptar
+- id: 18958
+  en: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	¿Quieres dejar de construir la nave
+    	 gumi y cerrar el Editor?
+- id: 19120
+  en: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	¿Quieres salir del menú gumi y
+    	volver al mapa de los mundos?
+- id: 19132
+  en: Reintentar
+- id: 19133
+  en: Menú gumi
+- id: 19134
+  en: Mapa de los mundos
+- id: 19397
+  en: '{:width 90}Plano original de nave gumi'
+- id: 19398
+  en: >-
+    {:icon button-square}: Construir una nueva
+          nave gumi
+- id: 19399
+  en: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	¡No puedes guardar un plano
+    	que no usa ningún bloque!
+- id: 19400
+  en: '{:icon button-square}: Borrar este plano'
+- id: 19401
+  en: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	Los bloques gumi necesarios para
+    	este plano ya han sido asignados a
+    	otro plano seleccionado anteriormente.
+- id: 19402
+  en: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	No tienes suficientes bloques gumi
+    	u objetos especiales para crear una
+    	nave basada en este plano especial.
+- id: 19407
+  en: >-
+    {:color #8080F080}Botones de dirección{:reset}: Cambiar selección
+
+    {:icon button-triangle}: Fijar área
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara   {:icon button-circle}: Atrás
+- id: 19408
+  en: >-
+    {:icon button-cross}: Ejecutar   {:icon button-triangle}: Volver a seleccionar área
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Fijar dirección
+
+    {:icon button-circle}: Atrás
+- id: 19431
+  en: >-
+    {:icon button-square}: Abandonar
+          las navecitas
+- id: 19432
+  en: >-
+    {:icon button-square}: Construir una nueva
+          navecita
+- id: 19433
+  en: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	Una vez que borras un plano, no
+    	puedes recuperarlo. ¿Seguro que
+    	quieres borrar tu plano original?
+- id: 19436
+  en: Albatros
+- id: 19437
+  en: Plano Albatros Niv. 1
+- id: 19438
+  en: Plano Albatros Niv. 2
+- id: 19439
+  en: Plano Albatros Niv. 3
+- id: 19440
+  en: Plano Albatros Niv. 4
+- id: 19441
+  en: Plano Albatros Niv. 5
+- id: 19442
+  en: Plano Albatros Niv. 6
+- id: 19443
+  en: Plano Albatros Niv. 7
+- id: 19444
+  en: Plano Albatros Niv. 8
+- id: 19445
+  en: Plano Albatros máx.
+- id: 19446
+  en: Plano Halcón Niv. 1
+- id: 19447
+  en: Plano Halcón Niv. 2
+- id: 19448
+  en: Plano Halcón Niv. 3
+- id: 19449
+  en: Plano Halcón Niv. 4
+- id: 19450
+  en: Plano Halcón Niv. 5
+- id: 19451
+  en: Plano Halcón Niv. 6
+- id: 19452
+  en: Plano Halcón Niv. 7
+- id: 19453
+  en: Plano Halcón Niv. 8
+- id: 19454
+  en: Plano Halcón máx.
+- id: 19456
+  en: Plano Invencible Niv. 1
+- id: 19457
+  en: Plano Invencible Niv. 2
+- id: 19458
+  en: Plano Invencible Niv. 3
+- id: 19459
+  en: Plano Invencible Niv. 4
+- id: 19460
+  en: Plano Invencible Niv. 5
+- id: 19461
+  en: Plano Invencible Niv. 6
+- id: 19462
+  en: Plano Invencible Niv. 7
+- id: 19463
+  en: Plano Invencible Niv. 8
+- id: 19464
+  en: Plano Invencible máx.
+- id: 19489
+  en: >-
+    {:width 95}El plano indica que esta nave
+
+    sirve tanto para atacar como
+
+    para defender.
+- id: 19490
+  en: >-
+    {:width 95}El plano indica que esta
+
+    nave está diseñada con armas
+
+    gumi como base.
+- id: 19491
+  en: >-
+    {:width 95}El plano indica que esta
+
+    nave tiene buena defensa
+
+    y un buen nivel de VT.
+- id: 19551
+  en: >-
+    {:width 88}Estas son naves gumi
+
+    terminadas, así que no necesitas
+
+    agregarles bloques para usarlas.
+- id: 19597
+  en: >-
+    {:icon button-cross}: Confirmar
+
+    {:color #8080F080}Joystick izquierdo{:reset}: Rotar gumi
+
+    {:color #8080F080}Joystick derecho{:reset}: Cámara   {:icon button-circle}: Atrás
+- id: 20365
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}50 o más{:reset} de {:color #8080F080}velocidad{:reset}.
+- id: 20366
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}100 o más{:reset} de {:color #8080F080}energía{:reset}.
+- id: 20367
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}250 o más{:reset} de {:color #8080F080}energía{:reset}.
+- id: 20368
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}12 o más{:reset} bloques de {:color #8080F080}gumi-alas{:reset}.
+- id: 20369
+  en: >-
+    Desafío para naves gumi solo con
+
+    {:color #F0F00080}gumi-proyectiles{:reset} como {:color #8080F080}arma{:reset}.
+- id: 20370
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}20 o más{:reset} bloques de {:color #8080F080}gumi-proyectiles{:reset}.
+- id: 20371
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}6 o más{:reset} bloques de {:color #8080F080}gumi-protecciones{:reset}.
+- id: 20372
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}2 o más{:reset} bloques de {:color #8080F080}gumi-rayos{:reset}.
+- id: 20373
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}4 o más{:reset} bloques de {:color #8080F080}gumi-rayos{:reset}.
+- id: 20374
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}8 o más{:reset} bloques {:color #8080F080}Gumi Mando{:reset}.
+- id: 20375
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}8 o más{:reset} {:color #8080F080}unidades de habilidad{:reset}.
+- id: 20376
+  en: >-
+    Desafío para naves gumi con {:color #F0F00080}80 o más{:reset}
+
+    de {:color #8080F080}velocidad{:reset} (incluidas las navecitas).
+- id: 20377
+  en: 'Desafío para naves gumi de tipo {:color #F0F00080}Albatros{:reset}.'
+- id: 20378
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}50 o menos{:reset} de {:color #8080F080}VT{:reset}.
+- id: 20379
+  en: >-
+    Desafío para naves gumi con {:color #F0F00080}20 o menos{:reset}
+
+    de {:color #8080F080}VT{:reset} (incluidas las navecitas).
+- id: 20380
+  en: >-
+    Desafío para naves gumi con navecitas
+
+    que incluyan {:color #F0F00080}4 o más{:reset} {:color #8080F080}gumi-impactos{:reset}.
+- id: 20381
+  en: 'Desafío para naves gumi de tipo {:color #F0F00080}Halcón{:reset}.'
+- id: 20382
+  en: >-
+    Desafío para naves gumi con
+
+    un {:color #8080F080}coste{:reset} de {:color #F0F00080}400 o menos{:reset}.
+- id: 20383
+  en: >-
+    Desafío para naves gumi que incluyan
+
+    {:color #8080F080}unidades de habilidad{:reset} {:color #F0F00080}Cambiar formación{:reset}.
+- id: 20384
+  en: 'Desafío para naves gumi de tipo {:color #F0F00080}Invencible{:reset}.'
+- id: 20385
+  en: >-
+    Desafío para naves gumi {:color #F0F00080}sin{:reset}
+
+    {:color #8080F080}armas gumi{:reset} equipadas.
+- id: 20386
+  en: >-
+    Desafíos para naves gumi basadas
+
+    en {:color #F0F00080}planos especiales{:reset}.
+- id: 20387
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}4 o más{:reset} bloques de {:color #8080F080}gumi-blancos{:reset}.
+- id: 20388
+  en: 'Desafío para naves gumi {:color #F0F00080}sin{:reset} {:color #8080F080}navecitas{:reset}.'
+- id: 20389
+  en: >-
+    Desafío para naves gumi con
+
+    {:color #F0F00080}2 o más{:reset} {:color #8080F080}gumis Artema{:reset}.
+- id: 20390
+  en: >-
+    Desafío para naves gumi de {:color #8080F080}tamaño{:reset}
+
+    {:color #F0F00080}3x3x3 o menor{:reset}.
+- id: 20391
+  en: >-
+    Desafío para naves gumi equipadas
+
+    con {:color #F0F00080}gumi Drenaje{:reset}.
+- id: 20500
+  en: Misión EX
+- id: 20501
+  en: Misión estándar
+- id: 20505
+  en: ¡Nivel 1 de misión extrema disponible!
+- id: 20506
+  en: ¡Nivel 2 de misión extrema disponible!
+- id: 20507
+  en: ¡Nivel 3 de misión extrema disponible!
+- id: 20508
+  en: Gumi Mástil
+- id: 20509
+  en: Gumi Bandera
+- id: 20510
+  en: Gumi Oruga
+- id: 20511
+  en: Muñeco A
+- id: 20512
+  en: Muñeco B
+- id: 20513
+  en: Muñeco C
+- id: 20514
+  en: Muñeco D
+- id: 20515
+  en: >-
+    Dispara en todas direcciones.
+
+    Fuego rápido habilitado.
+- id: 20516
+  en: >-
+    Vuela girando y regresa a la nave.
+
+    Dispara en dos direcciones.
+
+    Fuego rápido habilitado.
+- id: 20517
+  en: >-
+    Lanza puños contra objetivos
+
+    en el orden en que han sido
+
+    fijados. 6 puños máximo.
+- id: 20518
+  en: >-
+    Libera una gran explosión
+
+    que afecta a 16 o más blancos
+
+    fijados.
+- id: 20519
+  en: >
+    Usa el indicador de Rayo para lanzar
+
+    un ataque muntidireccional. Anula
+
+    el ataque rival y dispara.
+
+    Agrega más gumi-rayos para combos.
+- id: 20520
+  en: Aumenta la velocidad de la nave.
+- id: 20521
+  en: Aumenta la energía de la nave.
+- id: 20522
+  en: >-
+    Mejora la movilidad
+
+    de la nave.
+- id: 20523
+  en: Mejora la VT de la nave.
+- id: 20524
+  en: Mejora la VT de la nave.
+- id: 20525
+  en: Mejora la VT de la nave.
+- id: 20526
+  en: Mejora la VT de la nave.
+- id: 20691
+  en: Gumis tubulares
+- id: 20692
+  en: >-
+    Agrega tubos a un material gumi
+
+    para aumentar la VT de la nave.
+- id: 20719
+  en: Set de muñecos
