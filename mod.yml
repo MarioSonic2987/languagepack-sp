@@ -689,13 +689,9 @@ assets:
         source:
           - name: msn/AL14_MS_K.png
   - name: msn/jp/BB12_GIMMICK.bar
-    method: binarc
+    method: copy
     source:
-      - name: gg_b
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/BB12_GIMMICK.png
+      - name: msn/BB12_GIMMICK.bar
   - name: msn/jp/CA02_SKATE_01.bar
     method: binarc
     source:
