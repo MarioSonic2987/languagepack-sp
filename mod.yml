@@ -537,7 +537,52 @@ assets:
     method: copy
     source:
       - name: event/layout/tt_telop.2ld
-  # HUD Field (HP, PM, Drive; etc.)
+  # Missions menus (The Land of Dragons, Olympus Coliseum, etc.)
+  - name: file/jp/gm_ps.2ld
+    method: copy
+    source:
+      - name: file/gm_ps.2ld
+  - name: file/jp/hb_co.2ld
+    method: copy
+    source:
+      - name: file/hb_co.2ld
+  - name: file/jp/he_co.2ld
+    method: copy
+    source:
+      - name: file/he_co.2ld
+  - name: file/jp/he_co2.2ld
+    method: copy
+    source:
+      - name: file/he_co2.2ld
+  - name: file/jp/he_ft.2ld
+    method: copy
+    source:
+      - name: file/he_ft.2ld
+  - name: file/jp/lm_al.2ld
+    method: copy
+    source:
+      - name: file/lm_al.2ld
+  - name: file/jp/mg_heft.2ld
+    method: copy
+    source:
+      - name: file/mg_heft.2ld
+  - name: file/jp/mg_lm_mu.2ld
+    method: copy
+    source:
+      - name: file/mg_lm_mu.2ld
+  - name: file/jp/mu_mi.2ld
+    method: copy
+    source:
+      - name: file/mu_mi.2ld
+  - name: file/jp/tt_my.2ld
+    method: copy
+    source:
+      - name: file/tt_my.2ld
+  - name: file/jp/tt_pt.2ld
+    method: copy
+    source:
+      - name: file/tt_pt.2ld
+  # HUD Field (HP, MP, Drive; etc.)
   - name: field2d/jp/al0field.2dd
     method: copy
     source:
