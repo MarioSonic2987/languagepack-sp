@@ -27,13 +27,13 @@
 - id: 492
   en: Finta
 - id: 493
-  en: Full Swing
+  en: Machada
 - id: 494
   en: Placaje
 - id: 495
-  en: Snag
+  en: Atrapar
 - id: 496
-  en: Sparkle Ray
+  en: Fumigar
 - id: 497
   en: Abrir
 - id: 498
@@ -6667,9 +6667,9 @@
   en: >-
     Sora:
 
-    Preguntemos a Will 
+    Preguntémosle a Will
     
-    cuándo zarpará ella.
+    cuándo zarpa.
 - id: 16835
   en: '{:unk0d }Libre desarrollo'
 - id: 16836
@@ -8596,7 +8596,7 @@
 
     habilidades se incrementan al subir de nivel.
 - id: 20159
-  en: '{:icon button-circle}: Menú de guardado  {:icon button-cross}:  Salir'
+  en: '{:icon button-cross}: Menú de guardado  {:icon button-circle}:  Salir'
 - id: 20168
   en: Finta
 - id: 20169

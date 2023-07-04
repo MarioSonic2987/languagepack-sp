@@ -20,6 +20,119 @@ assets:
     method: copy
     source:
       - name: msg/jp/fontinfo.bar
+  #Limits
+  - name: limit\us\aladdin.bar
+    method: copy
+    source:
+      - name: limit\aladdin.bar
+  - name: limit\us\auron.bar
+    method: copy
+    source:
+      - name: limit\auron.bar
+  - name: limit\us\beast.bar
+    method: copy
+    source:
+      - name: limit\beast.bar
+  - name: limit\us\chickenlittle.bar
+    method: copy
+    source:
+      - name: limit\chickenlittle.bar
+  - name: limit\us\donald.bar
+    method: copy
+    source:
+      - name: limit\donald.bar
+  - name: limit\us\donald2.bar
+    method: copy
+    source:
+      - name: limit\donald2.bar
+  - name: limit\us\donald2_wi.bar
+    method: copy
+    source:
+      - name: limit\donald2_wi.bar
+  - name: limit\us\donald_wi.bar
+    method: copy
+    source:
+      - name: limit\donald_wi.bar
+  - name: limit\us\genie_brave.bar
+    method: copy
+    source:
+      - name: limit\genie_brave.bar
+  - name: limit\us\genie_final.bar
+    method: copy
+    source:
+      - name: limit\genie_final.bar
+  - name: limit\us\genie_master.bar
+    method: copy
+    source:
+      - name: limit\genie_master.bar
+  - name: limit\us\genie_wisdom.bar
+    method: copy
+    source:
+      - name: limit\genie_wisdom.bar
+  - name: limit\us\goofy.bar
+    method: copy
+    source:
+      - name: limit\goofy.bar
+  - name: limit\us\goofy2.bar
+    method: copy
+    source:
+      - name: limit\goofy2.bar
+  - name: limit\us\goofy2_wi.bar
+    method: copy
+    source:
+      - name: limit\goofy2_wi.bar
+  - name: limit\us\goofy_wi.bar
+    method: copy
+    source:
+      - name: limit\goofy_wi.bar
+  - name: limit\us\jack.bar
+    method: copy
+    source:
+      - name: limit\jack.bar
+  - name: limit\us\last_alcanam.bar
+    method: copy
+    source:
+      - name: limit\last_alcanam.bar
+  - name: limit\us\peterpan.bar
+    method: copy
+    source:
+      - name: limit\peterpan.bar
+  - name: limit\us\ragnarok.bar
+    method: copy
+    source:
+      - name: limit\ragnarok.bar
+  - name: limit\us\riku.bar
+    method: copy
+    source:
+      - name: limit\riku.bar
+  - name: limit\us\simba.bar
+    method: copy
+    source:
+      - name: limit\simba.bar
+  - name: limit\us\sonic_rave.bar
+    method: copy
+    source:
+      - name: limit\sonic_rave.bar
+  - name: limit\us\sparrow.bar
+    method: copy
+    source:
+      - name: limit\sparrow.bar
+  - name: limit\us\stitch.bar
+    method: copy
+    source:
+      - name: limit\stitch.bar
+  - name: limit\us\strike_raid.bar
+    method: copy
+    source:
+      - name: limit\strike_raid.bar
+  - name: limit\us\trinity_zz.bar
+    method: copy
+    source:
+      - name: limit\trinity_zz.bar
+  - name: limit\us\tron.bar
+    method: copy
+    source:
+      - name: limit\tron.bar
   #Texts (US only)
   - name: msg/us/sys.bar
     method: binarc
@@ -538,6 +651,10 @@ assets:
     source:
       - name: event/layout/tt_telop.2ld
   # Missions menus (The Land of Dragons, Olympus Coliseum, etc.)
+  - name: file/jp/ca_na.2ld
+    method: copy
+    source:
+      - name: file/ca_na.2ld
   - name: file/jp/gm_ps.2ld
     method: copy
     source:
@@ -582,6 +699,10 @@ assets:
     method: copy
     source:
       - name: file/tt_pt.2ld
+  - name: file/jp/wm_ws.2ld
+    method: copy
+    source:
+      - name: file/wm_ws.2ld
   # HUD Field (HP, MP, Drive; etc.)
   - name: field2d/jp/al0field.2dd
     method: copy
@@ -660,6 +781,62 @@ assets:
     source:
       - name: field2d/zz0field.2dd
   #Mission Texts
+  - name: msn/jp/AL00_SKATE_01.bar
+    method: copy
+    source:
+      - name: msn/AL00_SKATE_01.bar
+  - name: msn/jp/AL10_MS102.bar
+    method: copy
+    source:
+      - name: msn/AL10_MS102.bar
+  - name: msn/jp/AL13_TRAP.bar
+    method: copy
+    source:
+      - name: msn/AL13_TRAP.bar
+  - name: msn/jp/BB12_GIMMICK.bar
+    method: copy
+    source:
+      - name: msn/BB12_GIMMICK.bar
+  - name: msn/jp/CA01_MS204.bar
+    method: copy
+    source:
+      - name: msn/CA01_MS204.bar
+  - name: msn/jp/CA02_SKATE_01.bar
+    method: copy
+    source:
+      - name: msn/CA02_SKATE_01.bar
+  - name: msn/jp/CA07_MS105.bar
+    method: copy
+    source:
+      - name: msn/CA07_MS105.bar
+  - name: msn/jp/CA09_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA09_MEDAL.bar
+  - name: msn/jp/CA09_MS104.bar
+    method: copy
+    source:
+      - name: msn/CA09_MS104.bar
+  - name: msn/jp/CA10_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA10_MEDAL.bar
+  - name: msn/jp/CA12_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA12_MEDAL.bar
+  - name: msn/jp/CA13_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA13_MEDAL.bar
+  - name: msn/jp/CA14_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA14_MEDAL.bar
+  - name: msn/jp/CA15_MEDAL.bar
+    method: copy
+    source:
+      - name: msn/CA15_MEDAL.bar
   - name: msn/jp/DC00_MS101.bar
     method: copy
     source:
@@ -672,889 +849,26 @@ assets:
     method: copy
     source:
       - name: msn/DC02_MS101.bar
-  - name: msn/jp/AL00_SKATE_01.bar
-    method: binarc
-    source:
-      - name: sk8_
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/AL00_SKATE_01.png
-  - name: msn/jp/AL14_MS_K.bar
-    method: binarc
-    source:
-      - name: gh_a
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/AL14_MS_K.png
-  - name: msn/jp/BB12_GIMMICK.bar
+  - name: msn/jp/WI02_MS103.bar
     method: copy
     source:
-      - name: msn/BB12_GIMMICK.bar
-  - name: msn/jp/CA02_SKATE_01.bar
-    method: binarc
-    source:
-      - name: sk8_
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/CA02_SKATE_01.png
-  - name: msn/jp/EH14_MS103.bar
-    method: binarc
-    source:
-      - name: gh_e
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/EH14_MS103.png
-  - name: msn/jp/HB09_SKATE_01.bar
-    method: binarc
-    source:
-      - name: sk8_
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HB09_SKATE_01.png
-  - name: msn/jp/HE_COL_1_8.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM.png
-  - name: msn/jp/HE_COL_1_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM.png
-  - name: msn/jp/HE_COL_2_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_2.png
-  - name: msn/jp/HE_COL_4_1.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_2.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_3.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_4.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_5.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_6.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_7.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_8.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_9.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_4_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_4.png
-  - name: msn/jp/HE_COL_5.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_5.png
-  - name: msn/jp/HE_COL_5_8.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_5.png
-  - name: msn/jp/HE_COL_5_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_5.png
-  - name: msn/jp/HE_COL_6_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_6.png
-  - name: msn/jp/HE_COL_8_5.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_6.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_10.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_25.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_30.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_31.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_35.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_40.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_45.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_49.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8_50.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8PP_BOSS.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COL_8TI_BOSS.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COLOSSEUM.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM.png
-  - name: msn/jp/HE_COLOSSEUM_2.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_2.png
-  - name: msn/jp/HE_COLOSSEUM_2_FOG.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_2.png
-  - name: msn/jp/HE_COLOSSEUM_3.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_3.png
-  - name: msn/jp/HE_COLOSSEUM_6.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_6.png
-  - name: msn/jp/HE_COLOSSEUM_6_FOG.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_6.png
-  - name: msn/jp/HE_COLOSSEUM_7.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_7.png
-  - name: msn/jp/HE_COLOSSEUM_8.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COLOSSEUM_8_CEL.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COLOSSEUM_8_ONLY.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COLOSSEUM_8_PP.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE_COLOSSEUM_8_TIT.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE_COLOSSEUM_8.png
-  - name: msn/jp/HE00_MS104A.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE00_MS104.png
-  - name: msn/jp/HE00_MS104B.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE00_MS104.png
-  - name: msn/jp/HE02_MS104D.bar
-    method: binarc
-    source:
-      - name: gh_h
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/HE00_MS104.png
-  - name: msn/jp/LM01_MS201.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM01_MS201.png
-  - name: msn/jp/LM01_MS201_FREE.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM01_MS201.png
-  - name: msn/jp/LM02_MS102.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM02_MS102.png
-  - name: msn/jp/LM03_MS301.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM03_MS301.png
-  - name: msn/jp/LM03_MS301_FREE.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM03_MS301.png
-  - name: msn/jp/LM04_MS103.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM04_MS103.png
-  - name: msn/jp/LM04_MS103_FREE.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM04_MS103.png
-  - name: msn/jp/LM04_MS501.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM04_MS501.png
-  - name: msn/jp/LM04_MS501_FREE.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM04_MS501.png
-  - name: msn/jp/LM09_MS401.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM09_MS401.png
-  - name: msn/jp/LM09_MS401_FREE.bar
-    method: binarc
-    source:
-      - name: gh_l
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/LM09_MS401.png
-  - name: msn/jp/MU01_MS102.bar
-    method: binarc
-    source:
-      - name: gg_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/MU01_MS102.png
-  - name: msn/jp/MU01_MS103C.bar
-    method: binarc
-    source:
-      - name: gg_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/MU01_MS102.png
-  - name: msn/jp/MU02_MS103A.bar
-    method: binarc
-    source:
-      - name: gg_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/MU01_MS102.png
-  - name: msn/jp/MU02_MS103B.bar
-    method: binarc
-    source:
-      - name: gg_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/MU01_MS102.png
-  - name: msn/jp/MU03_MS104.bar
-    method: binarc
-    source:
-      - name: gg_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/MU01_MS102.png
-  - name: msn/jp/NM09_SKATE_01.bar
-    method: binarc
-    source:
-      - name: sk8_
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/NM09_SKATE_01.png
-  - name: msn/jp/NM10_MS203.bar
-    method: binarc
-    source:
-      - name: gh_n
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/NM10_MS203.png
-  - name: msn/jp/NM10_MS203_FREE.bar
-    method: binarc
-    source:
-      - name: gh_n
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/NM10_MS203.png
-  - name: msn/jp/PO01_MS501.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO01_MS501.png
-  - name: msn/jp/PO01_MS501_FREE.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO01_MS501_FREE.png
-  - name: msn/jp/PO06_MS101.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO06_MS101.png
-  - name: msn/jp/PO06_MS101_FREE.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO06_MS101_FREE.png
-  - name: msn/jp/PO07_MS201.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO07_MS201.png
-  - name: msn/jp/PO07_MS201_FREE.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO07_MS201_FREE.png
-  - name: msn/jp/PO08_MS301.bar
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO08_MS301.png
-  - name: msn/jp/PO08_MS301_FREE.bar #Still needs to fix ct_p (REST -> TRIES)
-    method: binarc
-    source:
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO08_MS301_FREE.png
-      - name: ct_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO08_MS301_FREE_2.png
-  - name: msn/jp/PO09_MS401.bar
-    method: binarc
-    source:
-      - name: gg_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO09_MS401_2.png
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO09_MS401.png
-  - name: msn/jp/PO09_MS401_FREE.bar
-    method: binarc
-    source:
-      - name: gg_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO09_MS401_2.png
-      - name: gh_p
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/PO09_MS401.png
-  - name: msn/jp/TR02_MS102_FREE.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TR02_MS102.png
-  - name: msn/jp/TR02_MS102A.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TR02_MS102.png
-  - name: msn/jp/TR02_MS102B.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TR02_MS102.png
-  - name: msn/jp/TT04_MS00.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT04_MS01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT04_MS02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT05_MS401.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT05_MS402.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT05_MS405.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT05_MS401.png
-  - name: msn/jp/TT06_BAGGAGE_01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_BAGGAGE.png
-  - name: msn/jp/TT06_BAGGAGE_02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_BAGGAGE.png
-  - name: msn/jp/TT06_LETTER_01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_LETTER.png
-  - name: msn/jp/TT06_LETTER_02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_LETTER.png
-  - name: msn/jp/TT06_PERFORM_01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_PERFORM.png
-  - name: msn/jp/TT06_PERFORM_02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_PERFORM.png
-  - name: msn/jp/TT06_WORK_BAGGAGE.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_BAGGAGE.png
-  - name: msn/jp/TT06_WORK_LETTER.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_LETTER.png
-  - name: msn/jp/TT06_WORK_PERFORM.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT06_PERFORM.png
-  - name: msn/jp/TT07_CLEAN_01.bar #Still needs to fix ct_t (COUNT -> SWING)
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_CLEAN.png
-  - name: msn/jp/TT07_CLEAN_02.bar #Still needs to fix ct_t (COUNT -> SWING)
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_CLEAN.png
-  - name: msn/jp/TT07_POSTER_01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_POSTER.png
-  - name: msn/jp/TT07_POSTER_02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_POSTER.png
-  - name: msn/jp/TT07_SKATE_01.bar #Still needs to fix ct_e (REST -> TRIES)
-    method: binarc
-    source:
-      - name: sk8_
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_SKATE_01.png
-  - name: msn/jp/TT07_WORK_CLEAN.bar #Still needs to fix ct_t (COUNT -> SWING)
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_CLEAN.png
-  - name: msn/jp/TT07_WORK_POSTER.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_POSTER.png
-  - name: msn/jp/TT07_WORK_WORM.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_WORM.png
-  - name: msn/jp/TT07_WORM_01.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_WORM.png
-  - name: msn/jp/TT07_WORM_02.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT07_WORM.png
-  - name: msn/jp/TT12_WORK_BOX.bar
-    method: binarc
-    source:
-      - name: gh_t
-        type: imgd
-        method: imgd
-        source:
-          - name: msn/TT12_WORK_BOX.png
+      - name: msn/WI02_MS103.bar
+  - name: msn/jp/WI04_MS102C.bar
+    method: copy
+    source:
+      - name: msn/WI04_MS102C.bar
+  - name: msn/jp/WI05_MS102D.bar
+    method: copy
+    source:
+      - name: msn/WI05_MS102D.bar
+  - name: msn/jp/WI06_MS102B.bar
+    method: copy
+    source:
+      - name: msn/WI06_MS102B.bar
+  - name: msn/jp/WI07_MS102A.bar
+    method: copy
+    source:
+      - name: msn/WI07_MS102A.bar
   #Menu Tutorial Slides
   - name: menu/fm/ab_010_o.bar
     method: binarc
@@ -1822,3 +1136,944 @@ assets:
     method: copy
     source:
       - name: gumimenu/gumiedit.bar
+  # Maps
+  - name: map\jp\al00.map
+    method: copy
+    source:
+      - name: map\al00.map
+  - name: map\jp\al01.map
+    method: copy
+    source:
+      - name: map\al01.map
+  - name: map\jp\al02.map
+    method: copy
+    source:
+      - name: map\al02.map
+  - name: map\jp\al03.map
+    method: copy
+    source:
+      - name: map\al03.map
+  - name: map\jp\al04.map
+    method: copy
+    source:
+      - name: map\al04.map
+  - name: map\jp\al05.map
+    method: copy
+    source:
+      - name: map\al05.map
+  - name: map\jp\al06.map
+    method: copy
+    source:
+      - name: map\al06.map
+  - name: map\jp\al07.map
+    method: copy
+    source:
+      - name: map\al07.map
+  - name: map\jp\al09.map
+    method: copy
+    source:
+      - name: map\al09.map
+  - name: map\jp\al10.map
+    method: copy
+    source:
+      - name: map\al10.map
+  - name: map\jp\al11.map
+    method: copy
+    source:
+      - name: map\al11.map
+  - name: map\jp\al12.map
+    method: copy
+    source:
+      - name: map\al12.map
+  - name: map\jp\al13.map
+    method: copy
+    source:
+      - name: map\al13.map
+  - name: map\jp\al14.map
+    method: copy
+    source:
+      - name: map\al14.map
+  - name: map\jp\al15.map
+    method: copy
+    source:
+      - name: map\al15.map
+  - name: map\jp\bb00.map
+    method: copy
+    source:
+      - name: map\bb00.map
+  - name: map\jp\bb01.map
+    method: copy
+    source:
+      - name: map\bb01.map
+  - name: map\jp\bb02.map
+    method: copy
+    source:
+      - name: map\bb02.map
+  - name: map\jp\bb03.map
+    method: copy
+    source:
+      - name: map\bb03.map
+  - name: map\jp\bb04.map
+    method: copy
+    source:
+      - name: map\bb04.map
+  - name: map\jp\bb05.map
+    method: copy
+    source:
+      - name: map\bb05.map
+  - name: map\jp\bb06.map
+    method: copy
+    source:
+      - name: map\bb06.map
+  - name: map\jp\bb07.map
+    method: copy
+    source:
+      - name: map\bb07.map
+  - name: map\jp\bb08.map
+    method: copy
+    source:
+      - name: map\bb08.map
+  - name: map\jp\bb09.map
+    method: copy
+    source:
+      - name: map\bb09.map
+  - name: map\jp\bb10.map
+    method: copy
+    source:
+      - name: map\bb10.map
+  - name: map\jp\bb11.map
+    method: copy
+    source:
+      - name: map\bb11.map
+  - name: map\jp\bb12.map
+    method: copy
+    source:
+      - name: map\bb12.map
+  - name: map\jp\bb13.map
+    method: copy
+    source:
+      - name: map\bb13.map
+  - name: map\jp\ca00.map
+    method: copy
+    source:
+      - name: map\ca00.map
+  - name: map\jp\ca01.map
+    method: copy
+    source:
+      - name: map\ca01.map
+  - name: map\jp\ca02.map
+    method: copy
+    source:
+      - name: map\ca02.map
+  - name: map\jp\ca03.map
+    method: copy
+    source:
+      - name: map\ca03.map
+  - name: map\jp\ca04.map
+    method: copy
+    source:
+      - name: map\ca04.map
+  - name: map\jp\ca05.map
+    method: copy
+    source:
+      - name: map\ca05.map
+  - name: map\jp\ca06.map
+    method: copy
+    source:
+      - name: map\ca06.map
+  - name: map\jp\ca07.map
+    method: copy
+    source:
+      - name: map\ca07.map
+  - name: map\jp\ca08.map
+    method: copy
+    source:
+      - name: map\ca08.map
+  - name: map\jp\ca09.map
+    method: copy
+    source:
+      - name: map\ca09.map
+  - name: map\jp\ca10.map
+    method: copy
+    source:
+      - name: map\ca10.map
+  - name: map\jp\ca11.map
+    method: copy
+    source:
+      - name: map\ca11.map
+  - name: map\jp\ca12.map
+    method: copy
+    source:
+      - name: map\ca12.map
+  - name: map\jp\ca13.map
+    method: copy
+    source:
+      - name: map\ca13.map
+  - name: map\jp\ca14.map
+    method: copy
+    source:
+      - name: map\ca14.map
+  - name: map\jp\ca15.map
+    method: copy
+    source:
+      - name: map\ca15.map
+  - name: map\jp\ca16.map
+    method: copy
+    source:
+      - name: map\ca16.map
+  - name: map\jp\dc00.map
+    method: copy
+    source:
+      - name: map\dc00.map
+  - name: map\jp\dc01.map
+    method: copy
+    source:
+      - name: map\dc01.map
+  - name: map\jp\dc02.map
+    method: copy
+    source:
+      - name: map\dc02.map
+  - name: map\jp\dc03.map
+    method: copy
+    source:
+      - name: map\dc03.map
+  - name: map\jp\dc04.map
+    method: copy
+    source:
+      - name: map\dc04.map
+  - name: map\jp\dc05.map
+    method: copy
+    source:
+      - name: map\dc05.map
+  - name: map\jp\dc06.map
+    method: copy
+    source:
+      - name: map\dc06.map
+  - name: map\jp\dc07.map
+    method: copy
+    source:
+      - name: map\dc07.map
+  - name: map\jp\eh00.map
+    method: copy
+    source:
+      - name: map\eh00.map
+  - name: map\jp\eh01.map
+    method: copy
+    source:
+      - name: map\eh01.map
+  - name: map\jp\eh02.map
+    method: copy
+    source:
+      - name: map\eh02.map
+  - name: map\jp\eh03.map
+    method: copy
+    source:
+      - name: map\eh03.map
+  - name: map\jp\eh04.map
+    method: copy
+    source:
+      - name: map\eh04.map
+  - name: map\jp\eh05.map
+    method: copy
+    source:
+      - name: map\eh05.map
+  - name: map\jp\eh06.map
+    method: copy
+    source:
+      - name: map\eh06.map
+  - name: map\jp\eh07.map
+    method: copy
+    source:
+      - name: map\eh07.map
+  - name: map\jp\eh08.map
+    method: copy
+    source:
+      - name: map\eh08.map
+  - name: map\jp\eh09.map
+    method: copy
+    source:
+      - name: map\eh09.map
+  - name: map\jp\eh10.map
+    method: copy
+    source:
+      - name: map\eh10.map
+  - name: map\jp\eh11.map
+    method: copy
+    source:
+      - name: map\eh11.map
+  - name: map\jp\eh12.map
+    method: copy
+    source:
+      - name: map\eh12.map
+  - name: map\jp\eh13.map
+    method: copy
+    source:
+      - name: map\eh13.map
+  - name: map\jp\eh14.map
+    method: copy
+    source:
+      - name: map\eh14.map
+  - name: map\jp\eh15.map
+    method: copy
+    source:
+      - name: map\eh15.map
+  - name: map\jp\eh16.map
+    method: copy
+    source:
+      - name: map\eh16.map
+  - name: map\jp\eh17.map
+    method: copy
+    source:
+      - name: map\eh17.map
+  - name: map\jp\eh18.map
+    method: copy
+    source:
+      - name: map\eh18.map
+  - name: map\jp\eh19.map
+    method: copy
+    source:
+      - name: map\eh19.map
+  - name: map\jp\eh20.map
+    method: copy
+    source:
+      - name: map\eh20.map
+  - name: map\jp\eh22.map
+    method: copy
+    source:
+      - name: map\eh22.map
+  - name: map\jp\hb00.map
+    method: copy
+    source:
+      - name: map\hb00.map
+  - name: map\jp\hb01.map
+    method: copy
+    source:
+      - name: map\hb01.map
+  - name: map\jp\hb02.map
+    method: copy
+    source:
+      - name: map\hb02.map
+  - name: map\jp\hb03.map
+    method: copy
+    source:
+      - name: map\hb03.map
+  - name: map\jp\hb04.map
+    method: copy
+    source:
+      - name: map\hb04.map
+  - name: map\jp\hb05.map
+    method: copy
+    source:
+      - name: map\hb05.map
+  - name: map\jp\hb06.map
+    method: copy
+    source:
+      - name: map\hb06.map
+  - name: map\jp\hb07.map
+    method: copy
+    source:
+      - name: map\hb07.map
+  - name: map\jp\hb08.map
+    method: copy
+    source:
+      - name: map\hb08.map
+  - name: map\jp\hb09.map
+    method: copy
+    source:
+      - name: map\hb09.map
+  - name: map\jp\hb10.map
+    method: copy
+    source:
+      - name: map\hb10.map
+  - name: map\jp\hb11.map
+    method: copy
+    source:
+      - name: map\hb11.map
+  - name: map\jp\hb12.map
+    method: copy
+    source:
+      - name: map\hb12.map
+  - name: map\jp\hb13.map
+    method: copy
+    source:
+      - name: map\hb13.map
+  - name: map\jp\hb14.map
+    method: copy
+    source:
+      - name: map\hb14.map
+  - name: map\jp\hb15.map
+    method: copy
+    source:
+      - name: map\hb15.map
+  - name: map\jp\hb16.map
+    method: copy
+    source:
+      - name: map\hb16.map
+  - name: map\jp\hb17.map
+    method: copy
+    source:
+      - name: map\hb17.map
+  - name: map\jp\hb18.map
+    method: copy
+    source:
+      - name: map\hb18.map
+  - name: map\jp\hb19.map
+    method: copy
+    source:
+      - name: map\hb19.map
+  - name: map\jp\hb21.map
+    method: copy
+    source:
+      - name: map\hb21.map
+  - name: map\jp\hb22.map
+    method: copy
+    source:
+      - name: map\hb22.map
+  - name: map\jp\hb23.map
+    method: copy
+    source:
+      - name: map\hb23.map
+  - name: map\jp\hb24.map
+    method: copy
+    source:
+      - name: map\hb24.map
+  - name: map\jp\hb25.map
+    method: copy
+    source:
+      - name: map\hb25.map
+  - name: map\jp\hb26.map
+    method: copy
+    source:
+      - name: map\hb26.map
+  - name: map\jp\hb33.map
+    method: copy
+    source:
+      - name: map\hb33.map
+  - name: map\jp\hb38.map
+    method: copy
+    source:
+      - name: map\hb38.map
+  - name: map\jp\he00.map
+    method: copy
+    source:
+      - name: map\he00.map
+  - name: map\jp\he01.map
+    method: copy
+    source:
+      - name: map\he01.map
+  - name: map\jp\he02.map
+    method: copy
+    source:
+      - name: map\he02.map
+  - name: map\jp\he03.map
+    method: copy
+    source:
+      - name: map\he03.map
+  - name: map\jp\he04.map
+    method: copy
+    source:
+      - name: map\he04.map
+  - name: map\jp\he05.map
+    method: copy
+    source:
+      - name: map\he05.map
+  - name: map\jp\he06.map
+    method: copy
+    source:
+      - name: map\he06.map
+  - name: map\jp\he07.map
+    method: copy
+    source:
+      - name: map\he07.map
+  - name: map\jp\he08.map
+    method: copy
+    source:
+      - name: map\he08.map
+  - name: map\jp\he09.map
+    method: copy
+    source:
+      - name: map\he09.map
+  - name: map\jp\he10.map
+    method: copy
+    source:
+      - name: map\he10.map
+  - name: map\jp\he11.map
+    method: copy
+    source:
+      - name: map\he11.map
+  - name: map\jp\he12.map
+    method: copy
+    source:
+      - name: map\he12.map
+  - name: map\jp\he13.map
+    method: copy
+    source:
+      - name: map\he13.map
+  - name: map\jp\he14.map
+    method: copy
+    source:
+      - name: map\he14.map
+  - name: map\jp\he15.map
+    method: copy
+    source:
+      - name: map\he15.map
+  - name: map\jp\he16.map
+    method: copy
+    source:
+      - name: map\he16.map
+  - name: map\jp\he17.map
+    method: copy
+    source:
+      - name: map\he17.map
+  - name: map\jp\lk00.map
+    method: copy
+    source:
+      - name: map\lk00.map
+  - name: map\jp\lk01.map
+    method: copy
+    source:
+      - name: map\lk01.map
+  - name: map\jp\lk02.map
+    method: copy
+    source:
+      - name: map\lk02.map
+  - name: map\jp\lk03.map
+    method: copy
+    source:
+      - name: map\lk03.map
+  - name: map\jp\lk04.map
+    method: copy
+    source:
+      - name: map\lk04.map
+  - name: map\jp\lk05.map
+    method: copy
+    source:
+      - name: map\lk05.map
+  - name: map\jp\lk06.map
+    method: copy
+    source:
+      - name: map\lk06.map
+  - name: map\jp\lk07.map
+    method: copy
+    source:
+      - name: map\lk07.map
+  - name: map\jp\lk08.map
+    method: copy
+    source:
+      - name: map\lk08.map
+  - name: map\jp\lk09.map
+    method: copy
+    source:
+      - name: map\lk09.map
+  - name: map\jp\lk10.map
+    method: copy
+    source:
+      - name: map\lk10.map
+  - name: map\jp\lk11.map
+    method: copy
+    source:
+      - name: map\lk11.map
+  - name: map\jp\lk12.map
+    method: copy
+    source:
+      - name: map\lk12.map
+  - name: map\jp\lk13.map
+    method: copy
+    source:
+      - name: map\lk13.map
+  - name: map\jp\lk14.map
+    method: copy
+    source:
+      - name: map\lk14.map
+  - name: map\jp\lm00.map
+    method: copy
+    source:
+      - name: map\lm00.map
+  - name: map\jp\lm02.map
+    method: copy
+    source:
+      - name: map\lm02.map
+  - name: map\jp\lm06.map
+    method: copy
+    source:
+      - name: map\lm06.map
+  - name: map\jp\lm09.map
+    method: copy
+    source:
+      - name: map\lm09.map
+  - name: map\jp\lm10.map
+    method: copy
+    source:
+      - name: map\lm10.map
+  - name: map\jp\mu00.map
+    method: copy
+    source:
+      - name: map\mu00.map
+  - name: map\jp\mu01.map
+    method: copy
+    source:
+      - name: map\mu01.map
+  - name: map\jp\mu02.map
+    method: copy
+    source:
+      - name: map\mu02.map
+  - name: map\jp\mu03.map
+    method: copy
+    source:
+      - name: map\mu03.map
+  - name: map\jp\mu04.map
+    method: copy
+    source:
+      - name: map\mu04.map
+  - name: map\jp\mu05.map
+    method: copy
+    source:
+      - name: map\mu05.map
+  - name: map\jp\mu06.map
+    method: copy
+    source:
+      - name: map\mu06.map
+  - name: map\jp\mu07.map
+    method: copy
+    source:
+      - name: map\mu07.map
+  - name: map\jp\mu08.map
+    method: copy
+    source:
+      - name: map\mu08.map
+  - name: map\jp\mu09.map
+    method: copy
+    source:
+      - name: map\mu09.map
+  - name: map\jp\mu10.map
+    method: copy
+    source:
+      - name: map\mu10.map
+  - name: map\jp\mu11.map
+    method: copy
+    source:
+      - name: map\mu11.map
+  - name: map\jp\mu12.map
+    method: copy
+    source:
+      - name: map\mu12.map
+  - name: map\jp\nm00.map
+    method: copy
+    source:
+      - name: map\nm00.map
+  - name: map\jp\nm01.map
+    method: copy
+    source:
+      - name: map\nm01.map
+  - name: map\jp\nm02.map
+    method: copy
+    source:
+      - name: map\nm02.map
+  - name: map\jp\nm03.map
+    method: copy
+    source:
+      - name: map\nm03.map
+  - name: map\jp\nm04.map
+    method: copy
+    source:
+      - name: map\nm04.map
+  - name: map\jp\nm05.map
+    method: copy
+    source:
+      - name: map\nm05.map
+  - name: map\jp\nm06.map
+    method: copy
+    source:
+      - name: map\nm06.map
+  - name: map\jp\nm07.map
+    method: copy
+    source:
+      - name: map\nm07.map
+  - name: map\jp\nm08.map
+    method: copy
+    source:
+      - name: map\nm08.map
+  - name: map\jp\nm09.map
+    method: copy
+    source:
+      - name: map\nm09.map
+  - name: map\jp\nm10.map
+    method: copy
+    source:
+      - name: map\nm10.map
+  - name: map\jp\po00.map
+    method: copy
+    source:
+      - name: map\po00.map
+  - name: map\jp\po01.map
+    method: copy
+    source:
+      - name: map\po01.map
+  - name: map\jp\po02.map
+    method: copy
+    source:
+      - name: map\po02.map
+  - name: map\jp\po03.map
+    method: copy
+    source:
+      - name: map\po03.map
+  - name: map\jp\po04.map
+    method: copy
+    source:
+      - name: map\po04.map
+  - name: map\jp\po05.map
+    method: copy
+    source:
+      - name: map\po05.map
+  - name: map\jp\po09.map
+    method: copy
+    source:
+      - name: map\po09.map
+  - name: map\jp\tr00.map
+    method: copy
+    source:
+      - name: map\tr00.map
+  - name: map\jp\tr01.map
+    method: copy
+    source:
+      - name: map\tr01.map
+  - name: map\jp\tr02.map
+    method: copy
+    source:
+      - name: map\tr02.map
+  - name: map\jp\tr03.map
+    method: copy
+    source:
+      - name: map\tr03.map
+  - name: map\jp\tr04.map
+    method: copy
+    source:
+      - name: map\tr04.map
+  - name: map\jp\tr05.map
+    method: copy
+    source:
+      - name: map\tr05.map
+  - name: map\jp\tr06.map
+    method: copy
+    source:
+      - name: map\tr06.map
+  - name: map\jp\tr07.map
+    method: copy
+    source:
+      - name: map\tr07.map
+  - name: map\jp\tr08.map
+    method: copy
+    source:
+      - name: map\tr08.map
+  - name: map\jp\tr09.map
+    method: copy
+    source:
+      - name: map\tr09.map
+  - name: map\jp\tr10.map
+    method: copy
+    source:
+      - name: map\tr10.map
+  - name: map\jp\tr11.map
+    method: copy
+    source:
+      - name: map\tr11.map
+  - name: map\jp\tt00.map
+    method: copy
+    source:
+      - name: map\tt00.map
+  - name: map\jp\tt01.map
+    method: copy
+    source:
+      - name: map\tt01.map
+  - name: map\jp\tt02.map
+    method: copy
+    source:
+      - name: map\tt02.map
+  - name: map\jp\tt03.map
+    method: copy
+    source:
+      - name: map\tt03.map
+  - name: map\jp\tt04.map
+    method: copy
+    source:
+      - name: map\tt04.map
+  - name: map\jp\tt05.map
+    method: copy
+    source:
+      - name: map\tt05.map
+  - name: map\jp\tt06.map
+    method: copy
+    source:
+      - name: map\tt06.map
+  - name: map\jp\tt07.map
+    method: copy
+    source:
+      - name: map\tt07.map
+  - name: map\jp\tt08.map
+    method: copy
+    source:
+      - name: map\tt08.map
+  - name: map\jp\tt09.map
+    method: copy
+    source:
+      - name: map\tt09.map
+  - name: map\jp\tt10.map
+    method: copy
+    source:
+      - name: map\tt10.map
+  - name: map\jp\tt11.map
+    method: copy
+    source:
+      - name: map\tt11.map
+  - name: map\jp\tt12.map
+    method: copy
+    source:
+      - name: map\tt12.map
+  - name: map\jp\tt13.map
+    method: copy
+    source:
+      - name: map\tt13.map
+  - name: map\jp\tt14.map
+    method: copy
+    source:
+      - name: map\tt14.map
+  - name: map\jp\tt15.map
+    method: copy
+    source:
+      - name: map\tt15.map
+  - name: map\jp\tt16.map
+    method: copy
+    source:
+      - name: map\tt16.map
+  - name: map\jp\tt17.map
+    method: copy
+    source:
+      - name: map\tt17.map
+  - name: map\jp\tt18.map
+    method: copy
+    source:
+      - name: map\tt18.map
+  - name: map\jp\tt19.map
+    method: copy
+    source:
+      - name: map\tt19.map
+  - name: map\jp\tt20.map
+    method: copy
+    source:
+      - name: map\tt20.map
+  - name: map\jp\tt21.map
+    method: copy
+    source:
+      - name: map\tt21.map
+  - name: map\jp\tt22.map
+    method: copy
+    source:
+      - name: map\tt22.map
+  - name: map\jp\tt23.map
+    method: copy
+    source:
+      - name: map\tt23.map
+  - name: map\jp\tt24.map
+    method: copy
+    source:
+      - name: map\tt24.map
+  - name: map\jp\tt25.map
+    method: copy
+    source:
+      - name: map\tt25.map
+  - name: map\jp\tt26.map
+    method: copy
+    source:
+      - name: map\tt26.map
+  - name: map\jp\tt27.map
+    method: copy
+    source:
+      - name: map\tt27.map
+  - name: map\jp\tt28.map
+    method: copy
+    source:
+      - name: map\tt28.map
+  - name: map\jp\tt29.map
+    method: copy
+    source:
+      - name: map\tt29.map
+  - name: map\jp\tt30.map
+    method: copy
+    source:
+      - name: map\tt30.map
+  - name: map\jp\tt31.map
+    method: copy
+    source:
+      - name: map\tt31.map
+  - name: map\jp\tt32.map
+    method: copy
+    source:
+      - name: map\tt32.map
+  - name: map\jp\tt33.map
+    method: copy
+    source:
+      - name: map\tt33.map
+  - name: map\jp\tt34.map
+    method: copy
+    source:
+      - name: map\tt34.map
+  - name: map\jp\tt35.map
+    method: copy
+    source:
+      - name: map\tt35.map
+  - name: map\jp\tt36.map
+    method: copy
+    source:
+      - name: map\tt36.map
+  - name: map\jp\tt37.map
+    method: copy
+    source:
+      - name: map\tt37.map
+  - name: map\jp\tt38.map
+    method: copy
+    source:
+      - name: map\tt38.map
+  - name: map\jp\tt39.map
+    method: copy
+    source:
+      - name: map\tt39.map
+  - name: map\jp\tt40.map
+    method: copy
+    source:
+      - name: map\tt40.map
+  - name: map\jp\tt41.map
+    method: copy
+    source:
+      - name: map\tt41.map
+  - name: map\jp\wi00.map
+    method: copy
+    source:
+      - name: map\wi00.map
+  - name: map\jp\wi01.map
+    method: copy
+    source:
+      - name: map\wi01.map
+  - name: map\jp\wi02.map
+    method: copy
+    source:
+      - name: map\wi02.map
+  - name: map\jp\wi03.map
+    method: copy
+    source:
+      - name: map\wi03.map
+  - name: map\jp\wi04.map
+    method: copy
+    source:
+      - name: map\wi04.map
+  - name: map\jp\wi05.map
+    method: copy
+    source:
+      - name: map\wi05.map
+  - name: map\jp\wi06.map
+    method: copy
+    source:
+      - name: map\wi06.map
+  - name: map\jp\wi07.map
+    method: copy
+    source:
+      - name: map\wi07.map
