@@ -1459,7 +1459,7 @@
   en: >-
     No, les van a llevar flores, chico. {:delay 8E 00}{:clear }No sé quiénes son esos
 
-    de la Organización, {:delay 78 00}{:clear }pero te diré que hacen que los
+    de la Organización, {:delay 78 00}{:clear }pero te diré qué hacen que los
 
     piratas parezcamos gente de bien.
 - id: 10281
@@ -1640,7 +1640,7 @@
 - id: 15191
   en: ¡Queda una pieza! ¡Busca a los incorpóreos en otros lugares!
 - id: 15192
-  en: ¡Quedan dos piezas! ¡Busca a los incorpóreo en otros lugares!
+  en: ¡Quedan dos piezas! ¡Busca a los incorpóreos en otros lugares!
 - id: 15193
   en: ¡El incorpóreo ha escapado!
 - id: 15229
