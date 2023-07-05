@@ -125,6 +125,14 @@ assets:
     method: copy
     source:
       - name: limit\strike_raid.bar
+  - name: limit\us\trinity.bar
+    method: copy
+    source:
+      - name: limit\trinity.bar
+  - name: limit\us\trinity_wi.bar
+    method: copy
+    source:
+      - name: limit\trinity_wi.bar
   - name: limit\us\trinity_zz.bar
     method: copy
     source:
@@ -768,6 +776,10 @@ assets:
     method: copy
     source:
       - name: field2d/tt0field.2dd
+  - name: field2d/jp/wi0command.2dd
+    method: copy
+    source:
+      - name: field2d/wi0command.2dd
   - name: field2d/jp/wi0field.2dd
     method: copy
     source:
