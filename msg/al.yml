@@ -28,7 +28,7 @@
 - id: 48
   en: ¡Esperad! Os equivocáis.
 - id: 49
-  en: ¡Sí que eres lago!
+  en: ¡Sí que eres Iago!
 - id: 50
   en: >-
     ¡Sí, pero he cambiado!
@@ -279,9 +279,9 @@
   en: '{:unk13 F0 00 64 00}{:unk08 01 01 05}Oh, ¿en serio?'
 - id: 137
   en: >-
-    {:unk13 40 01 54 01}{:unk08 01 01 02}Ahí va, lo siente tanto
+    {:unk13 40 01 54 01}{:unk08 01 01 02}¡Ahí va, lo siente tanto
 
-    ¡que está temblando!
+    que está temblando!
 - id: 138
   en: '{:unk13 B4 00 78 00}{:unk08 01 01 05}¡Es... es... esa lámpara!'
 - id: 139
@@ -384,7 +384,7 @@
   en: >-
     {:unk13 4A 01 ED 00}{:unk08 01 01 00}Eh, lo tengo...{:clear }¿Qué hay del tesoro de
 
-    la Cueva de la Maravillas?
+    la Cueva de las Maravillas?
 - id: 162
   en: >-
     {:unk13 A2 00 11 01}{:unk08 01 01 01}Muy bien, Iago.
