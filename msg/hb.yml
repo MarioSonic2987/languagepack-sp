@@ -3423,7 +3423,7 @@
 
     {:chardelay 33 00}No, estoy muy ocupado.
 
-    {:chardelay 52 00}Seguro, ¿por qué no?
+    {:chardelay 52 00}Claro, ¿por qué no?
 - id: 19322
   en: >-
     ¿Tienes alguna página del libro de
@@ -3468,7 +3468,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A1 00}¡A batirse tocan!
+    {:chardelay A1 00}¡A luchar toca!
 - id: 20174
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3477,7 +3477,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A2 00}¡A batirse tocan!
+    {:chardelay A2 00}¡A luchar toca!
 - id: 20175
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3486,7 +3486,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A3 00}¡A batirse tocan!
+    {:chardelay A3 00}¡A luchar toca!
 - id: 20176
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3495,7 +3495,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A4 00}¡A batirse tocan!
+    {:chardelay A4 00}¡A luchar toca!
 - id: 20177
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3504,7 +3504,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A5 00}¡A batirse tocan!
+    {:chardelay A5 00}¡A luchar toca!
 - id: 20178
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3513,7 +3513,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A6 00}¡A batirse tocan!
+    {:chardelay A6 00}¡A luchar toca!
 - id: 20179
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3522,7 +3522,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A7 00}¡A batirse tocan!
+    {:chardelay A7 00}¡A luchar toca!
 - id: 20180
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3531,7 +3531,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A8 00}¡A batirse tocan!
+    {:chardelay A8 00}¡A luchar toca!
 - id: 20181
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3540,7 +3540,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay A9 00}¡A batirse tocan!
+    {:chardelay A9 00}¡A luchar toca!
 - id: 20182
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3549,7 +3549,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay AA 00}¡A batirse tocan!
+    {:chardelay AA 00}¡A luchar toca!
 - id: 20183
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3558,7 +3558,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay AB 00}¡A batirse tocan!
+    {:chardelay AB 00}¡A luchar toca!
 - id: 20184
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3567,7 +3567,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay AC 00}¡A batirse tocan!
+    {:chardelay AC 00}¡A luchar toca!
 - id: 20185
   en: >-
     {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
@@ -3576,7 +3576,7 @@
 
     {:chardelay 33 00}Ahora no.
 
-    {:chardelay AD 00}¡A batirse tocan!
+    {:chardelay AD 00}¡A luchar toca!
 - id: 20239
   en: >-
     Un dispositivo de control y almacenamiento
@@ -3676,8 +3676,8 @@
   en: ¡Encuentra al verdadero antes de que sea tarde!
 - id: 21761
   en: >-
-    {:unk08 02 00 06}Battle Sephiroth again?
+    {:unk08 02 00 06}¿Quieres combatir contra Sephiroth?
 
-    {:chardelay 33 00}Not right now.
+    {:chardelay 33 00}Ahora no.
 
-    {:chardelay 00 13}I'm ready for a fight!
+    {:chardelay 00 13}¡Luchemos!

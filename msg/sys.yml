@@ -913,9 +913,9 @@
 - id: 1257
   en: Hacer juguetes
 - id: 1258
-  en: Acceder al ordenador
+  en: '{:width 90}Acceder al ordenador'
 - id: 1259
-  en: Acceder al ordenador
+  en: '{:width 90}Acceder al ordenador'
 - id: 1283
   en: '¿?'
 - id: 1284
@@ -2503,7 +2503,7 @@
 - id: 8052
   en: Muestra la VT actual del enemigo.
 - id: 8058
-  en: Acceder al ordenador
+  en: '{:width 90}Acceder al ordenador'
 - id: 8143
   en: Aceptar
 - id: 8144
