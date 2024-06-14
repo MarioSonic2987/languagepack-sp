@@ -865,6 +865,10 @@ assets:
     method: copy
     source:
       - name: msn/HB09_SKATE_01.bar
+  - name: msn/jp/HB17_MS405.bar
+    method: copy
+    source:
+      - name: msn/HB17_MS405.bar
   - name: msn/jp/NM09_SKATE_01.bar
     method: copy
     source:
