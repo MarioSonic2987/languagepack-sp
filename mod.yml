@@ -1049,10 +1049,94 @@ assets:
     method: copy
     source:
       - name: msn/TT05_MS405.bar
+  - name: msn/jp/TT06_BAGGAGE_01.bar
+    method: copy
+    source:
+      - name: msn/TT06_BAGGAGE_01.bar
+  - name: msn/jp/TT06_BAGGAGE_02.bar
+    method: copy
+    source:
+      - name: msn/TT06_BAGGAGE_02.bar
+  - name: msn/jp/TT06_LETTER_01.bar
+    method: copy
+    source:
+      - name: msn/TT06_LETTER_01.bar
+  - name: msn/jp/TT06_LETTER_02.bar
+    method: copy
+    source:
+      - name: msn/TT06_LETTER_02.bar
+  - name: msn/jp/TT06_PERFORM_01.bar
+    method: copy
+    source:
+      - name: msn/TT06_PERFORM_01.bar
+  - name: msn/jp/TT06_PERFORM_02.bar
+    method: copy
+    source:
+      - name: msn/TT06_PERFORM_02.bar
+  - name: msn/jp/TT06_WORK_BAGGAGE.bar
+    method: copy
+    source:
+      - name: msn/TT06_WORK_BAGGAGE.bar
+  - name: msn/jp/TT06_WORK_LETTER.bar
+    method: copy
+    source:
+      - name: msn/TT06_WORK_LETTER.bar
+  - name: msn/jp/TT06_WORK_PERFORM.bar
+    method: copy
+    source:
+      - name: msn/TT06_WORK_PERFORM.bar
+  - name: msn/jp/TT07_CLEAN_01.bar
+    method: copy
+    source:
+      - name: msn/TT07_CLEAN_01.bar
+  - name: msn/jp/TT07_CLEAN_02.bar
+    method: copy
+    source:
+      - name: msn/TT07_CLEAN_02.bar
+  - name: msn/jp/TT07_POSTER_01.bar
+    method: copy
+    source:
+      - name: msn/TT07_POSTER_01.bar
+  - name: msn/jp/TT07_POSTER_02.bar
+    method: copy
+    source:
+      - name: msn/TT07_POSTER_02.bar
   - name: msn/jp/TT07_SKATE_01.bar
     method: copy
     source:
       - name: msn/TT07_SKATE_01.bar
+  - name: msn/jp/TT07_WORK_CLEAN.bar
+    method: copy
+    source:
+      - name: msn/TT07_WORK_CLEAN.bar
+  - name: msn/jp/TT07_WORK_POSTER.bar
+    method: copy
+    source:
+      - name: msn/TT07_WORK_POSTER.bar
+  - name: msn/jp/TT07_WORK_WORM.bar
+    method: copy
+    source:
+      - name: msn/TT07_WORK_WORM.bar
+  - name: msn/jp/TT07_WORM_01.bar
+    method: copy
+    source:
+      - name: msn/TT07_WORM_01.bar
+  - name: msn/jp/TT07_WORM_02.bar
+    method: copy
+    source:
+      - name: msn/TT07_WORM_02.bar
+  - name: msn/jp/TT10_WORK_MIRROR.bar
+    method: copy
+    source:
+      - name: msn/TT10_WORK_MIRROR.bar
+  - name: msn/jp/TT10_WORK_TIMBER.bar
+    method: copy
+    source:
+      - name: msn/TT10_WORK_TIMBER.bar
+  - name: msn/jp/TT12_WORK_BOX.bar
+    method: copy
+    source:
+      - name: msn/TT12_WORK_BOX.bar
   - name: msn/jp/WI02_MS103.bar
     method: copy
     source:
