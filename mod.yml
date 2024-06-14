@@ -861,6 +861,10 @@ assets:
     method: copy
     source:
       - name: msn/DC02_MS101.bar
+  - name: msn/jp/EH26_MS108.bar
+    method: copy
+    source:
+      - name: msn/EH26_MS108.bar
   - name: msn/jp/HB04_MS403.bar
     method: copy
     source:
@@ -877,6 +881,14 @@ assets:
     method: copy
     source:
       - name: msn/HB17_MS405.bar
+  - name: msn/jp/HE08_MS106.bar
+    method: copy
+    source:
+      - name: msn/HE08_MS106.bar
+  - name: msn/jp/HE17_MS105.bar
+    method: copy
+    source:
+      - name: msn/HE17_MS105.bar
   - name: msn/jp/MU01_MS102.bar
     method: copy
     source:
