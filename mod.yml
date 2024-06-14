@@ -861,6 +861,10 @@ assets:
     method: copy
     source:
       - name: msn/DC02_MS101.bar
+  - name: msn/jp/HB04_MS403.bar
+    method: copy
+    source:
+      - name: msn/HB04_MS403.bar
   - name: msn/jp/HB09_SKATE_01.bar
     method: copy
     source:
