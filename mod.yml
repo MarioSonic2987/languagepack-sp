@@ -793,6 +793,10 @@ assets:
     source:
       - name: field2d/zz0field.2dd
   #Mission Texts
+  - name: msn/jp/A_SCT_GIMMICK.bar
+    method: copy
+    source:
+      - name: msn/A_SCT_GIMMICK.bar
   - name: msn/jp/AL00_SKATE_01.bar
     method: copy
     source:
@@ -917,6 +921,22 @@ assets:
     method: copy
     source:
       - name: msn/HB17_MS405.bar
+  - name: msn/jp/HE00_MS104A.bar
+    method: copy
+    source:
+      - name: msn/HE00_MS104A.bar
+  - name: msn/jp/HE00_MS104B.bar
+    method: copy
+    source:
+      - name: msn/HE00_MS104B.bar
+  - name: msn/jp/HE02_MS104C.bar
+    method: copy
+    source:
+      - name: msn/HE02_MS104C.bar
+  - name: msn/jp/HE02_MS104D.bar
+    method: copy
+    source:
+      - name: msn/HE02_MS104D.bar
   - name: msn/jp/HE08_MS106.bar
     method: copy
     source:
@@ -985,6 +1005,26 @@ assets:
     method: copy
     source:
       - name: msn/PO09_MS401_FREE.bar
+  - name: msn/jp/TR01_MS101.bar
+    method: copy
+    source:
+      - name: msn/TR01_MS101.bar
+  - name: msn/jp/TR02_MS102_FREE.bar
+    method: copy
+    source:
+      - name: msn/TR02_MS102_FREE.bar
+  - name: msn/jp/TR03_MS103.bar
+    method: copy
+    source:
+      - name: msn/TR03_MS103.bar
+  - name: msn/jp/TR04_MS104.bar
+    method: copy
+    source:
+      - name: msn/TR04_MS104.bar
+  - name: msn/jp/TR07_MS203.bar
+    method: copy
+    source:
+      - name: msn/TR07_MS203.bar
   - name: msn/jp/TT04_MS00.bar
     method: copy
     source:
