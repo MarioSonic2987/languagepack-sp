@@ -865,6 +865,30 @@ assets:
     method: copy
     source:
       - name: msn/HB09_SKATE_01.bar
+  - name: msn/jp/NM09_SKATE_01.bar
+    method: copy
+    source:
+      - name: msn/NM09_SKATE_01.bar
+  - name: msn/jp/PO01_MS501_FREE.bar
+    method: copy
+    source:
+      - name: msn/PO01_MS501_FREE.bar
+  - name: msn/jp/PO06_MS101_FREE.bar
+    method: copy
+    source:
+      - name: msn/PO06_MS101_FREE.bar
+  - name: msn/jp/PO07_MS201_FREE.bar
+    method: copy
+    source:
+      - name: msn/PO07_MS201_FREE.bar
+  - name: msn/jp/PO08_MS301_FREE.bar
+    method: copy
+    source:
+      - name: msn/PO08_MS301_FREE.bar
+  - name: msn/jp/PO09_MS401_FREE.bar
+    method: copy
+    source:
+      - name: msn/PO09_MS401_FREE.bar
   - name: msn/jp/TT04_MS00.bar
     method: copy
     source:
