@@ -877,6 +877,34 @@ assets:
     method: copy
     source:
       - name: msn/HB17_MS405.bar
+  - name: msn/jp/MU01_MS102.bar
+    method: copy
+    source:
+      - name: msn/MU01_MS102.bar
+  - name: msn/jp/MU01_MS103C.bar
+    method: copy
+    source:
+      - name: msn/MU01_MS103C.bar
+  - name: msn/jp/MU02_MS103A.bar
+    method: copy
+    source:
+      - name: msn/MU02_MS103A.bar
+  - name: msn/jp/MU02_MS103B.bar
+    method: copy
+    source:
+      - name: msn/MU02_MS103B.bar
+  - name: msn/jp/MU03_MS104.bar
+    method: copy
+    source:
+      - name: msn/MU03_MS104.bar
+  - name: msn/jp/MU07_MS106.bar
+    method: copy
+    source:
+      - name: msn/MU07_MS106.bar
+  - name: msn/jp/MU09_MS108.bar
+    method: copy
+    source:
+      - name: msn/MU09_MS108.bar
   - name: msn/jp/NM09_SKATE_01.bar
     method: copy
     source:
