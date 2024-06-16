@@ -1590,7 +1590,7 @@
 
     Permite cambiar más rápido a los miembros del grupo.{:clear }{:unk0f 00 00 00 00 00}Úsalo en las batallas en las que no es
 
-    es posible abrir los menús.
+    posible abrir los menús.
 - id: 17630
   en: >-
     {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
