@@ -1161,6 +1161,10 @@ assets:
     method: copy
     source:
       - name: msn/TT12_WORK_BOX.bar
+  - name: msn/jp/TT36_WORK_FIGURE.bar
+    method: copy
+    source:
+      - name: msn/TT36_WORK_FIGURE.bar
   - name: msn/jp/WI02_MS103.bar
     method: copy
     source:
