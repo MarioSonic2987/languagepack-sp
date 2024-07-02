@@ -1444,6 +1444,10 @@ assets:
     method: copy
     source:
       - name: gumibattle/advice_040.imz
+  - name: gumibattle/sprite/jp/sprite.bar
+    method: copy
+    source:
+      - name: gumibattle/sprite/sprite.bar
   - name: gumimenu/fm/gumimenu.bar
     method: copy
     source:
