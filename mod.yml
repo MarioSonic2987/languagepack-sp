@@ -720,10 +720,18 @@ assets:
     method: copy
     source:
       - name: field2d/al0field.2dd
+  - name: field2d/jp/bb0command.2dd
+    method: copy
+    source:
+      - name: field2d/bb0command.2dd
   - name: field2d/jp/bb0field.2dd
     method: copy
     source:
       - name: field2d/bb0field.2dd
+  - name: field2d/jp/ca0command.2dd
+    method: copy
+    source:
+      - name: field2d/ca0command.2dd
   - name: field2d/jp/ca0field.2dd
     method: copy
     source:
@@ -772,6 +780,10 @@ assets:
     method: copy
     source:
       - name: field2d/he0field.2dd
+  - name: field2d/jp/lk0command.2dd
+    method: copy
+    source:
+      - name: field2d/lk0command.2dd
   - name: field2d/jp/lk0field.2dd
     method: copy
     source:
@@ -784,6 +796,10 @@ assets:
     method: copy
     source:
       - name: field2d/lm0field.2dd
+  - name: field2d/jp/mu0command.2dd
+    method: copy
+    source:
+      - name: field2d/mu0command.2dd
   - name: field2d/jp/mu0field.2dd
     method: copy
     source:
@@ -800,6 +816,10 @@ assets:
     method: copy
     source:
       - name: field2d/po0field.2dd
+  - name: field2d/jp/tr0command.2dd
+    method: copy
+    source:
+      - name: field2d/tr0command.2dd
   - name: field2d/jp/tr0field.2dd
     method: copy
     source:
