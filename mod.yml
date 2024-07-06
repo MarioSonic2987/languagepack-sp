@@ -712,6 +712,10 @@ assets:
     source:
       - name: file/wm_ws.2ld
   # HUD Field (HP, MP, Drive; etc.)
+  - name: field2d/jp/al0command.2dd
+    method: copy
+    source:
+      - name: field2d/al0command.2dd
   - name: field2d/jp/al0field.2dd
     method: copy
     source:
@@ -728,6 +732,14 @@ assets:
     method: copy
     source:
       - name: field2d/dc0field.2dd
+  - name: field2d/jp/dc0command.2dd
+    method: copy
+    source:
+      - name: field2d/dc0command.2dd
+  - name: field2d/jp/dc1command.2dd
+    method: copy
+    source:
+      - name: field2d/dc1command.2dd
   - name: field2d/jp/di0field.2dd
     method: copy
     source:
@@ -740,6 +752,18 @@ assets:
     method: copy
     source:
       - name: field2d/es0field.2dd
+  - name: field2d/jp/hb0command.2dd
+    method: copy
+    source:
+      - name: field2d/hb0command.2dd
+  - name: field2d/jp/hb1command.2dd
+    method: copy
+    source:
+      - name: field2d/hb1command.2dd
+  - name: field2d/jp/hb2command.2dd
+    method: copy
+    source:
+      - name: field2d/hb2command.2dd
   - name: field2d/jp/hb0field.2dd
     method: copy
     source:
@@ -752,6 +776,10 @@ assets:
     method: copy
     source:
       - name: field2d/lk0field.2dd
+  - name: field2d/jp/lm0command.2dd
+    method: copy
+    source:
+      - name: field2d/lm0command.2dd
   - name: field2d/jp/lm0field.2dd
     method: copy
     source:
@@ -764,6 +792,10 @@ assets:
     method: copy
     source:
       - name: field2d/nm0field.2dd
+  - name: field2d/jp/po0command.2dd
+    method: copy
+    source:
+      - name: field2d/po0command.2dd
   - name: field2d/jp/po0field.2dd
     method: copy
     source:
