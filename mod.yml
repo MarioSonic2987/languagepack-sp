@@ -752,6 +752,14 @@ assets:
     method: copy
     source:
       - name: field2d/di0field.2dd
+  - name: field2d/jp/eh0command.2dd
+    method: copy
+    source:
+      - name: field2d/eh0command.2dd
+  - name: field2d/jp/eh1command.2dd
+    method: copy
+    source:
+      - name: field2d/eh1command.2dd
   - name: field2d/jp/eh0field.2dd
     method: copy
     source:
@@ -776,6 +784,14 @@ assets:
     method: copy
     source:
       - name: field2d/hb0field.2dd
+  - name: field2d/jp/he0command.2dd
+    method: copy
+    source:
+      - name: field2d/he0command.2dd
+  - name: field2d/jp/he1command.2dd
+    method: copy
+    source:
+      - name: field2d/he1command.2dd
   - name: field2d/jp/he0field.2dd
     method: copy
     source:
@@ -804,6 +820,14 @@ assets:
     method: copy
     source:
       - name: field2d/mu0field.2dd
+  - name: field2d/jp/nm0command.2dd
+    method: copy
+    source:
+      - name: field2d/nm0command.2dd
+  - name: field2d/jp/nm1command.2dd
+    method: copy
+    source:
+      - name: field2d/nm1command.2dd
   - name: field2d/jp/nm0field.2dd
     method: copy
     source:
@@ -824,6 +848,34 @@ assets:
     method: copy
     source:
       - name: field2d/tr0field.2dd
+  - name: field2d/jp/tt0command.2dd
+    method: copy
+    source:
+      - name: field2d/tt0command.2dd
+  - name: field2d/jp/tt1command.2dd
+    method: copy
+    source:
+      - name: field2d/tt1command.2dd
+  - name: field2d/jp/tt2command.2dd
+    method: copy
+    source:
+      - name: field2d/tt2command.2dd
+  - name: field2d/jp/tt3command.2dd
+    method: copy
+    source:
+      - name: field2d/tt3command.2dd
+  - name: field2d/jp/tt4command.2dd
+    method: copy
+    source:
+      - name: field2d/tt4command.2dd
+  - name: field2d/jp/tt5command.2dd
+    method: copy
+    source:
+      - name: field2d/tt5command.2dd
+  - name: field2d/jp/tt6command.2dd
+    method: copy
+    source:
+      - name: field2d/tt6command.2dd
   - name: field2d/jp/tt0field.2dd
     method: copy
     source:
@@ -836,10 +888,18 @@ assets:
     method: copy
     source:
       - name: field2d/wi0field.2dd
+  - name: field2d/jp/wm0command.2dd
+    method: copy
+    source:
+      - name: field2d/wm0command.2dd
   - name: field2d/jp/wm0field.2dd
     method: copy
     source:
       - name: field2d/wm0field.2dd
+  - name: field2d/jp/zz0command.2dd
+    method: copy
+    source:
+      - name: field2d/zz0command.2dd
   - name: field2d/jp/zz0field.2dd
     method: copy
     source:
