@@ -1061,6 +1061,10 @@ assets:
     method: copy
     source:
       - name: msn/HE08_MS106.bar
+  - name: msn/jp/HE08_MS107.bar
+    method: copy
+    source:
+      - name: msn/HE08_MS107.bar
   - name: msn/jp/HE17_MS105.bar
     method: copy
     source:
@@ -1121,26 +1125,50 @@ assets:
     method: copy
     source:
       - name: msn/NM09_SKATE_01.bar
+  - name: msn/jp/NM10_MS203.bar
+    method: copy
+    source:
+      - name: msn/NM10_MS203.bar
   - name: msn/jp/NM10_MS203_FREE.bar
     method: copy
     source:
       - name: msn/NM10_MS203_FREE.bar
+  - name: msn/jp/PO01_MS501.bar
+    method: copy
+    source:
+      - name: msn/PO01_MS501.bar
   - name: msn/jp/PO01_MS501_FREE.bar
     method: copy
     source:
       - name: msn/PO01_MS501_FREE.bar
+  - name: msn/jp/PO06_MS101.bar
+    method: copy
+    source:
+      - name: msn/PO06_MS101.bar
   - name: msn/jp/PO06_MS101_FREE.bar
     method: copy
     source:
       - name: msn/PO06_MS101_FREE.bar
+  - name: msn/jp/PO07_MS201.bar
+    method: copy
+    source:
+      - name: msn/PO07_MS201.bar
   - name: msn/jp/PO07_MS201_FREE.bar
     method: copy
     source:
       - name: msn/PO07_MS201_FREE.bar
+  - name: msn/jp/PO08_MS301.bar
+    method: copy
+    source:
+      - name: msn/PO08_MS301.bar
   - name: msn/jp/PO08_MS301_FREE.bar
     method: copy
     source:
       - name: msn/PO08_MS301_FREE.bar
+  - name: msn/jp/PO09_MS401.bar
+    method: copy
+    source:
+      - name: msn/PO09_MS401.bar
   - name: msn/jp/PO09_MS401_FREE.bar
     method: copy
     source:
