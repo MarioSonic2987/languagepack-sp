@@ -699,6 +699,10 @@ assets:
     method: copy
     source:
       - name: file/mu_mi.2ld
+  - name: file/jp/tr_tm.2ld
+    method: copy
+    source:
+      - name: file/tr_tm.2ld
   - name: file/jp/tt_my.2ld
     method: copy
     source:
