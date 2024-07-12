@@ -699,6 +699,10 @@ assets:
     method: copy
     source:
       - name: file/mu_mi.2ld
+  - name: file/jp/tr_cy.2ld
+    method: copy
+    source:
+      - name: file/tr_cy.2ld
   - name: file/jp/tr_tm.2ld
     method: copy
     source:
@@ -1069,6 +1073,10 @@ assets:
     method: copy
     source:
       - name: msn/HE17_MS105.bar
+  - name: msn/jp/LK02_MS102.bar
+    method: copy
+    source:
+      - name: msn/LK02_MS102.bar
   - name: msn/jp/LM01_MS201_FREE.bar
     method: copy
     source:
@@ -1177,6 +1185,14 @@ assets:
     method: copy
     source:
       - name: msn/TR01_MS101.bar
+  - name: msn/jp/TR02_MS102A.bar
+    method: copy
+    source:
+      - name: msn/TR02_MS102A.bar
+  - name: msn/jp/TR02_MS102B.bar
+    method: copy
+    source:
+      - name: msn/TR02_MS102B.bar
   - name: msn/jp/TR02_MS102_FREE.bar
     method: copy
     source:
@@ -2541,3 +2557,8 @@ assets:
     method: copy
     source:
       - name: map\wi07.map
+  #Objects
+  - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
+    method: copy
+    source:
+      - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
