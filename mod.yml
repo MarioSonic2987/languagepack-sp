@@ -1045,6 +1045,10 @@ assets:
     method: copy
     source:
       - name: msn/HB17_MS405.bar
+  - name: msn/jp/HB33_FM_LEX.bar
+    method: copy
+    source:
+      - name: msn/HB33_FM_LEX.bar
   - name: msn/jp/HE00_MS104A.bar
     method: copy
     source:
@@ -2558,6 +2562,10 @@ assets:
     source:
       - name: map\wi07.map
   #Objects
+  - name: obj\B_EX370.a.fm
+    method: copy
+    source:
+      - name: obj\B_EX370.a.fm
   - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
     method: copy
     source:
