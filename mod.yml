@@ -1057,6 +1057,174 @@ assets:
     method: copy
     source:
       - name: msn/HB33_FM_LEX.bar
+  - name: msn/jp/HE_COL_1_8.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_1_8.bar
+  - name: msn/jp/HE_COL_1_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_1_10.bar
+  - name: msn/jp/HE_COL_2_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_2_10.bar
+  - name: msn/jp/HE_COL_4_1.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_1.bar
+  - name: msn/jp/HE_COL_4_2.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_2.bar
+  - name: msn/jp/HE_COL_4_3.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_3.bar
+  - name: msn/jp/HE_COL_4_4.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_4.bar
+  - name: msn/jp/HE_COL_4_5.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_5.bar
+  - name: msn/jp/HE_COL_4_6.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_6.bar
+  - name: msn/jp/HE_COL_4_7.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_7.bar
+  - name: msn/jp/HE_COL_4_8.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_8.bar
+  - name: msn/jp/HE_COL_4_9.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_9.bar
+  - name: msn/jp/HE_COL_4_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_4_10.bar
+  - name: msn/jp/HE_COL_5.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_5.bar
+  - name: msn/jp/HE_COL_5_8.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_5_8.bar
+  - name: msn/jp/HE_COL_5_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_5_10.bar
+  - name: msn/jp/HE_COL_6_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_6_10.bar
+  - name: msn/jp/HE_COL_8_5.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_5.bar
+  - name: msn/jp/HE_COL_8_6.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_6.bar
+  - name: msn/jp/HE_COL_8_10.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_10.bar
+  - name: msn/jp/HE_COL_8_25.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_25.bar
+  - name: msn/jp/HE_COL_8_30.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_30.bar
+  - name: msn/jp/HE_COL_8_31.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_31.bar
+  - name: msn/jp/HE_COL_8_35.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_35.bar
+  - name: msn/jp/HE_COL_8_40.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_40.bar
+  - name: msn/jp/HE_COL_8_45.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_45.bar
+  - name: msn/jp/HE_COL_8_49.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_49.bar
+  - name: msn/jp/HE_COL_8_50.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8_50.bar
+  - name: msn/jp/HE_COL_8PP_BOSS.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8PP_BOSS.bar
+  - name: msn/jp/HE_COL_8TI_BOSS.bar
+    method: copy
+    source:
+      - name: msn/HE_COL_8TI_BOSS.bar
+  - name: msn/jp/HE_COLOSSEUM.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM.bar
+  - name: msn/jp/HE_COLOSSEUM_2.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_2.bar
+  - name: msn/jp/HE_COLOSSEUM_2_FOG.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_2_FOG.bar
+  - name: msn/jp/HE_COLOSSEUM_3.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_3.bar
+  - name: msn/jp/HE_COLOSSEUM_6.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_6.bar
+  - name: msn/jp/HE_COLOSSEUM_6_FOG.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_6_FOG.bar
+  - name: msn/jp/HE_COLOSSEUM_7.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_7.bar
+  - name: msn/jp/HE_COLOSSEUM_8.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_8.bar
+  - name: msn/jp/HE_COLOSSEUM_8_CEL.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_8_CEL.bar
+  - name: msn/jp/HE_COLOSSEUM_8_ONLY.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_8_ONLY.bar
+  - name: msn/jp/HE_COLOSSEUM_8_PP.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_8_PP.bar
+  - name: msn/jp/HE_COLOSSEUM_8_TIT.bar
+    method: copy
+    source:
+      - name: msn/HE_COLOSSEUM_8_TIT.bar
   - name: msn/jp/HE00_MS104A.bar
     method: copy
     source:
