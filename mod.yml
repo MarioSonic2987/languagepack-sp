@@ -953,6 +953,10 @@ assets:
     method: copy
     source:
       - name: msn/AL14_MS_S.bar
+  - name: msn/jp/AL14_MS202.bar
+    method: copy
+    source:
+      - name: msn/AL14_MS202.bar
   - name: msn/jp/AL14_MS202_FREE.bar
     method: copy
     source:
@@ -1045,6 +1049,10 @@ assets:
     method: copy
     source:
       - name: msn/HB17_MS405.bar
+  - name: msn/jp/HB32_FM_VEX.bar
+    method: copy
+    source:
+      - name: msn/HB32_FM_VEX.bar
   - name: msn/jp/HB33_FM_LEX.bar
     method: copy
     source:
