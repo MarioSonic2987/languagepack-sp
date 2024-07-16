@@ -2854,6 +2854,10 @@ assets:
     method: copy
     source:
       - name: obj\F_TT010_WI.a.fm
+  - name: obj\N_HB040_BTL.a.fm
+    method: copy
+    source:
+      - name: obj\N_HB040_BTL.a.fm
   - name: obj\P_EX100_SIDECAR.a.fm
     method: copy
     source:
@@ -2862,6 +2866,10 @@ assets:
     method: copy
     source:
       - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
+  - name: obj\P_EX350.a.fm
+    method: copy
+    source:
+      - name: obj\P_EX350.a.fm
   - name: obj\PO06_PLAYER.a.fm
     method: copy
     source:
