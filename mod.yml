@@ -93,6 +93,10 @@ assets:
     method: copy
     source:
       - name: limit\last_alcanam.bar
+  - name: limit\us\mulan.bar
+    method: copy
+    source:
+      - name: limit\mulan.bar
   - name: limit\us\peterpan.bar
     method: copy
     source:
@@ -2814,6 +2818,10 @@ assets:
     method: copy
     source:
       - name: obj\B_EX370.a.fm
+  - name: obj\F_NM180.a.fm
+    method: copy
+    source:
+      - name: obj\F_NM180.a.fm
   - name: obj\F_TT010.a.fm
     method: copy
     source:
@@ -2854,3 +2862,15 @@ assets:
     method: copy
     source:
       - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
+  - name: obj\PO06_PLAYER.a.fm
+    method: copy
+    source:
+      - name: obj\PO06_PLAYER.a.fm
+  - name: obj\PO07_PLAYER.a.fm
+    method: copy
+    source:
+      - name: obj\PO07_PLAYER.a.fm
+  - name: obj\PO08_PLAYER.a.fm
+    method: copy
+    source:
+      - name: obj\PO08_PLAYER.a.fm
