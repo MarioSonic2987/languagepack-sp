@@ -921,6 +921,10 @@ assets:
     method: copy
     source:
       - name: msn/AL00_SKATE_01.bar
+  - name: msn/jp/AL10_KINOKO_LEX.bar
+    method: copy
+    source:
+      - name: msn/AL10_KINOKO_LEX.bar
   - name: msn/jp/AL10_MS102.bar
     method: copy
     source:
@@ -2762,6 +2766,10 @@ assets:
     method: copy
     source:
       - name: obj\B_EX370.a.fm
+  - name: obj\P_EX100_SIDECAR.a.fm
+    method: copy
+    source:
+      - name: obj\P_EX100_SIDECAR.a.fm
   - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
     method: copy
     source:
