@@ -2814,6 +2814,38 @@ assets:
     method: copy
     source:
       - name: obj\B_EX370.a.fm
+  - name: obj\F_TT010.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010.a.fm
+  - name: obj\F_TT010_AL.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_AL.a.fm
+  - name: obj\F_TT010_CA.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_CA.a.fm
+  - name: obj\F_TT010_HE.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_HE.a.fm
+  - name: obj\F_TT010_NM.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_NM.a.fm
+  - name: obj\F_TT010_SORA.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_SORA.a.fm
+  - name: obj\F_TT010_TR.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_TR.a.fm
+  - name: obj\F_TT010_WI.a.fm
+    method: copy
+    source:
+      - name: obj\F_TT010_WI.a.fm
   - name: obj\P_EX100_SIDECAR.a.fm
     method: copy
     source:
