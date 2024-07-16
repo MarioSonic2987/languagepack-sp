@@ -969,6 +969,10 @@ assets:
     method: copy
     source:
       - name: msn/BB12_GIMMICK.bar
+  - name: msn/jp/BB13_KINOKO_XAL.bar
+    method: copy
+    source:
+      - name: msn/BB13_KINOKO_XAL.bar
   - name: msn/jp/CA01_MS204.bar
     method: copy
     source:
@@ -997,6 +1001,10 @@ assets:
     method: copy
     source:
       - name: msn/CA12_MEDAL.bar
+  - name: msn/jp/CA13_KINOKO_LUX.bar
+    method: copy
+    source:
+      - name: msn/CA13_KINOKO_LUX.bar
   - name: msn/jp/CA13_MEDAL.bar
     method: copy
     source:
@@ -1021,6 +1029,10 @@ assets:
     method: copy
     source:
       - name: msn/DC02_MS101.bar
+  - name: msn/jp/EH03_KINOKO_XEM.bar
+    method: copy
+    source:
+      - name: msn/EH03_KINOKO_XEM.bar
   - name: msn/jp/EH14_MS103.bar
     method: copy
     source:
@@ -1037,6 +1049,10 @@ assets:
     method: copy
     source:
       - name: msn/EH26_MS108.bar
+  - name: msn/jp/HB04_KINOKO_DEM.bar
+    method: copy
+    source:
+      - name: msn/HB04_KINOKO_DEM.bar
   - name: msn/jp/HB04_MS403.bar
     method: copy
     source:
@@ -1253,6 +1269,10 @@ assets:
     method: copy
     source:
       - name: msn/HE08_MS107.bar
+  - name: msn/jp/HE17_KINOKO_ZEX.bar
+    method: copy
+    source:
+      - name: msn/HE17_KINOKO_ZEX.bar
   - name: msn/jp/HE17_MS105.bar
     method: copy
     source:
@@ -1325,6 +1345,10 @@ assets:
     method: copy
     source:
       - name: msn/MU07_MS106.bar
+  - name: msn/jp/MU09_KINOKO_VEX.bar
+    method: copy
+    source:
+      - name: msn/MU09_KINOKO_VEX.bar
   - name: msn/jp/MU09_MS108.bar
     method: copy
     source:
@@ -1333,6 +1357,10 @@ assets:
     method: copy
     source:
       - name: msn/NM00_MS202.bar
+  - name: msn/jp/NM07_KINOKO_XIG.bar
+    method: copy
+    source:
+      - name: msn/NM07_KINOKO_XIG.bar
   - name: msn/jp/NM09_SKATE_01.bar
     method: copy
     source:
@@ -1525,10 +1553,30 @@ assets:
     method: copy
     source:
       - name: msn/TT12_WORK_BOX.bar
+  - name: msn/jp/TT14_KINOKO_LAR.bar
+    method: copy
+    source:
+      - name: msn/TT14_KINOKO_LAR.bar
+  - name: msn/jp/TT25_KINOKO_AXE.bar
+    method: copy
+    source:
+      - name: msn/TT25_KINOKO_AXE.bar
+  - name: msn/jp/TT36_KINOKO_SAI.bar
+    method: copy
+    source:
+      - name: msn/TT36_KINOKO_SAI.bar
   - name: msn/jp/TT36_WORK_FIGURE.bar
     method: copy
     source:
       - name: msn/TT36_WORK_FIGURE.bar
+  - name: msn/jp/TT40_KINOKO_AXE.bar
+    method: copy
+    source:
+      - name: msn/TT40_KINOKO_AXE.bar
+  - name: msn/jp/WI02_KINOKO_MAR.bar
+    method: copy
+    source:
+      - name: msn/WI02_KINOKO_MAR.bar    
   - name: msn/jp/WI02_MS103.bar
     method: copy
     source:
