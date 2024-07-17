@@ -3023,10 +3023,6 @@ assets:
     method: copy
     source:
       - name: menu/jm_photo/hb13.bin
-  - name: menu/fm/jm_photo/hb14.bin
-    method: copy
-    source:
-      - name: menu/jm_photo/hb14.bin
   - name: menu/fm/jm_photo/hb21.bin
     method: copy
     source:
@@ -3039,10 +3035,14 @@ assets:
     method: copy
     source:
       - name: menu/jm_photo/hb23.bin
-  - name: menu/fm/jm_photo/hb24.bin
+  - name: menu/fm/jm_photo/hb31.bin
     method: copy
     source:
-      - name: menu/jm_photo/hb24.bin
+      - name: menu/jm_photo/hb31.bin
+  - name: menu/fm/jm_photo/hb32.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb32.bin
   - name: menu/fm/jm_photo/he11.bin
     method: copy
     source:
