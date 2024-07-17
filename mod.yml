@@ -2882,3 +2882,420 @@ assets:
     method: copy
     source:
       - name: obj\PO08_PLAYER.a.fm
+  # Jiminy's Journal photos
+  - name: menu/fm/jm_photo/al11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al11.bin
+  - name: menu/fm/jm_photo/al12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al12.bin
+  - name: menu/fm/jm_photo/al13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al13.bin
+  - name: menu/fm/jm_photo/al14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al14.bin
+  - name: menu/fm/jm_photo/al21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al21.bin
+  - name: menu/fm/jm_photo/al22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al22.bin
+  - name: menu/fm/jm_photo/al23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al23.bin
+  - name: menu/fm/jm_photo/al24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/al24.bin
+  - name: menu/fm/jm_photo/bb11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb11.bin
+  - name: menu/fm/jm_photo/bb12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb12.bin
+  - name: menu/fm/jm_photo/bb13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb13.bin
+  - name: menu/fm/jm_photo/bb14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb14.bin
+  - name: menu/fm/jm_photo/bb21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb21.bin
+  - name: menu/fm/jm_photo/bb22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb22.bin
+  - name: menu/fm/jm_photo/bb23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb23.bin
+  - name: menu/fm/jm_photo/bb24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/bb24.bin
+  - name: menu/fm/jm_photo/ca11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca11.bin
+  - name: menu/fm/jm_photo/ca12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca12.bin
+  - name: menu/fm/jm_photo/ca13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca13.bin
+  - name: menu/fm/jm_photo/ca14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca14.bin
+  - name: menu/fm/jm_photo/ca21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca21.bin
+  - name: menu/fm/jm_photo/ca22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca22.bin
+  - name: menu/fm/jm_photo/ca23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca23.bin
+  - name: menu/fm/jm_photo/ca24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/ca24.bin
+  - name: menu/fm/jm_photo/dc11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/dc11.bin
+  - name: menu/fm/jm_photo/dc12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/dc12.bin
+  - name: menu/fm/jm_photo/dc13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/dc13.bin
+  - name: menu/fm/jm_photo/dc14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/dc14.bin
+  - name: menu/fm/jm_photo/eh11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/eh11.bin
+  - name: menu/fm/jm_photo/eh12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/eh12.bin
+  - name: menu/fm/jm_photo/eh13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/eh13.bin
+  - name: menu/fm/jm_photo/eh14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/eh14.bin
+  - name: menu/fm/jm_photo/hb11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb11.bin
+  - name: menu/fm/jm_photo/hb12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb12.bin
+  - name: menu/fm/jm_photo/hb13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb13.bin
+  - name: menu/fm/jm_photo/hb14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb14.bin
+  - name: menu/fm/jm_photo/hb21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb21.bin
+  - name: menu/fm/jm_photo/hb22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb22.bin
+  - name: menu/fm/jm_photo/hb23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb23.bin
+  - name: menu/fm/jm_photo/hb24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/hb24.bin
+  - name: menu/fm/jm_photo/he11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he11.bin
+  - name: menu/fm/jm_photo/he12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he12.bin
+  - name: menu/fm/jm_photo/he13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he13.bin
+  - name: menu/fm/jm_photo/he14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he14.bin
+  - name: menu/fm/jm_photo/he21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he21.bin
+  - name: menu/fm/jm_photo/he22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he22.bin
+  - name: menu/fm/jm_photo/he23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he23.bin
+  - name: menu/fm/jm_photo/he24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/he24.bin
+  - name: menu/fm/jm_photo/lk11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk11.bin
+  - name: menu/fm/jm_photo/lk12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk12.bin
+  - name: menu/fm/jm_photo/lk13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk13.bin
+  - name: menu/fm/jm_photo/lk14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk14.bin
+  - name: menu/fm/jm_photo/lk21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk21.bin
+  - name: menu/fm/jm_photo/lk22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk22.bin
+  - name: menu/fm/jm_photo/lk23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk23.bin
+  - name: menu/fm/jm_photo/lk24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lk24.bin
+  - name: menu/fm/jm_photo/lm11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lm11.bin
+  - name: menu/fm/jm_photo/lm12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lm12.bin
+  - name: menu/fm/jm_photo/lm13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lm13.bin
+  - name: menu/fm/jm_photo/lm14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/lm14.bin
+  - name: menu/fm/jm_photo/mu11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu11.bin
+  - name: menu/fm/jm_photo/mu12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu12.bin
+  - name: menu/fm/jm_photo/mu13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu13.bin
+  - name: menu/fm/jm_photo/mu14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu14.bin
+  - name: menu/fm/jm_photo/mu21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu21.bin
+  - name: menu/fm/jm_photo/mu22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu22.bin
+  - name: menu/fm/jm_photo/mu23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu23.bin
+  - name: menu/fm/jm_photo/mu24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/mu24.bin
+  - name: menu/fm/jm_photo/nm11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm11.bin
+  - name: menu/fm/jm_photo/nm12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm12.bin
+  - name: menu/fm/jm_photo/nm13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm13.bin
+  - name: menu/fm/jm_photo/nm14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm14.bin
+  - name: menu/fm/jm_photo/nm21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm21.bin
+  - name: menu/fm/jm_photo/nm22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm22.bin
+  - name: menu/fm/jm_photo/nm23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm23.bin
+  - name: menu/fm/jm_photo/nm24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/nm24.bin
+  - name: menu/fm/jm_photo/po11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po11.bin
+  - name: menu/fm/jm_photo/po12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po12.bin
+  - name: menu/fm/jm_photo/po13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po13.bin
+  - name: menu/fm/jm_photo/po14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po14.bin
+  - name: menu/fm/jm_photo/po21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po21.bin
+  - name: menu/fm/jm_photo/po22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po22.bin
+  - name: menu/fm/jm_photo/po23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po23.bin
+  - name: menu/fm/jm_photo/po24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/po24.bin
+  - name: menu/fm/jm_photo/tr11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr11.bin
+  - name: menu/fm/jm_photo/tr12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr12.bin
+  - name: menu/fm/jm_photo/tr13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr13.bin
+  - name: menu/fm/jm_photo/tr14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr14.bin
+  - name: menu/fm/jm_photo/tr21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr21.bin
+  - name: menu/fm/jm_photo/tr22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr22.bin
+  - name: menu/fm/jm_photo/tr23.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr23.bin
+  - name: menu/fm/jm_photo/tr24.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tr24.bin
+  - name: menu/fm/jm_photo/tt11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt11.bin
+  - name: menu/fm/jm_photo/tt12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt12.bin
+  - name: menu/fm/jm_photo/tt21.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt21.bin
+  - name: menu/fm/jm_photo/tt22.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt22.bin
+  - name: menu/fm/jm_photo/tt31.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt31.bin
+  - name: menu/fm/jm_photo/tt32.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt32.bin
+  - name: menu/fm/jm_photo/tt41.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt41.bin
+  - name: menu/fm/jm_photo/tt42.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/tt42.bin
+  - name: menu/fm/jm_photo/wi11.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/wi11.bin
+  - name: menu/fm/jm_photo/wi12.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/wi12.bin
+  - name: menu/fm/jm_photo/wi13.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/wi13.bin
+  - name: menu/fm/jm_photo/wi14.bin
+    method: copy
+    source:
+      - name: menu/jm_photo/wi14.bin
