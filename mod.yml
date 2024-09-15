@@ -2866,6 +2866,14 @@ assets:
     method: copy
     source:
       - name: obj\P_EX100_TR_LIGHTCYCLE.a.fm
+  - name: obj\P_EX200.a.fm
+    method: copy
+    source:
+      - name: obj\P_EX200.a.fm
+  - name: obj\P_EX220.a.fm
+    method: copy
+    source:
+      - name: obj\P_EX220.a.fm
   - name: obj\P_EX350.a.fm
     method: copy
     source:
