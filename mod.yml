@@ -4,141 +4,141 @@ originalAuthor: OpenKH open-source assets
 description: Generate Spanish game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to Spanish.
 assets:
   #Fonts
-  - name: msg/jp/fontimage.bar
+  - name: msg/us/fontimage.bar
     method: copy
     source:
       - name: msg/fontimage.bar
-  - name: msg/jp/fontinfo.bar
+  - name: msg/us/fontinfo.bar
     method: copy
     source:
       - name: msg/fontinfo.bar
   #Limits
-  - name: limit\fm\aladdin.bar
+  - name: limit\us\aladdin.bar
     method: copy
     source:
       - name: limit\aladdin.bar
-  - name: limit\fm\auron.bar
+  - name: limit\us\auron.bar
     method: copy
     source:
       - name: limit\auron.bar
-  - name: limit\fm\beast.bar
+  - name: limit\us\beast.bar
     method: copy
     source:
       - name: limit\beast.bar
-  - name: limit\fm\chickenlittle.bar
+  - name: limit\us\chickenlittle.bar
     method: copy
     source:
       - name: limit\chickenlittle.bar
-  - name: limit\fm\donald.bar
+  - name: limit\us\donald.bar
     method: copy
     source:
       - name: limit\donald.bar
-  - name: limit\fm\donald2.bar
+  - name: limit\us\donald2.bar
     method: copy
     source:
       - name: limit\donald2.bar
-  - name: limit\fm\donald2_wi.bar
+  - name: limit\us\donald2_wi.bar
     method: copy
     source:
       - name: limit\donald2_wi.bar
-  - name: limit\fm\donald_wi.bar
+  - name: limit\us\donald_wi.bar
     method: copy
     source:
       - name: limit\donald_wi.bar
-  - name: limit\fm\genie_brave.bar
+  - name: limit\us\genie_brave.bar
     method: copy
     source:
       - name: limit\genie_brave.bar
-  - name: limit\fm\genie_final.bar
+  - name: limit\us\genie_final.bar
     method: copy
     source:
       - name: limit\genie_final.bar
-  - name: limit\fm\genie_master.bar
+  - name: limit\us\genie_master.bar
     method: copy
     source:
       - name: limit\genie_master.bar
-  - name: limit\fm\genie_wisdom.bar
+  - name: limit\us\genie_wisdom.bar
     method: copy
     source:
       - name: limit\genie_wisdom.bar
-  - name: limit\fm\goofy.bar
+  - name: limit\us\goofy.bar
     method: copy
     source:
       - name: limit\goofy.bar
-  - name: limit\fm\goofy2.bar
+  - name: limit\us\goofy2.bar
     method: copy
     source:
       - name: limit\goofy2.bar
-  - name: limit\fm\goofy2_wi.bar
+  - name: limit\us\goofy2_wi.bar
     method: copy
     source:
       - name: limit\goofy2_wi.bar
-  - name: limit\fm\goofy_wi.bar
+  - name: limit\us\goofy_wi.bar
     method: copy
     source:
       - name: limit\goofy_wi.bar
-  - name: limit\fm\jack.bar
+  - name: limit\us\jack.bar
     method: copy
     source:
       - name: limit\jack.bar
-  - name: limit\fm\last_alcanam.bar
+  - name: limit\us\last_alcanam.bar
     method: copy
     source:
       - name: limit\last_alcanam.bar
-  - name: limit\fm\mulan.bar
+  - name: limit\us\mulan.bar
     method: copy
     source:
       - name: limit\mulan.bar
-  - name: limit\fm\peterpan.bar
+  - name: limit\us\peterpan.bar
     method: copy
     source:
       - name: limit\peterpan.bar
-  - name: limit\fm\ragnarok.bar
+  - name: limit\us\ragnarok.bar
     method: copy
     source:
       - name: limit\ragnarok.bar
-  - name: limit\fm\riku.bar
+  - name: limit\us\riku.bar
     method: copy
     source:
       - name: limit\riku.bar
-  - name: limit\fm\simba.bar
+  - name: limit\us\simba.bar
     method: copy
     source:
       - name: limit\simba.bar
-  - name: limit\fm\sonic_rave.bar
+  - name: limit\us\sonic_rave.bar
     method: copy
     source:
       - name: limit\sonic_rave.bar
-  - name: limit\fm\sparrow.bar
+  - name: limit\us\sparrow.bar
     method: copy
     source:
       - name: limit\sparrow.bar
-  - name: limit\fm\stitch.bar
+  - name: limit\us\stitch.bar
     method: copy
     source:
       - name: limit\stitch.bar
-  - name: limit\fm\strike_raid.bar
+  - name: limit\us\strike_raid.bar
     method: copy
     source:
       - name: limit\strike_raid.bar
-  - name: limit\fm\trinity.bar
+  - name: limit\us\trinity.bar
     method: copy
     source:
       - name: limit\trinity.bar
-  - name: limit\fm\trinity_wi.bar
+  - name: limit\us\trinity_wi.bar
     method: copy
     source:
       - name: limit\trinity_wi.bar
-  - name: limit\fm\trinity_zz.bar
+  - name: limit\us\trinity_zz.bar
     method: copy
     source:
       - name: limit\trinity_zz.bar
-  - name: limit\fm\tron.bar
+  - name: limit\us\tron.bar
     method: copy
     source:
       - name: limit\tron.bar
   #Texts (US only)
-  - name: msg/jp/sys.bar
+  - name: msg/us/sys.bar
     method: binarc
     source:
       - name: sys
@@ -152,7 +152,7 @@ assets:
         method: copy
         source:
           - name: msg/md_m/dummy
-  - name: msg/jp/title.bar
+  - name: msg/us/title.bar
     method: binarc
     source:
       - name: titl
@@ -166,7 +166,7 @@ assets:
         method: copy
         source:
           - name: msg/md_m/dummy
-  - name: msg/jp/al.bar
+  - name: msg/us/al.bar
     method: binarc
     source:
       - name: al
@@ -180,7 +180,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/al.png
-  - name: msg/jp/bb.bar
+  - name: msg/us/bb.bar
     method: binarc
     source:
       - name: bb
@@ -194,7 +194,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/bb.png
-  - name: msg/jp/ca.bar
+  - name: msg/us/ca.bar
     method: binarc
     source:
       - name: ca
@@ -208,7 +208,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/ca.png
-  - name: msg/jp/dc.bar
+  - name: msg/us/dc.bar
     method: binarc
     source:
       - name: dc
@@ -222,7 +222,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/dc.png
-  - name: msg/jp/di.bar
+  - name: msg/us/di.bar
     method: binarc
     source:
       - name: di
@@ -236,7 +236,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/default.png
-  - name: msg/jp/eh.bar
+  - name: msg/us/eh.bar
     method: binarc
     source:
       - name: eh
@@ -250,7 +250,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/eh.png
-  - name: msg/jp/es.bar
+  - name: msg/us/es.bar
     method: binarc
     source:
       - name: es
@@ -264,7 +264,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/default.png
-  - name: msg/jp/gumi.bar
+  - name: msg/us/gumi.bar
     method: binarc
     source:
       - name: gumi
@@ -278,7 +278,7 @@ assets:
         method: copy
         source:
           - name: msg/md_m/dummy
-  - name: msg/jp/hb.bar
+  - name: msg/us/hb.bar
     method: binarc
     source:
       - name: hb
@@ -292,7 +292,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/hb.png
-  - name: msg/jp/he.bar
+  - name: msg/us/he.bar
     method: binarc
     source:
       - name: he
@@ -306,7 +306,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/he.png
-  - name: msg/jp/jm.bar
+  - name: msg/us/jm.bar
     method: binarc
     source:
       - name: jm
@@ -320,7 +320,7 @@ assets:
         method: copy
         source:
           - name: msg/md_m/dummy
-  - name: msg/jp/lk.bar
+  - name: msg/us/lk.bar
     method: binarc
     source:
       - name: lk
@@ -334,7 +334,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/lk.png
-  - name: msg/jp/lm.bar
+  - name: msg/us/lm.bar
     method: binarc
     source:
       - name: lm
@@ -348,7 +348,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/lm.png
-  - name: msg/jp/mu.bar
+  - name: msg/us/mu.bar
     method: binarc
     source:
       - name: mu
@@ -362,7 +362,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/mu.png
-  - name: msg/jp/nm.bar
+  - name: msg/us/nm.bar
     method: binarc
     source:
       - name: nm
@@ -376,7 +376,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/nm.png
-  - name: msg/jp/po.bar
+  - name: msg/us/po.bar
     method: binarc
     source:
       - name: po
@@ -390,7 +390,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/po.png
-  - name: msg/jp/tr.bar
+  - name: msg/us/tr.bar
     method: binarc
     source:
       - name: tr
@@ -404,7 +404,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/tr.png
-  - name: msg/jp/tt.bar
+  - name: msg/us/tt.bar
     method: binarc
     source:
       - name: tt
@@ -418,7 +418,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/tt.png
-  - name: msg/jp/wi.bar
+  - name: msg/us/wi.bar
     method: binarc
     source:
       - name: wi
@@ -432,7 +432,7 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/wi.png
-  - name: msg/jp/wm.bar
+  - name: msg/us/wm.bar
     method: binarc
     source:
       - name: wm
@@ -447,16 +447,16 @@ assets:
         source:
           - name: msg/md_m/wm.png
   #Texts (JP Only)
-  - name: msg/jp/sys.bar
+  - name: msg/us/sys.bar
     method: binarc
     source:
       - name: sys
         type: list
         method: kh2msg
         source:
-          - name: msg/jp/sys.yml
+          - name: msg/us/sys.yml
             language: en
-  - name: msg/jp/title.bar
+  - name: msg/us/title.bar
     method: binarc
     source:
       - name: titl
@@ -465,7 +465,7 @@ assets:
         source:
           - name: msg/title.yml
             language: en
-  - name: msg/jp/al.bar
+  - name: msg/us/al.bar
     method: binarc
     source:
       - name: al
@@ -474,7 +474,7 @@ assets:
         source:
           - name: msg/al.yml
             language: en
-  - name: msg/jp/bb.bar
+  - name: msg/us/bb.bar
     method: binarc
     source:
       - name: bb
@@ -483,7 +483,7 @@ assets:
         source:
           - name: msg/bb.yml
             language: en
-  - name: msg/jp/ca.bar
+  - name: msg/us/ca.bar
     method: binarc
     source:
       - name: ca
@@ -492,7 +492,7 @@ assets:
         source:
           - name: msg/ca.yml
             language: en
-  - name: msg/jp/dc.bar
+  - name: msg/us/dc.bar
     method: binarc
     source:
       - name: dc
@@ -501,7 +501,7 @@ assets:
         source:
           - name: msg/dc.yml
             language: en
-  - name: msg/jp/di.bar
+  - name: msg/us/di.bar
     method: binarc
     source:
       - name: di
@@ -510,7 +510,7 @@ assets:
         source:
           - name: msg/di.yml
             language: en
-  - name: msg/jp/eh.bar
+  - name: msg/us/eh.bar
     method: binarc
     source:
       - name: eh
@@ -519,7 +519,7 @@ assets:
         source:
           - name: msg/eh.yml
             language: en
-  - name: msg/jp/es.bar
+  - name: msg/us/es.bar
     method: binarc
     source:
       - name: es
@@ -528,7 +528,7 @@ assets:
         source:
           - name: msg/es.yml
             language: en
-  - name: msg/jp/gumi.bar
+  - name: msg/us/gumi.bar
     method: binarc
     source:
       - name: gumi
@@ -537,7 +537,7 @@ assets:
         source:
           - name: msg/gumi.yml
             language: en
-  - name: msg/jp/hb.bar
+  - name: msg/us/hb.bar
     method: binarc
     source:
       - name: hb
@@ -546,7 +546,7 @@ assets:
         source:
           - name: msg/hb.yml
             language: en
-  - name: msg/jp/he.bar
+  - name: msg/us/he.bar
     method: binarc
     source:
       - name: he
@@ -555,7 +555,7 @@ assets:
         source:
           - name: msg/he.yml
             language: en
-  - name: msg/jp/jm.bar
+  - name: msg/us/jm.bar
     method: binarc
     source:
       - name: jm
@@ -564,7 +564,7 @@ assets:
         source:
           - name: msg/jm.yml
             language: en
-  - name: msg/jp/lk.bar
+  - name: msg/us/lk.bar
     method: binarc
     source:
       - name: lk
@@ -573,7 +573,7 @@ assets:
         source:
           - name: msg/lk.yml
             language: en
-  - name: msg/jp/lm.bar
+  - name: msg/us/lm.bar
     method: binarc
     source:
       - name: lm
@@ -582,7 +582,7 @@ assets:
         source:
           - name: msg/lm.yml
             language: en
-  - name: msg/jp/mu.bar
+  - name: msg/us/mu.bar
     method: binarc
     source:
       - name: mu
@@ -591,7 +591,7 @@ assets:
         source:
           - name: msg/mu.yml
             language: en
-  - name: msg/jp/nm.bar
+  - name: msg/us/nm.bar
     method: binarc
     source:
       - name: nm
@@ -600,7 +600,7 @@ assets:
         source:
           - name: msg/nm.yml
             language: en
-  - name: msg/jp/po.bar
+  - name: msg/us/po.bar
     method: binarc
     source:
       - name: po
@@ -609,7 +609,7 @@ assets:
         source:
           - name: msg/po.yml
             language: en
-  - name: msg/jp/tr.bar
+  - name: msg/us/tr.bar
     method: binarc
     source:
       - name: tr
@@ -618,7 +618,7 @@ assets:
         source:
           - name: msg/tr.yml
             language: en
-  - name: msg/jp/tt.bar
+  - name: msg/us/tt.bar
     method: binarc
     source:
       - name: tt
@@ -627,7 +627,7 @@ assets:
         source:
           - name: msg/tt.yml
             language: en
-  - name: msg/jp/wi.bar
+  - name: msg/us/wi.bar
     method: binarc
     source:
       - name: wi
@@ -636,7 +636,7 @@ assets:
         source:
           - name: msg/wi.yml
             language: en
-  - name: msg/jp/wm.bar
+  - name: msg/us/wm.bar
     method: binarc
     source:
       - name: wm
