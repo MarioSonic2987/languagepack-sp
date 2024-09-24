@@ -2806,6 +2806,14 @@ assets:
     source:
       - name: map\wi07.map
   #Objects
+  - name: obj\B_EX170_LAST.a.fm
+    method: copy
+    source:
+      - name: obj\B_EX170_LAST.a.fm
+  - name: obj\B_EX170_LAST_LV99.a.fm
+    method: copy
+    source:
+      - name: obj\B_EX170_LAST_LV99.a.fm
   - name: obj\B_EX370.a.fm
     method: copy
     source:
