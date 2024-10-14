@@ -1,0 +1,48 @@
+//Swap Skateboard X & O Controls (JP -> English)
+patch=1,EE,1036E4A0,extended,000001C6
+patch=1,EE,1036E4A8,extended,000001FD
+patch=1,EE,1036E4B0,extended,00000202
+patch=1,EE,1036E4B8,extended,00000200
+patch=1,EE,1036E4C0,extended,000001FE
+patch=1,EE,1036E4C8,extended,00000200
+
+//Swap Swimming X & O Controls (JP -> English)
+patch=1,EE,1036E3A8,extended,000001A5
+patch=1,EE,1036E3AC,extended,000001A6
+
+//Swap Piglet Minigame X/O Controls (JP -> English)
+patch=1,EE,0036E4FA,extended,00000004
+
+//Swap Gift Wrapping X/O Controls (JP -> English)
+patch=1,EE,E105000A,extended,01C5FEF0
+patch=1,EE,01C5FC20,extended,0000000E
+patch=1,EE,01C5FC28,extended,00000001
+patch=1,EE,11C5FC2E,extended,0000019B
+patch=1,EE,21C5FC30,extended,00040001
+patch=1,EE,11C5FF18,extended,0000FC20
+
+//Swap Mickey's X & O Controls (JP -> English)
+patch=1,EE,1036E490,extended,000001C6
+patch=1,EE,1036E498,extended,00000001
+
+//Swap Riku's X & O Controls During Final Xemnas (JP -> English)
+patch=1,EE,1036E520,extended,000001C6
+patch=1,EE,1036E528,extended,0000028C
+
+//Swap Trinity Limit X/O Controls (JP -> English) (Glitches Command Menu visuals)
+patch=1,EE,0036E4D2,extended,00000004
+
+//Swap Chicken Little's FPS Mode Controls (JP -> English) (Glitches Command Menu visuals)
+patch=1,EE,2036E4E8,extended,00020213
+patch=1,EE,0036E4EE,extended,00000003
+patch=1,EE,2036E4F0,extended,00040212
+
+//Swap Stitch's Ohana! Controls (JP -> English) (Glitches Command Menu visuals)
+patch=1,EE,2036E4E0,extended,0003020E
+patch=1,EE,2036E4E4,extended,0004020D
+
+//Swap Light Cycle X & O Controls (JP -> English) (Skipped in Rando)
+patch=1,EE,1036E510,extended,00000193
+patch=1,EE,1036E518,extended,00000191
+
+//Swap Sidecar Glider X & O Controls (JP -> English) (Skipped in Rando)
